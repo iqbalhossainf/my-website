@@ -1,6 +1,5 @@
 import json
 import os
-import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -33,16 +32,6 @@ def save_json(path: Path, data: dict) -> None:
         json.dumps(data, indent=2, ensure_ascii=False),
         encoding="utf-8"
     )
-
-def extract_json_block(text: str) -> dict:
-    text = text.strip()
-    text = text.replace("```json", "").replace("```", "").strip()
-
-    match = re.search(r"\{.*\}", text, re.DOTALL)
-    if not match:
-        raise ValueError("No JSON object found in AI response")
-
-    return json.loads(match.group(0))
 
 def fetch_market_data() -> dict:
     ids = ",".join([coin_id for coin_id, _ in TICKER_COINS])
@@ -126,37 +115,61 @@ Use web search.
 Pick the 8 most useful stories for a crypto media homepage.
 Prefer important market, ETF, regulation, exchange, Bitcoin, Ethereum, stablecoin, and major altcoin stories.
 Avoid duplicates.
-Write short SEO-friendly summaries in simple English.
-
-Return ONLY valid JSON with exactly this structure:
-{
-  "headlines": [
-    "headline 1",
-    "headline 2",
-    "headline 3",
-    "headline 4",
-    "headline 5"
-  ],
-  "articles": [
-    {
-      "title": "string",
-      "summary": "2 sentence summary",
-      "source": "publisher name",
-      "url": "https://example.com/article",
-      "published_at": "YYYY-MM-DD or ISO timestamp if known",
-      "category": "Market"
-    }
-  ]
-}
+Write short SEO friendly summaries in simple English.
 """
 
     response = client.responses.create(
         model=OPENAI_MODEL,
         tools=[{"type": "web_search"}],
         input=prompt,
+        text={
+            "format": {
+                "type": "json_schema",
+                "name": "crypto_news",
+                "strict": True,
+                "schema": {
+                    "type": "object",
+                    "properties": {
+                        "headlines": {
+                            "type": "array",
+                            "items": {"type": "string"},
+                            "minItems": 0,
+                            "maxItems": 5
+                        },
+                        "articles": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "title": {"type": "string"},
+                                    "summary": {"type": "string"},
+                                    "source": {"type": "string"},
+                                    "url": {"type": "string"},
+                                    "published_at": {"type": "string"},
+                                    "category": {"type": "string"}
+                                },
+                                "required": [
+                                    "title",
+                                    "summary",
+                                    "source",
+                                    "url",
+                                    "published_at",
+                                    "category"
+                                ],
+                                "additionalProperties": False
+                            },
+                            "minItems": 0,
+                            "maxItems": 8
+                        }
+                    },
+                    "required": ["headlines", "articles"],
+                    "additionalProperties": False
+                }
+            }
+        }
     )
 
-    parsed = extract_json_block(response.output_text)
+    parsed = json.loads(response.output_text)
 
     return {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
