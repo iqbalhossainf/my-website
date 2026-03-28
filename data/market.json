@@ -1,6 +1,105 @@
 {
-  "updated_at": null,
-  "prices": [],
-  "bullish": [],
-  "bearish": []
+  "updated_at": "2026-03-28 22:31 UTC",
+  "prices": [
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "price": 66713,
+      "change_24h": 1.1168566412324221
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "price": 2009.99,
+      "change_24h": 1.3140824452317477
+    },
+    {
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "price": 615.77,
+      "change_24h": 0.9514827200748712
+    },
+    {
+      "id": "solana",
+      "symbol": "SOL",
+      "price": 82.76,
+      "change_24h": 0.16086161680226044
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "price": 1.34,
+      "change_24h": 1.4653365272785819
+    },
+    {
+      "id": "cardano",
+      "symbol": "ADA",
+      "price": 0.248645,
+      "change_24h": 1.3518867632840759
+    }
+  ],
+  "bullish": [
+    {
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 1.72,
+      "change_24h": 109.90790090884563
+    },
+    {
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.01362593,
+      "change_24h": 19.370061929083032
+    },
+    {
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.051051,
+      "change_24h": 12.539127494698699
+    },
+    {
+      "name": "Canton",
+      "symbol": "CC",
+      "price": 0.156068,
+      "change_24h": 10.810359706456357
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price": 0.271935,
+      "change_24h": 6.648558739380203
+    }
+  ],
+  "bearish": [
+    {
+      "name": "Aptos",
+      "symbol": "APT",
+      "price": 0.934744,
+      "change_24h": -4.776430635629584
+    },
+    {
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "price": 0.810811,
+      "change_24h": -2.762701421056198
+    },
+    {
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.02583569,
+      "change_24h": -1.846916081826661
+    },
+    {
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.00814221,
+      "change_24h": -1.802754819508724
+    },
+    {
+      "name": "Beldex",
+      "symbol": "BDX",
+      "price": 0.081714,
+      "change_24h": -1.457275432035437
+    }
+  ]
 }
