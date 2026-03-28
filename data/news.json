@@ -1,5 +1,6 @@
 {
   "updated_at": null,
   "headlines": [],
-  "articles": []
+  "articles": [],
+  "last_error": "No JSON object found in AI response"
 }
