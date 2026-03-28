@@ -1,9 +1,11 @@
 import json
 import os
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
+from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
@@ -11,6 +13,7 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 COINGECKO_BASE = "https://api.coingecko.com/api/v3"
 COINGECKO_KEY = os.getenv("COINGECKO_DEMO_API_KEY", "")
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5-mini")
 
 HEADERS = {}
 if COINGECKO_KEY:
@@ -26,7 +29,20 @@ TICKER_COINS = [
 ]
 
 def save_json(path: Path, data: dict) -> None:
-    path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    path.write_text(
+        json.dumps(data, indent=2, ensure_ascii=False),
+        encoding="utf-8"
+    )
+
+def extract_json_block(text: str) -> dict:
+    text = text.strip()
+    text = text.replace("```json", "").replace("```", "").strip()
+
+    match = re.search(r"\{.*\}", text, re.DOTALL)
+    if not match:
+        raise ValueError("No JSON object found in AI response")
+
+    return json.loads(match.group(0))
 
 def fetch_market_data() -> dict:
     ids = ",".join([coin_id for coin_id, _ in TICKER_COINS])
@@ -96,6 +112,58 @@ def fetch_market_data() -> dict:
         "bearish": bearish,
     }
 
+def fetch_ai_news() -> dict:
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise ValueError("OPENAI_API_KEY is missing")
+
+    client = OpenAI(api_key=api_key)
+
+    prompt = """
+Find the latest important crypto news from roughly the last 24 hours.
+
+Use web search.
+Pick the 8 most useful stories for a crypto media homepage.
+Prefer important market, ETF, regulation, exchange, Bitcoin, Ethereum, stablecoin, and major altcoin stories.
+Avoid duplicates.
+Write short SEO-friendly summaries in simple English.
+
+Return ONLY valid JSON with exactly this structure:
+{
+  "headlines": [
+    "headline 1",
+    "headline 2",
+    "headline 3",
+    "headline 4",
+    "headline 5"
+  ],
+  "articles": [
+    {
+      "title": "string",
+      "summary": "2 sentence summary",
+      "source": "publisher name",
+      "url": "https://example.com/article",
+      "published_at": "YYYY-MM-DD or ISO timestamp if known",
+      "category": "Market"
+    }
+  ]
+}
+"""
+
+    response = client.responses.create(
+        model=OPENAI_MODEL,
+        tools=[{"type": "web_search"}],
+        input=prompt,
+    )
+
+    parsed = extract_json_block(response.output_text)
+
+    return {
+        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "headlines": parsed.get("headlines", [])[:5],
+        "articles": parsed.get("articles", [])[:8],
+    }
+
 def load_existing_news() -> dict:
     news_file = DATA_DIR / "news.json"
     if news_file.exists():
@@ -114,7 +182,12 @@ def main() -> None:
     market = fetch_market_data()
     save_json(DATA_DIR / "market.json", market)
 
-    news = load_existing_news()
+    try:
+        news = fetch_ai_news()
+    except Exception as e:
+        news = load_existing_news()
+        news["last_error"] = str(e)
+
     save_json(DATA_DIR / "news.json", news)
 
 if __name__ == "__main__":
