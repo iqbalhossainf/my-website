@@ -3,22 +3,50 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>CryptoUAE AI</title>
+  <title>CryptoUAE AI | Live Crypto Prices and AI News</title>
   <meta
     name="description"
-    content="AI powered crypto media website with live crypto prices, top bullish and bearish coins, and auto-updated AI news."
+    content="CryptoUAE AI brings live crypto prices, top bullish and bearish movers, and AI powered crypto news in a modern liquid glass interface."
   />
   <style>
+    :root {
+      --bg-1: #06111f;
+      --bg-2: #081a2e;
+      --bg-3: #0d2542;
+      --glass: rgba(255, 255, 255, 0.08);
+      --glass-strong: rgba(255, 255, 255, 0.12);
+      --border: rgba(255, 255, 255, 0.18);
+      --text: #eef6ff;
+      --muted: #a8b9cc;
+      --primary: #3fc8ff;
+      --primary-soft: rgba(63, 200, 255, 0.2);
+      --green: #4cff9a;
+      --red: #ff6b8f;
+      --shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+      --radius: 24px;
+      --radius-sm: 18px;
+      --max: 1200px;
+    }
+
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
-      font-family: Arial, sans-serif;
+    }
+
+    html {
+      scroll-behavior: smooth;
     }
 
     body {
-      background: #0b1220;
-      color: #ffffff;
+      font-family: Arial, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(63, 200, 255, 0.12), transparent 28%),
+        radial-gradient(circle at top right, rgba(86, 255, 193, 0.10), transparent 25%),
+        linear-gradient(180deg, var(--bg-2), var(--bg-1) 45%, #030b16 100%);
+      min-height: 100vh;
+      overflow-x: hidden;
       line-height: 1.6;
     }
 
@@ -27,360 +55,845 @@
       text-decoration: none;
     }
 
-    .ticker {
-      background: #111827;
-      color: #22c55e;
-      padding: 10px 14px;
-      white-space: nowrap;
-      overflow-x: auto;
-      font-size: 14px;
-      border-bottom: 1px solid #1f2937;
+    .bg-orb {
+      position: fixed;
+      border-radius: 50%;
+      filter: blur(24px);
+      opacity: 0.35;
+      z-index: 0;
+      animation: floatOrb 14s ease-in-out infinite;
+      pointer-events: none;
+    }
+
+    .orb-1 {
+      width: 260px;
+      height: 260px;
+      background: rgba(63, 200, 255, 0.24);
+      top: 90px;
+      left: -40px;
+    }
+
+    .orb-2 {
+      width: 320px;
+      height: 320px;
+      background: rgba(114, 255, 210, 0.16);
+      top: 260px;
+      right: -70px;
+      animation-delay: 2s;
+    }
+
+    .orb-3 {
+      width: 220px;
+      height: 220px;
+      background: rgba(140, 110, 255, 0.18);
+      bottom: 120px;
+      left: 10%;
+      animation-delay: 4s;
+    }
+
+    .orb-4 {
+      width: 280px;
+      height: 280px;
+      background: rgba(255, 255, 255, 0.08);
+      bottom: 40px;
+      right: 5%;
+      animation-delay: 1s;
+    }
+
+    @keyframes floatOrb {
+      0%, 100% {
+        transform: translateY(0px) translateX(0px) scale(1);
+      }
+      50% {
+        transform: translateY(-28px) translateX(18px) scale(1.08);
+      }
+    }
+
+    .wrap {
+      position: relative;
+      z-index: 1;
     }
 
     .container {
-      max-width: 1200px;
+      width: min(92%, var(--max));
       margin: 0 auto;
-      padding: 0 16px;
+    }
+
+    .glass {
+      position: relative;
+      background: linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.14),
+        rgba(255, 255, 255, 0.06)
+      );
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(18px) saturate(160%);
+      -webkit-backdrop-filter: blur(18px) saturate(160%);
+      overflow: hidden;
+    }
+
+    .glass::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(
+          120deg,
+          transparent 20%,
+          rgba(255, 255, 255, 0.12) 35%,
+          transparent 55%
+        );
+      transform: translateX(-120%);
+      animation: shine 8s linear infinite;
+      pointer-events: none;
+    }
+
+    @keyframes shine {
+      100% {
+        transform: translateX(120%);
+      }
+    }
+
+    .ticker-shell {
+      position: sticky;
+      top: 0;
+      z-index: 30;
+      padding-top: 12px;
+    }
+
+    .ticker {
+      display: flex;
+      gap: 32px;
+      white-space: nowrap;
+      overflow: hidden;
+      padding: 14px 18px;
+      border-radius: 999px;
+      font-size: 14px;
+      color: #dff8ff;
+      margin-bottom: 14px;
+    }
+
+    .ticker-track {
+      display: inline-flex;
+      gap: 32px;
+      min-width: max-content;
+      animation: tickerMove 28s linear infinite;
+    }
+
+    @keyframes tickerMove {
+      0% {
+        transform: translateX(0);
+      }
+      100% {
+        transform: translateX(-50%);
+      }
+    }
+
+    .ticker-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .ticker-symbol {
+      color: var(--primary);
+      font-weight: 700;
+    }
+
+    .ticker-price {
+      color: #ffffff;
+      font-weight: 700;
+    }
+
+    .ticker-change.up {
+      color: var(--green);
+    }
+
+    .ticker-change.down {
+      color: var(--red);
     }
 
     header {
-      background: #0f172a;
-      border-bottom: 1px solid #1f2937;
+      padding: 10px 0 16px;
     }
 
     .nav {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      gap: 16px;
-      flex-wrap: wrap;
-      padding: 20px 0;
+      gap: 20px;
+      padding: 18px 22px;
+      border-radius: 999px;
     }
 
-    .logo {
-      font-size: 30px;
-      font-weight: 700;
-      color: #38bdf8;
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 26px;
+      font-weight: 800;
+      color: var(--primary);
+      letter-spacing: 0.4px;
     }
 
-    .menu {
+    .brand-mark {
+      width: 42px;
+      height: 42px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, rgba(63, 200, 255, 0.85), rgba(119, 255, 219, 0.5));
+      box-shadow: 0 0 24px rgba(63, 200, 255, 0.35);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .brand-mark::after {
+      content: "";
+      position: absolute;
+      inset: 8px;
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.22);
+      backdrop-filter: blur(6px);
+    }
+
+    .nav-links {
       display: flex;
       flex-wrap: wrap;
       gap: 14px;
-      color: #cbd5e1;
-      font-size: 14px;
+    }
+
+    .nav-links a {
+      padding: 10px 16px;
+      border-radius: 999px;
+      color: #dbe8f6;
+      transition: 0.25s ease;
+      border: 1px solid transparent;
+    }
+
+    .nav-links a:hover {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.12);
+      transform: translateY(-2px);
     }
 
     .hero {
-      text-align: center;
-      padding: 56px 0 28px;
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 20px;
+      align-items: stretch;
+      margin-top: 22px;
     }
 
-    .hero h1 {
-      font-size: 44px;
-      margin-bottom: 14px;
+    .hero-main,
+    .hero-side {
+      padding: 32px;
+      min-height: 100%;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 14px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 999px;
+      color: #dff8ff;
+      font-size: 13px;
+      margin-bottom: 16px;
+    }
+
+    .eyebrow-dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 14px var(--green);
+      animation: pulseDot 1.8s infinite;
+    }
+
+    @keyframes pulseDot {
+      0%, 100% {
+        transform: scale(1);
+        opacity: 1;
+      }
+      50% {
+        transform: scale(1.25);
+        opacity: 0.65;
+      }
+    }
+
+    h1 {
+      font-size: clamp(38px, 7vw, 76px);
+      line-height: 1.02;
+      margin-bottom: 18px;
+      letter-spacing: -1.8px;
+    }
+
+    .accent-text {
+      background: linear-gradient(90deg, #ffffff, #9fe8ff, #6affc4);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
     }
 
     .hero p {
-      max-width: 820px;
-      margin: 0 auto;
-      color: #cbd5e1;
-      font-size: 18px;
+      color: var(--muted);
+      font-size: clamp(16px, 2.3vw, 20px);
+      max-width: 720px;
     }
 
-    .section {
-      padding: 22px 0 34px;
-    }
-
-    .section-title {
-      font-size: 28px;
-      color: #38bdf8;
-      margin-bottom: 18px;
-    }
-
-    .card {
-      background: #111827;
-      border: 1px solid #1f2937;
-      border-radius: 16px;
-      padding: 18px;
-    }
-
-    .headline-list,
-    .coin-list,
-    .news-grid {
-      display: grid;
-      gap: 14px;
-    }
-
-    .headline-item,
-    .coin-item {
-      padding: 12px 0;
-      border-bottom: 1px solid #1f2937;
-    }
-
-    .headline-item:last-child,
-    .coin-item:last-child {
-      border-bottom: none;
-    }
-
-    .markets {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 18px;
-    }
-
-    .coin-row {
+    .hero-actions {
       display: flex;
-      justify-content: space-between;
       gap: 14px;
-      align-items: center;
-      font-size: 15px;
+      flex-wrap: wrap;
+      margin-top: 26px;
     }
 
-    .up {
-      color: #22c55e;
+    .btn {
+      padding: 14px 20px;
+      border-radius: 999px;
       font-weight: 700;
+      transition: 0.3s ease;
+      border: 1px solid rgba(255, 255, 255, 0.14);
     }
 
-    .down {
-      color: #ef4444;
-      font-weight: 700;
+    .btn-primary {
+      background: linear-gradient(90deg, rgba(63, 200, 255, 0.9), rgba(88, 255, 210, 0.75));
+      color: #03111d;
+      box-shadow: 0 14px 32px rgba(63, 200, 255, 0.28);
     }
 
-    .news-grid {
-      grid-template-columns: 1fr;
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.06);
+      color: #ebf6ff;
     }
 
-    .news-card h3 {
-      font-size: 20px;
-      margin-bottom: 10px;
-      color: #ffffff;
+    .btn:hover {
+      transform: translateY(-3px) scale(1.02);
     }
 
-    .news-card p {
-      color: #cbd5e1;
-      margin-bottom: 12px;
-      font-size: 15px;
-    }
-
-    .meta {
-      color: #94a3b8;
-      font-size: 13px;
-      margin-bottom: 12px;
-    }
-
-    .read-more {
-      color: #38bdf8;
-      font-weight: 700;
-      font-size: 14px;
-    }
-
-    .updated {
-      color: #94a3b8;
-      font-size: 13px;
-      margin-top: 10px;
-    }
-
-    footer {
-      text-align: center;
-      padding: 22px 16px;
-      border-top: 1px solid #1f2937;
-      color: #94a3b8;
+    .mini-stats {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
       margin-top: 24px;
     }
 
+    .stat-box {
+      padding: 18px;
+      border-radius: var(--radius-sm);
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      transition: 0.3s ease;
+    }
+
+    .stat-box:hover {
+      transform: translateY(-4px);
+      background: rgba(255, 255, 255, 0.08);
+    }
+
+    .stat-label {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .stat-value {
+      font-size: 24px;
+      font-weight: 800;
+      color: #fff;
+    }
+
+    section {
+      margin-top: 26px;
+    }
+
+    .section-card {
+      padding: 26px;
+    }
+
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 18px;
+      margin-bottom: 20px;
+    }
+
+    .section-title {
+      font-size: clamp(28px, 4vw, 42px);
+      line-height: 1.08;
+    }
+
+    .section-subtitle {
+      color: var(--muted);
+      font-size: 15px;
+    }
+
+    .headline-slider {
+      position: relative;
+      min-height: 220px;
+      display: grid;
+      align-items: center;
+      padding: 14px 8px 8px;
+    }
+
+    .headline-slide {
+      display: none;
+      animation: slideFade 0.45s ease;
+    }
+
+    .headline-slide.active {
+      display: block;
+    }
+
+    @keyframes slideFade {
+      from {
+        opacity: 0;
+        transform: translateY(12px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .headline-badge {
+      display: inline-block;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: var(--primary-soft);
+      color: #bff4ff;
+      font-size: 12px;
+      font-weight: 700;
+      margin-bottom: 14px;
+    }
+
+    .headline-text {
+      font-size: clamp(22px, 3vw, 38px);
+      font-weight: 800;
+      line-height: 1.15;
+      max-width: 850px;
+    }
+
+    .headline-dots {
+      display: flex;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .headline-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.18);
+      cursor: pointer;
+      transition: 0.25s ease;
+    }
+
+    .headline-dot.active {
+      background: var(--primary);
+      box-shadow: 0 0 12px rgba(63, 200, 255, 0.55);
+      transform: scale(1.18);
+    }
+
+    .tabs {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+
+    .tab-btn {
+      border: 0;
+      outline: 0;
+      padding: 12px 18px;
+      border-radius: 999px;
+      cursor: pointer;
+      color: #dff1ff;
+      font-weight: 700;
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      transition: 0.25s ease;
+    }
+
+    .tab-btn.active {
+      background: linear-gradient(90deg, rgba(63, 200, 255, 0.25), rgba(108, 255, 194, 0.2));
+      border-color: rgba(63, 200, 255, 0.45);
+      color: #ffffff;
+    }
+
+    .movers-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 14px;
+    }
+
+    .mover-card {
+      padding: 18px;
+      border-radius: var(--radius-sm);
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      transition: 0.3s ease;
+      min-height: 150px;
+    }
+
+    .mover-card:hover {
+      transform: translateY(-6px) scale(1.015);
+      background: rgba(255, 255, 255, 0.08);
+    }
+
+    .coin-name {
+      font-weight: 800;
+      margin-bottom: 4px;
+      font-size: 18px;
+    }
+
+    .coin-symbol {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 14px;
+    }
+
+    .coin-price {
+      font-size: 20px;
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+
+    .coin-change.up {
+      color: var(--green);
+      font-weight: 700;
+    }
+
+    .coin-change.down {
+      color: var(--red);
+      font-weight: 700;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+    }
+
+    .news-card {
+      padding: 22px;
+      border-radius: var(--radius);
+      min-height: 100%;
+      transition: 0.3s ease;
+      background: linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.10),
+        rgba(255, 255, 255, 0.05)
+      );
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .news-card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 22px 50px rgba(0, 0, 0, 0.35);
+    }
+
+    .news-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 14px;
+    }
+
+    .news-source {
+      color: var(--primary);
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: 0.3px;
+    }
+
+    .news-category {
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.08);
+      font-size: 11px;
+      color: #d7e8f7;
+      white-space: nowrap;
+    }
+
+    .news-title {
+      font-size: 22px;
+      line-height: 1.2;
+      margin-bottom: 12px;
+      font-weight: 800;
+    }
+
+    .news-summary {
+      color: var(--muted);
+      font-size: 15px;
+      margin-bottom: 16px;
+    }
+
+    .news-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-top: auto;
+    }
+
+    .news-date {
+      font-size: 13px;
+      color: #bdd0df;
+    }
+
+    .read-link {
+      font-weight: 800;
+      color: #ffffff;
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.08);
+      transition: 0.25s ease;
+    }
+
+    .read-link:hover {
+      background: rgba(63, 200, 255, 0.16);
+      color: #d6f7ff;
+    }
+
     .empty {
-      color: #94a3b8;
+      padding: 22px;
+      border-radius: var(--radius-sm);
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--muted);
+      border: 1px dashed rgba(255, 255, 255, 0.15);
+    }
+
+    .footer {
+      margin: 28px 0 34px;
+      padding: 22px;
+      text-align: center;
+      color: var(--muted);
       font-size: 14px;
     }
 
-    @media (min-width: 768px) {
-      .markets {
-        grid-template-columns: 1fr 1fr;
+    .reveal {
+      opacity: 0;
+      transform: translateY(24px);
+      transition: 0.7s ease;
+    }
+
+    .reveal.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    @media (max-width: 1100px) {
+      .hero {
+        grid-template-columns: 1fr;
+      }
+
+      .movers-grid {
+        grid-template-columns: repeat(2, 1fr);
       }
 
       .news-grid {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media (max-width: 700px) {
+      .nav {
+        border-radius: 28px;
+      }
+
+      .brand {
+        font-size: 22px;
+      }
+
+      .hero-main,
+      .hero-side,
+      .section-card {
+        padding: 22px;
+      }
+
+      .movers-grid,
+      .news-grid,
+      .mini-stats {
+        grid-template-columns: 1fr;
+      }
+
+      .headline-text {
+        font-size: 28px;
+      }
+
+      .section-title {
+        font-size: 30px;
       }
     }
   </style>
 </head>
 <body>
-  <div class="ticker" id="ticker">Loading live prices...</div>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-orb orb-3"></div>
+  <div class="bg-orb orb-4"></div>
 
-  <header>
-    <div class="container nav">
-      <div class="logo">CryptoUAE AI</div>
-      <nav class="menu">
-        <a href="#headlines">Headlines</a>
-        <a href="#bullish">Bullish</a>
-        <a href="#bearish">Bearish</a>
-        <a href="#news">AI News</a>
-      </nav>
+  <div class="wrap">
+    <div class="ticker-shell">
+      <div class="container">
+        <div class="ticker glass" id="tickerBar">
+          <div class="ticker-track" id="tickerTrack">
+            <span>Loading live prices...</span>
+          </div>
+        </div>
+      </div>
     </div>
-  </header>
 
-  <main class="container">
-    <section class="hero">
-      <h1>AI Powered Crypto Media Platform</h1>
-      <p>
-        Live prices, daily bullish and bearish movers, and AI-selected crypto news
-        updated automatically for your audience.
-      </p>
-      <div class="updated" id="lastUpdated">Waiting for first data update...</div>
-    </section>
-
-    <section class="section" id="headlines">
-      <h2 class="section-title">Top Headlines</h2>
-      <div class="card">
-        <div class="headline-list" id="headlineList">
-          <div class="empty">No headlines yet.</div>
-        </div>
+    <header>
+      <div class="container">
+        <nav class="nav glass reveal">
+          <div class="brand">
+            <span class="brand-mark"></span>
+            <span>CryptoUAE AI</span>
+          </div>
+          <div class="nav-links">
+            <a href="#headlines">Headlines</a>
+            <a href="#movers">Movers</a>
+            <a href="#news">AI News</a>
+          </div>
+        </nav>
       </div>
-    </section>
+    </header>
 
-    <section class="section">
-      <div class="markets">
-        <div class="card" id="bullish">
-          <h2 class="section-title">Today Top Bullish</h2>
-          <div class="coin-list" id="bullishList">
-            <div class="empty">No bullish data yet.</div>
+    <main class="container">
+      <section class="hero">
+        <div class="hero-main glass reveal">
+          <div class="eyebrow">
+            <span class="eyebrow-dot"></span>
+            <span>Live market data and AI selected crypto news</span>
+          </div>
+
+          <h1>
+            <span class="accent-text">Liquid Glass</span><br />
+            Crypto Intelligence
+          </h1>
+
+          <p>
+            Live crypto prices, top bullish and bearish movers, and AI powered
+            crypto coverage in a more animated premium experience.
+          </p>
+
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#news">View AI News</a>
+            <a class="btn btn-secondary" href="#movers">Top Movers</a>
           </div>
         </div>
 
-        <div class="card" id="bearish">
-          <h2 class="section-title">Today Top Bearish</h2>
-          <div class="coin-list" id="bearishList">
-            <div class="empty">No bearish data yet.</div>
+        <div class="hero-side glass reveal">
+          <div class="section-subtitle">Quick market snapshot</div>
+
+          <div class="mini-stats">
+            <div class="stat-box">
+              <div class="stat-label">Live coins in ticker</div>
+              <div class="stat-value" id="statCoins">0</div>
+            </div>
+
+            <div class="stat-box">
+              <div class="stat-label">AI headlines</div>
+              <div class="stat-value" id="statHeadlines">0</div>
+            </div>
+
+            <div class="stat-box">
+              <div class="stat-label">Top bullish list</div>
+              <div class="stat-value" id="statBullish">0</div>
+            </div>
+
+            <div class="stat-box">
+              <div class="stat-label">Top bearish list</div>
+              <div class="stat-value" id="statBearish">0</div>
+            </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
 
-    <section class="section" id="news">
-      <h2 class="section-title">Latest AI Crypto News</h2>
-      <div class="news-grid" id="newsGrid">
-        <div class="card news-card">
-          <div class="empty">No AI news yet.</div>
+      <section id="headlines" class="reveal">
+        <div class="glass section-card">
+          <div class="section-head">
+            <div>
+              <h2 class="section-title">Top Headlines</h2>
+              <p class="section-subtitle">Animated AI selected crypto story slider</p>
+            </div>
+          </div>
+
+          <div class="headline-slider" id="headlineSlider">
+            <div class="empty">Waiting for headline data...</div>
+          </div>
+
+          <div class="headline-dots" id="headlineDots"></div>
         </div>
-      </div>
-    </section>
-  </main>
+      </section>
 
-  <footer>
-    © 2026 CryptoUAE AI
-  </footer>
+      <section id="movers" class="reveal">
+        <div class="glass section-card">
+          <div class="section-head">
+            <div>
+              <h2 class="section-title">Top Movers</h2>
+              <p class="section-subtitle">Switch between bullish and bearish coins</p>
+            </div>
+          </div>
+
+          <div class="tabs">
+            <button class="tab-btn active" data-tab="bullish">Top Bullish</button>
+            <button class="tab-btn" data-tab="bearish">Top Bearish</button>
+          </div>
+
+          <div class="movers-grid" id="moversGrid">
+            <div class="empty">Loading market movers...</div>
+          </div>
+        </div>
+      </section>
+
+      <section id="news" class="reveal">
+        <div class="glass section-card">
+          <div class="section-head">
+            <div>
+              <h2 class="section-title">AI News Feed</h2>
+              <p class="section-subtitle">SEO friendly crypto news blocks powered by your data pipeline</p>
+            </div>
+          </div>
+
+          <div class="news-grid" id="newsGrid">
+            <div class="empty">Waiting for AI news...</div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer glass reveal">
+        <p>CryptoUAE AI • Live data • AI powered updates • Glass UI experience</p>
+      </footer>
+    </main>
+  </div>
 
   <script>
-    function formatUsd(value) {
-      const num = Number(value);
-      if (!Number.isFinite(num)) return "$--";
-      if (num >= 1000) {
-        return "$" + num.toLocaleString(undefined, { maximumFractionDigits: 0 });
+    let marketData = null;
+    let newsData = null;
+    let activeTab = "bullish";
+    let sliderIndex = 0;
+    let sliderTimer = null;
+
+    async function fetchJson(url) {
+      const response = await fetch(`${url}?t=${Date.now()}`, { cache: "no-store" });
+      if (!response.ok) {
+        throw new Error(`Failed to load ${url}`);
       }
-      if (num >= 1) {
-        return "$" + num.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-      }
-      return "$" + num.toLocaleString(undefined, { minimumFractionDigits: 4, maximumFractionDigits: 6 });
+      return response.json();
     }
 
-    function formatPct(value) {
-      const num = Number(value);
-      if (!Number.isFinite(num)) return "--";
-      const sign = num > 0 ? "+" : "";
-      return sign + num.toFixed(2) + "%";
-    }
+    function formatPrice(value) {
+      if (value === null || value === undefined || Number.isNaN(value)) return "N/A";
 
-    function renderTicker(prices) {
-      const ticker = document.getElementById("ticker");
-      if (!prices || !prices.length) {
-        ticker.textContent = "Live prices not available yet.";
-        return;
-      }
-      ticker.innerHTML = prices
-        .map(item => {
-          const changeClass = Number(item.change_24h) >= 0 ? "up" : "down";
-          return `<span>${item.symbol} ${formatUsd(item.price)} <span class="${changeClass}">${formatPct(item.change_24h)}</span></span>`;
-        })
-        .join(" | ");
-    }
-
-    function renderCoins(targetId, coins) {
-      const box = document.getElementById(targetId);
-      if (!coins || !coins.length) {
-        box.innerHTML = `<div class="empty">No market data yet.</div>`;
-        return;
-      }
-      box.innerHTML = coins.map(item => {
-        const cls = Number(item.change_24h) >= 0 ? "up" : "down";
-        return `
-          <div class="coin-item">
-            <div class="coin-row">
-              <strong>${item.name} (${item.symbol})</strong>
-              <span>${formatUsd(item.price)}</span>
-            </div>
-            <div class="coin-row">
-              <span>24h change</span>
-              <span class="${cls}">${formatPct(item.change_24h)}</span>
-            </div>
-          </div>
-        `;
-      }).join("");
-    }
-
-    function renderHeadlines(headlines) {
-      const list = document.getElementById("headlineList");
-      if (!headlines || !headlines.length) {
-        list.innerHTML = `<div class="empty">No headlines yet.</div>`;
-        return;
-      }
-      list.innerHTML = headlines.map(item => `<div class="headline-item">${item}</div>`).join("");
-    }
-
-    function renderNews(articles) {
-      const grid = document.getElementById("newsGrid");
-      if (!articles || !articles.length) {
-        grid.innerHTML = `<div class="card news-card"><div class="empty">No AI news yet.</div></div>`;
-        return;
-      }
-
-      grid.innerHTML = articles.map(item => `
-        <article class="card news-card">
-          <h3>${item.title}</h3>
-          <div class="meta">${item.source || "Unknown source"} • ${item.category || "Crypto"} • ${item.published_at || ""}</div>
-          <p>${item.summary}</p>
-          <a class="read-more" href="${item.url}" target="_blank" rel="noopener noreferrer">Read source</a>
-        </article>
-      `).join("");
-    }
-
-    async function loadSiteData() {
-      try {
-        const [marketRes, newsRes] = await Promise.all([
-          fetch("data/market.json?v=" + Date.now()),
-          fetch("data/news.json?v=" + Date.now())
-        ]);
-
-        const market = await marketRes.json();
-        const news = await newsRes.json();
-
-        renderTicker(market.prices || []);
-        renderCoins("bullishList", market.bullish || []);
-        renderCoins("bearishList", market.bearish || []);
-        renderHeadlines(news.headlines || []);
-        renderNews(news.articles || []);
-
-        const updatedAt = market.updated_at || news.updated_at;
-        if (updatedAt) {
-          document.getElementById("lastUpdated").textContent = "Last updated: " + updatedAt;
-        }
-      } catch (err) {
-        console.error(err);
-        document.getElementById("ticker").textContent = "Could not load site data yet.";
-      }
-    }
-
-    loadSiteData();
-  </script>
-</body>
-</html>
+      if (value >= 1000) return `$${value.toLocaleString(undefined, { maximumFractionDigits: 2 })}`;
+      if (value
