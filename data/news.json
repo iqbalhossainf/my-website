@@ -1,5 +1,16 @@
 {
-  "updated_at": "2026-03-29 11:56 UTC",
-  "headlines": [],
-  "articles": []
+  "updated_at": "2026-03-29 14:05 UTC",
+  "headlines": [
+    "Need a quick clarification before I continue"
+  ],
+  "articles": [
+    {
+      "title": "Clarify timeframe",
+      "summary": "I ran web searches but couldn’t find clear, authoritative headlines from major crypto outlets strictly within the last 24 hours (Mar 28–29, 2026). Do you want me to: (A) expand the window to the last 48–72 hours, or (B) proceed using market-data posts and community sources (CoinGecko, CoinMarketCap, Reddit threads, exchange notices) for the past 24 hours?",
+      "source": "assistant",
+      "url": "",
+      "published_at": "2026-03-29",
+      "category": "meta"
+    }
+  ]
 }
