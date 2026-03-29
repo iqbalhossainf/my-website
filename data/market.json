@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-03-29 17:06 UTC",
+  "updated_at": "2026-03-29 19:48 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 66435,
-      "change_24h": -0.6519192072679705
+      "price": 66353,
+      "change_24h": -0.6962534806502938
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 1995.95,
-      "change_24h": -1.3345245136948451
+      "price": 1994.46,
+      "change_24h": -1.2026084469963834
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 609.17,
-      "change_24h": -1.2317967564050494
+      "price": 608.76,
+      "change_24h": -1.1597977132166886
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 81.64,
-      "change_24h": -2.3248520816529927
+      "price": 81.6,
+      "change_24h": -1.8902036034846321
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.32,
-      "change_24h": -1.8742514124759495
+      "change_24h": -1.9581462765097684
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.240851,
-      "change_24h": -4.018262510511617
+      "price": 0.239836,
+      "change_24h": -3.868377871704677
     }
   ],
   "bullish": [
     {
-      "name": "Provenance Blockchain",
-      "symbol": "HASH",
-      "price": 0.01120315,
-      "change_24h": 2.4219587081625713
-    },
-    {
       "name": "Sky",
       "symbol": "SKY",
-      "price": 0.072158,
-      "change_24h": 2.206168949224354
+      "price": 0.071752,
+      "change_24h": 2.4527978292494326
     },
     {
-      "name": "Siren",
-      "symbol": "SIREN",
-      "price": 1.71,
-      "change_24h": 2.100924715426951
-    },
-    {
-      "name": "Canton",
-      "symbol": "CC",
-      "price": 0.151294,
-      "change_24h": 1.389686899647086
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.00840438,
+      "change_24h": 1.049759942844604
     },
     {
       "name": "LEO Token",
       "symbol": "LEO",
-      "price": 9.65,
-      "change_24h": 0.7148242827642904
+      "price": 9.66,
+      "change_24h": 0.7652250935357819
+    },
+    {
+      "name": "TRON",
+      "symbol": "TRX",
+      "price": 0.31956,
+      "change_24h": 0.5055227485556768
+    },
+    {
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "price": 4513.93,
+      "change_24h": 0.31616194042355944
     }
   ],
   "bearish": [
     {
-      "name": "Kaspa",
-      "symbol": "KAS",
-      "price": 0.03285519,
-      "change_24h": -6.522578049636825
-    },
-    {
-      "name": "Bitcoin Cash",
-      "symbol": "BCH",
-      "price": 451.11,
-      "change_24h": -6.405209919271088
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.01122794,
+      "change_24h": -13.444665889646279
     },
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.02437552,
-      "change_24h": -6.177040432264295
-    },
-    {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "price": 0.262455,
-      "change_24h": -5.271421241375709
+      "price": 0.02376301,
+      "change_24h": -8.890612049112798
     },
     {
       "name": "Artificial Superintelligence Alliance",
       "symbol": "FET",
-      "price": 0.234097,
-      "change_24h": -5.020148386419346
+      "price": 0.229848,
+      "change_24h": -7.701399119599779
+    },
+    {
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price": 0.03257049,
+      "change_24h": -7.023530828772199
+    },
+    {
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "price": 454.17,
+      "change_24h": -5.957742947123585
     }
   ]
 }

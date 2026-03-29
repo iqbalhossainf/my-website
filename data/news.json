@@ -1,7 +1,76 @@
 {
-  "updated_at": "2026-03-29 17:06 UTC",
+  "updated_at": "2026-03-29 19:48 UTC",
   "headlines": [
-    "Do you mean the past 24 hours (Mar 28–29, 2026)? I'll run a fresh web search — confirm and I’ll deliver 8 short, SEO-friendly summaries with sources."
+    "Morgan Stanley joins Bitcoin ETF race with ultra-low fee",
+    "SEC / US stablecoin & crypto rule updates and House stablecoin bill changes",
+    "Bitcoin & Ether market moves and ETF flows",
+    "CME expands crypto futures/options trading hours",
+    "CFTC/stablecoin guidance and national trust banks update (ongoing) - policy moves continuing to shape market (recent)"
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Morgan Stanley prepares low-fee spot Bitcoin ETF (market-moving)",
+      "summary": "Morgan Stanley is moving to list a spot Bitcoin ETF with a very low management fee (reported ~0.14%), intensifying competition among Wall Street issuers and likely drawing fresh institutional flows into BTC products.",
+      "source": "Morgan Stanley filings / market reporting",
+      "url": "(see Morgan Stanley S‑1 / ETF listing notices)",
+      "published_at": "2026-03-28",
+      "category": "ETF / Market"
+    },
+    {
+      "title": "SEC and CFTC signals keep shaping U.S. crypto rules (regulation)",
+      "summary": "U.S. regulators continue clarifying how federal securities laws apply to crypto, and co-ordination between the SEC and CFTC is increasing — a development that affects token classification, listing standards and enforcement paths.",
+      "source": "U.S. SEC press releases and major coverage",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets",
+      "published_at": "2026-03-17",
+      "category": "Regulation"
+    },
+    {
+      "title": "House releases revised stablecoin bill with compliance changes",
+      "summary": "The U.S. House published a revised stablecoin bill that tightens compliance and issuer rules while including protections for developers — a key step toward formal federal stablecoin regulation.",
+      "source": "Cryptoslate / Congressional updates",
+      "url": "https://cryptoslate.com/house-introduces-revised-stablecoin-legislation-with-compliance-measures-and-developer-protection/",
+      "published_at": "2026-03-26",
+      "category": "Stablecoin / Regulation"
+    },
+    {
+      "title": "Bitcoin & ETH price moves tied to ETF flows and macro headlines",
+      "summary": "Bitcoin and Ether saw notable intraday moves after renewed ETF activity and money‑manager flows; market watchers point to spot ETF inflows/outflows as a main driver of recent volatility.",
+      "source": "Market trackers and crypto research notes",
+      "url": "(market flow reports and price charts by major data providers)",
+      "published_at": "2026-03-28",
+      "category": "Market / Bitcoin / Ethereum"
+    },
+    {
+      "title": "CME Group schedules 24/7 crypto futures & options expansion",
+      "summary": "CME Group announced operational milestones for expanded cryptocurrency futures and options (24/7 trading windows and new connectivity dates), making institutional derivatives trading more accessible around the clock.",
+      "source": "CME Group client notices",
+      "url": "https://www.cmegroup.com/markets/cryptocurrencies.html",
+      "published_at": "2026-03-29",
+      "category": "Derivatives / Exchange"
+    },
+    {
+      "title": "CFTC guidance expands who can issue payment stablecoins",
+      "summary": "The CFTC reissued guidance broadening the eligible issuer types for payment stablecoins to include national trust banks, a move that could shift stablecoin market structure and institutional adoption.",
+      "source": "Cointelegraph coverage of CFTC guidance",
+      "url": "https://cointelegraph.com/news/cftc-stablecoins-national-trust-banks",
+      "published_at": "2026-02-28",
+      "category": "Stablecoin / Regulation"
+    },
+    {
+      "title": "Ethereum research: new attack & network security findings (important for validators)",
+      "summary": "Academic and security reports revealed practical attack vectors (such as node-level eclipse attacks) against Ethereum peer‑to‑peer networking; authors disclosed findings and proposed mitigations to client teams.",
+      "source": "ArXiv / academic disclosure",
+      "url": "https://arxiv.org/abs/2601.16560",
+      "published_at": "2026-01-23",
+      "category": "Security / Ethereum"
+    },
+    {
+      "title": "Industry adoption: major banks, wealth managers ramp up crypto product offering",
+      "summary": "Large financial institutions are accelerating crypto product launches — from Bitcoin ETFs to bank-level custody and token services — signaling deeper mainstream adoption and competition for client assets.",
+      "source": "Firm press releases and financial press reporting",
+      "url": "(corporate press releases and trade coverage)",
+      "published_at": "2026-03-27",
+      "category": "Institutional / ETF"
+    }
+  ]
 }
