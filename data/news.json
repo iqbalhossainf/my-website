@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-03-31 16:37 UTC",
+  "updated_at": "2026-03-31 20:00 UTC",
   "headlines": [
-    "Senate schedules April markup for the CLARITY Act as stablecoin yield deal advances",
-    "Senators Lummis and Cassidy introduce the 'Mined in America Act' to boost U.S. crypto mining",
-    "Crypto market pullback today — Bitcoin and ETH slip amid risk-off flows",
-    "US spot Bitcoin ETFs recorded ~$69M inflows on March 30 (continued ETF activity)",
-    "Tether hires KPMG for a full audit as stablecoin sector institutionalizes (GSR weekly note)"
+    "Tether hires KPMG for first full audit of USDT",
+    "SEC and CFTC publish joint crypto taxonomy: many tokens labeled 'digital commodities'",
+    "Strategy Inc (MicroStrategy) confirms 762,099 BTC holding (March 29 filing)",
+    "NYSE removes 25,000-contract cap on Bitcoin & Ether ETF options",
+    "Morgan Stanley files amended S-1 for its spot Bitcoin ETF (MSBT) as product readies for launch"
   ],
   "articles": [
     {
-      "title": "Senate schedules April markup for the CLARITY Act",
-      "summary": "U.S. lawmakers have set an April markup for the Digital Asset Market CLARITY Act, moving the bill closer to committee debate after negotiators reached a tentative stablecoin-yield compromise. The markup is the next key step toward a federal framework for crypto classification and stablecoin rules.",
-      "source": "CoinGape / Phemex coverage",
-      "url": "https://coingape.com/markets/bitcoin-and-xrp-price-prediction-as-u-s-senate-confirms-april-markup-for-clarity-act/",
-      "published_at": "March 31, 2026",
-      "category": "Regulation"
+      "title": "Tether hires KPMG for first full audit of USDT",
+      "summary": "Tether said it has engaged a Big Four firm (reported as KPMG) to perform the first full independent audit of reserves backing USDT. The move is aimed at improving transparency for the $180B+ stablecoin and easing regulatory concerns. (reported Mar 24–27, 2026).",
+      "source": "The Block / Bloomberg Law",
+      "url": "",
+      "published_at": "Mar 27, 2026",
+      "category": "stablecoin"
     },
     {
-      "title": "‘Mined in America Act’ introduced to boost U.S. mining and codify Bitcoin reserve",
-      "summary": "Senators Cynthia Lummis and Bill Cassidy introduced the Mined in America Act to encourage U.S. cryptocurrency mining, certify American-made mining equipment, and help codify the administration’s Strategic Bitcoin Reserve plan.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/senator-lummis-introduces-another-bitcoin-bill-amid-price-crash",
-      "published_at": "March 30, 2026",
-      "category": "Regulation / Mining"
+      "title": "SEC and CFTC publish joint crypto taxonomy; many tokens labeled 'digital commodities'",
+      "summary": "U.S. regulators issued a joint interpretive guidance and taxonomy that classifies many major tokens — including Bitcoin and Ether — as ‘digital commodities’ instead of securities. The guidance aims to give clearer jurisdictional rules and speed institutional adoption. (SEC press release: Mar 17, 2026).",
+      "source": "U.S. SEC press release / industry coverage",
+      "url": "",
+      "published_at": "Mar 17, 2026",
+      "category": "regulation"
     },
     {
-      "title": "Crypto market pulls back today — Bitcoin and Ethereum fall",
-      "summary": "Risk-off flows pushed crypto markets lower in the last 24 hours: Bitcoin slid into the mid–$60k range and Ether dipped near $2k as traders reduced exposure and ETF flows turned mixed.",
-      "source": "CoinGape / CoinMarketCap market updates",
-      "url": "https://coingape.com/trending/why-is-crypto-market-crashing-today-march-31/",
-      "published_at": "March 31, 2026",
-      "category": "Market"
+      "title": "Strategy Inc (MicroStrategy) confirms 762,099 BTC holding in SEC filing",
+      "summary": "In a Form 8‑K filed Mar 30, Strategy Inc reported it held about 762,099 BTC as of March 29, 2026 and said it made no bitcoin buys or ATM share sales between March 23–29. The filing updates investors on the company’s bitcoin inventory and legal matters. (filed Mar 30, 2026).",
+      "source": "SEC filing (Form 8‑K) via EDGAR",
+      "url": "",
+      "published_at": "Mar 30, 2026",
+      "category": "Bitcoin / institutional"
     },
     {
-      "title": "Spot Bitcoin ETFs logged roughly $69M of inflows on March 30",
-      "summary": "U.S. spot Bitcoin ETFs continued to attract retail and institutional money, with data showing about $69.4 million of net inflows on March 30 — a sign that ETFs remain a major on-ramp for institutional BTC demand.",
-      "source": "CoinGape (SoSoValue data) / Cointelegraph ETF flow reporting",
-      "url": "https://coingape.com/markets/bitcoin-and-xrp-price-prediction-as-u-s-senate-confirms-april-markup-for-clarity-act/",
-      "published_at": "March 31, 2026",
-      "category": "ETF / Market"
+      "title": "NYSE drops 25,000-contract cap on Bitcoin & Ether ETF options",
+      "summary": "NYSE Arca and related exchanges removed the prior 25,000‑contract position limit on options for major Bitcoin and Ether ETFs, opening the door to larger and more flexible ETF options trading (including FLEX-style trades). The change was made operative with an SEC waiver. (announced Mar 22, 2026).",
+      "source": "The Block / industry outlets",
+      "url": "",
+      "published_at": "Mar 22, 2026",
+      "category": "ETF / markets"
     },
     {
-      "title": "Tether hires KPMG for full audit as stablecoins keep growing",
-      "summary": "Tether engaged a Big Four auditor (KPMG) for a comprehensive audit of USDT reserves, a move seen as part of wider institutionalisation of stablecoins after recent U.S. rule changes and industry shifts.",
-      "source": "GSR Markets weekly update",
-      "url": "https://www.gsr.io/insights/gsr-weekly-update-march-30th-2026",
-      "published_at": "March 30, 2026",
-      "category": "Stablecoin / Regulation"
+      "title": "Morgan Stanley advances MSBT spot-Bitcoin ETF with amended S-1 filing",
+      "summary": "Morgan Stanley filed an amended S‑1 for its proposed spot Bitcoin ETF (ticker MSBT), refining seed-share and custody details as it moves to list on NYSE Arca. The amendment signals big banks continue racing into the spot‑BTC ETF market. (amendments filed mid–late March 2026).",
+      "source": "SEC filings reported by financial media",
+      "url": "",
+      "published_at": "Mar 17–20, 2026",
+      "category": "ETF / institutional"
     },
     {
-      "title": "Ethereum Foundation posts record $46.2M ETH staking deposit",
-      "summary": "The Ethereum Foundation recorded a large ETH staking deposit ($46.2M), highlighting renewed staking activity and institutional interest in securing the network and earning staking yields.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/ethereum-foundation-record-eth-staking/",
-      "published_at": "March 30, 2026",
-      "category": "Ethereum / Staking"
+      "title": "Quarterly/options expiries drive recent volatility: large BTC & ETH options expiry cleared",
+      "summary": "A very large Bitcoin and Ether options expiry in late March cleared roughly $13–16 billion notional, forcing hedging flows and short-covering that added short‑term volatility across spot and altcoin markets. Traders and funds repositioned after the expiry. (market moves Mar 27–30, 2026).",
+      "source": "DailyCoin / market trackers",
+      "url": "",
+      "published_at": "Mar 27–30, 2026",
+      "category": "markets / derivatives"
     },
     {
-      "title": "Upbit listing lifts Sky Protocol (SKY) — token jumps after listing news",
-      "summary": "Tier-1 exchange Upbit announced listings for Sky Protocol (SKY) and USDS, opening the token to Korea's large retail base and driving an immediate price and volume spike.",
-      "source": "CoinMarketCap top stories",
-      "url": "https://coinmarketcap.com/top-stories/69cb3a049e7a49696fd4bfd8/",
-      "published_at": "March 31, 2026",
-      "category": "Exchange / Altcoin"
+      "title": "NYSE teams with Securitize to build 24/7 tokenized securities platform",
+      "summary": "The NYSE announced a memorandum with Securitize to develop an NYSE-linked Digital Trading Platform that would support issuer-sponsored tokenized securities, enable on‑chain settlement, and target 24/7 trading hours. This is a major step toward tokenized stocks and ETFs. (announced Mar 24, 2026).",
+      "source": "Investing.com / Benzinga / industry reports",
+      "url": "",
+      "published_at": "Mar 24, 2026",
+      "category": "infrastructure / tokenization"
     },
     {
-      "title": "Ripple Prime integrates commodity perps on Hyperliquid (HIP-3)",
-      "summary": "Ripple Prime expanded its Hyperliquid integration to add gold, silver and oil perpetuals via HIP-3, letting institutional clients trade on-chain commodity derivatives alongside crypto positions.",
-      "source": "SpendNode report",
-      "url": "https://www.spendnode.io/blog/ripple-prime-hyperliquid-hip-3-gold-silver-oil-institutional-commodity-perps-onchain/",
-      "published_at": "March 30–31, 2026",
-      "category": "Exchange / Derivatives"
+      "title": "Ethereum rebounds near $2,070 as markets stabilize",
+      "summary": "Ether climbed back to roughly $2,070 in late‑March trading after recent pullbacks, leading a modest crypto market recovery as traders reacted to ETF and regulatory developments. Short‑term momentum and ETF flows are cited as drivers. (price action Mar 30, 2026).",
+      "source": "market news roundups / price reports",
+      "url": "",
+      "published_at": "Mar 30, 2026",
+      "category": "Ethereum / markets"
     }
   ]
 }
