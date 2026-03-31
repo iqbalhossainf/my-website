@@ -1,7 +1,76 @@
 {
-  "updated_at": "2026-03-31 12:07 UTC",
+  "updated_at": "2026-03-31 16:37 UTC",
   "headlines": [
-    "Do you want US-focused stories only, or global crypto news?"
+    "Senate schedules April markup for the CLARITY Act as stablecoin yield deal advances",
+    "Senators Lummis and Cassidy introduce the 'Mined in America Act' to boost U.S. crypto mining",
+    "Crypto market pullback today — Bitcoin and ETH slip amid risk-off flows",
+    "US spot Bitcoin ETFs recorded ~$69M inflows on March 30 (continued ETF activity)",
+    "Tether hires KPMG for a full audit as stablecoin sector institutionalizes (GSR weekly note)"
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Senate schedules April markup for the CLARITY Act",
+      "summary": "U.S. lawmakers have set an April markup for the Digital Asset Market CLARITY Act, moving the bill closer to committee debate after negotiators reached a tentative stablecoin-yield compromise. The markup is the next key step toward a federal framework for crypto classification and stablecoin rules.",
+      "source": "CoinGape / Phemex coverage",
+      "url": "https://coingape.com/markets/bitcoin-and-xrp-price-prediction-as-u-s-senate-confirms-april-markup-for-clarity-act/",
+      "published_at": "March 31, 2026",
+      "category": "Regulation"
+    },
+    {
+      "title": "‘Mined in America Act’ introduced to boost U.S. mining and codify Bitcoin reserve",
+      "summary": "Senators Cynthia Lummis and Bill Cassidy introduced the Mined in America Act to encourage U.S. cryptocurrency mining, certify American-made mining equipment, and help codify the administration’s Strategic Bitcoin Reserve plan.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/senator-lummis-introduces-another-bitcoin-bill-amid-price-crash",
+      "published_at": "March 30, 2026",
+      "category": "Regulation / Mining"
+    },
+    {
+      "title": "Crypto market pulls back today — Bitcoin and Ethereum fall",
+      "summary": "Risk-off flows pushed crypto markets lower in the last 24 hours: Bitcoin slid into the mid–$60k range and Ether dipped near $2k as traders reduced exposure and ETF flows turned mixed.",
+      "source": "CoinGape / CoinMarketCap market updates",
+      "url": "https://coingape.com/trending/why-is-crypto-market-crashing-today-march-31/",
+      "published_at": "March 31, 2026",
+      "category": "Market"
+    },
+    {
+      "title": "Spot Bitcoin ETFs logged roughly $69M of inflows on March 30",
+      "summary": "U.S. spot Bitcoin ETFs continued to attract retail and institutional money, with data showing about $69.4 million of net inflows on March 30 — a sign that ETFs remain a major on-ramp for institutional BTC demand.",
+      "source": "CoinGape (SoSoValue data) / Cointelegraph ETF flow reporting",
+      "url": "https://coingape.com/markets/bitcoin-and-xrp-price-prediction-as-u-s-senate-confirms-april-markup-for-clarity-act/",
+      "published_at": "March 31, 2026",
+      "category": "ETF / Market"
+    },
+    {
+      "title": "Tether hires KPMG for full audit as stablecoins keep growing",
+      "summary": "Tether engaged a Big Four auditor (KPMG) for a comprehensive audit of USDT reserves, a move seen as part of wider institutionalisation of stablecoins after recent U.S. rule changes and industry shifts.",
+      "source": "GSR Markets weekly update",
+      "url": "https://www.gsr.io/insights/gsr-weekly-update-march-30th-2026",
+      "published_at": "March 30, 2026",
+      "category": "Stablecoin / Regulation"
+    },
+    {
+      "title": "Ethereum Foundation posts record $46.2M ETH staking deposit",
+      "summary": "The Ethereum Foundation recorded a large ETH staking deposit ($46.2M), highlighting renewed staking activity and institutional interest in securing the network and earning staking yields.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/ethereum-foundation-record-eth-staking/",
+      "published_at": "March 30, 2026",
+      "category": "Ethereum / Staking"
+    },
+    {
+      "title": "Upbit listing lifts Sky Protocol (SKY) — token jumps after listing news",
+      "summary": "Tier-1 exchange Upbit announced listings for Sky Protocol (SKY) and USDS, opening the token to Korea's large retail base and driving an immediate price and volume spike.",
+      "source": "CoinMarketCap top stories",
+      "url": "https://coinmarketcap.com/top-stories/69cb3a049e7a49696fd4bfd8/",
+      "published_at": "March 31, 2026",
+      "category": "Exchange / Altcoin"
+    },
+    {
+      "title": "Ripple Prime integrates commodity perps on Hyperliquid (HIP-3)",
+      "summary": "Ripple Prime expanded its Hyperliquid integration to add gold, silver and oil perpetuals via HIP-3, letting institutional clients trade on-chain commodity derivatives alongside crypto positions.",
+      "source": "SpendNode report",
+      "url": "https://www.spendnode.io/blog/ripple-prime-hyperliquid-hip-3-gold-silver-oil-institutional-commodity-perps-onchain/",
+      "published_at": "March 30–31, 2026",
+      "category": "Exchange / Derivatives"
+    }
+  ]
 }
