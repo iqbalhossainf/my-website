@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-03-31 23:50 UTC",
+  "updated_at": "2026-04-01 06:13 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 68161,
-      "change_24h": 2.1992317644855333
+      "price": 68585,
+      "change_24h": 1.7107985368645038
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2100.39,
-      "change_24h": 3.758044405384686
+      "price": 2136.5,
+      "change_24h": 3.837184143760195
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 616.41,
-      "change_24h": 1.301897693247238
+      "price": 617.77,
+      "change_24h": 0.9873429258245483
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 83.03,
-      "change_24h": 0.7422574279239597
+      "price": 84.13,
+      "change_24h": 0.8701503600835923
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.34,
-      "change_24h": 1.2033460529697044
+      "price": 1.35,
+      "change_24h": 2.3705067724314333
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.241398,
-      "change_24h": -0.6818805725027047
+      "price": 0.251692,
+      "change_24h": 3.0556541002169264
     }
   ],
   "bullish": [
     {
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "price": 0.104687,
+      "change_24h": 24.396088651389196
+    },
+    {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.02918866,
-      "change_24h": 20.80653625214043
+      "price": 0.02879927,
+      "change_24h": 19.782452041989803
     },
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.0113565,
-      "change_24h": 18.433975879190907
+      "price": 0.01138101,
+      "change_24h": 7.227830430947818
     },
     {
-      "name": "Algorand",
-      "symbol": "ALGO",
-      "price": 0.093295,
-      "change_24h": 13.500140210740947
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price": 0.277924,
+      "change_24h": 6.553871646249954
     },
     {
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "price": 0.04826982,
-      "change_24h": 11.284135725261145
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "price": 248.55,
-      "change_24h": 10.199966368868989
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price": 1.58,
+      "change_24h": 6.26843556717224
     }
   ],
   "bearish": [
     {
+      "name": "NEXO",
+      "symbol": "NEXO",
+      "price": 0.87224,
+      "change_24h": -1.5123506709062433
+    },
+    {
       "name": "TRON",
       "symbol": "TRX",
-      "price": 0.313441,
-      "change_24h": -1.8078280121303647
+      "price": 0.315855,
+      "change_24h": -1.4866759622597499
+    },
+    {
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "price": 463.76,
+      "change_24h": -0.9942001636358502
+    },
+    {
+      "name": "Canton",
+      "symbol": "CC",
+      "price": 0.146295,
+      "change_24h": -0.9635976287970961
     },
     {
       "name": "HTX DAO",
       "symbol": "HTX",
-      "price": 1.7e-06,
-      "change_24h": -1.5037250120998
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "price": 306.22,
-      "change_24h": -1.3695489814421953
-    },
-    {
-      "name": "NEXO",
-      "symbol": "NEXO",
-      "price": 0.869812,
-      "change_24h": -0.7970756191437011
-    },
-    {
-      "name": "POL (ex-MATIC)",
-      "symbol": "POL",
-      "price": 0.090739,
-      "change_24h": -0.7078310756718196
+      "price": 1.71e-06,
+      "change_24h": -0.9581137338161867
     }
   ]
 }
