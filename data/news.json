@@ -1,76 +1,9 @@
 {
-  "updated_at": "2026-04-01 17:40 UTC",
+  "updated_at": "2026-04-01 20:08 UTC",
   "headlines": [
-    "Bitcoin rebounds to ~$68K as markets lift",
-    "Spot Bitcoin ETFs post $1.3B inflows for March",
-    "Bitcoin posts worst Q1 since 2018, analysts warn",
-    "Axios npm supply‑chain attack may expose crypto wallets",
-    "Magic Eden wallet moves to export‑only / ends support for some chains on April 1, 2026"
+    "Do you want global or US-focused coverage?",
+    "Confirm: include source links and full citations?",
+    "I’ll fetch the top 8 crypto stories from roughly the last 24 hours once you confirm."
   ],
-  "articles": [
-    {
-      "title": "Bitcoin rebounds to ~$68K as markets lift",
-      "summary": "Bitcoin and the wider crypto market climbed on April 1, 2026 after macro news and renewed ETF demand pushed prices higher; traders saw volume pickup and short-term volatility.",
-      "source": "CoinMarketCap / Crypto Economy",
-      "url": "source: CoinMarketCap / Crypto Economy",
-      "published_at": "April 1, 2026",
-      "category": "Market/Bitcoin"
-    },
-    {
-      "title": "Spot Bitcoin ETFs post $1.3B inflows in March",
-      "summary": "Spot Bitcoin ETFs recorded about $1.3 billion of net inflows in March 2026, their first monthly gain of the year — a sign some institutional investors are returning to Bitcoin products.",
-      "source": "Crypto Economy / ad-hoc-news",
-      "url": "source: Crypto Economy / ad-hoc-news",
-      "published_at": "April 1, 2026",
-      "category": "ETF/Market"
-    },
-    {
-      "title": "Bitcoin posts worst Q1 since 2018",
-      "summary": "Bitcoin fell nearly 24% in Q1 2026, marking its weakest first quarter since 2018 as macro pressure and earlier outflows weighed on price.",
-      "source": "The Block",
-      "url": "source: The Block",
-      "published_at": "April 1, 2026",
-      "category": "Market/Bitcoin"
-    },
-    {
-      "title": "Supply‑chain attack on Axios npm releases could target crypto wallets",
-      "summary": "Security researchers flagged a supply‑chain compromise affecting Axios npm packages (published March 31–April 1, 2026) that could let attackers steal developer keys and endanger crypto wallets — developers are urged to rotate credentials and audit dependencies.",
-      "source": "Cryptopolitan / TradingView (news feed)",
-      "url": "source: Cryptopolitan / TradingView",
-      "published_at": "March 31, 2026",
-      "category": "Security/Wallets"
-    },
-    {
-      "title": "Magic Eden wallet switches to export‑only, ends support for some chains",
-      "summary": "Magic Eden announced its self‑custody wallet will enter export‑only mode (early April 2026), prompting users to withdraw funds or move assets to other wallets before full shutdown of certain features.",
-      "source": "Cryptopolitan / YouToCoin",
-      "url": "source: Cryptopolitan / YouToCoin",
-      "published_at": "March 31, 2026",
-      "category": "Exchange/Wallets"
-    },
-    {
-      "title": "Major token unlocks arrive in early April — Celestia notable",
-      "summary": "Large scheduled token unlocks (for projects such as Celestia on April 1, 2026) will increase circulating supply and could add short‑term selling pressure for affected tokens. Traders should watch unlock schedules and vesting details.",
-      "source": "DailyCoin",
-      "url": "source: DailyCoin",
-      "published_at": "April 1, 2026",
-      "category": "Altcoins/On‑chain events"
-    },
-    {
-      "title": "Binance launches oil & gas perpetual futures with 100x leverage",
-      "summary": "Binance rolled out perpetual futures for WTI, Brent and natural gas with up to 100x leverage (launch staged around April 1, 2026), giving crypto traders exotic exposure to energy prices — risk and regulatory attention may rise.",
-      "source": "Bitcoin.com / Crypto news feed",
-      "url": "source: Bitcoin.com",
-      "published_at": "April 1, 2026",
-      "category": "Exchange/Derivatives"
-    },
-    {
-      "title": "Delaware lawmakers introduce stablecoin licensing bill",
-      "summary": "Delaware proposed a state framework to license payment stablecoin issuers, aligning with recent federal stablecoin rules and aiming to attract payments and crypto firms to the state.",
-      "source": "Cointelegraph",
-      "url": "source: Cointelegraph",
-      "published_at": "March 24, 2026",
-      "category": "Regulation/Stablecoins"
-    }
-  ]
+  "articles": []
 }
