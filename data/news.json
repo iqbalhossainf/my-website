@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-02 21:56 UTC",
+  "updated_at": "2026-04-02 23:06 UTC",
   "headlines": [
-    "Bitcoin ETFs post first monthly inflows since October",
-    "Bitcoin posts worst Q1 since 2018",
-    "Franklin Templeton to buy CoinFund spinoff, launch 'Franklin Crypto'",
-    "SoFi launches 'Big Business Banking' on Solana for fiat + stablecoin rails",
-    "CFTC wins consent order: KuCoin operator barred from US access, $500K penalty (consent order) — March 30, 2026 filing noted in coverage)  *date clarification included* )​**(Regulatory/Exchange)**:  — (CFTC press release)  — (Benzinga)​)​**(Regulatory/Exchange)**  — (CFTC press release)  — (Benzinga)**"
+    "Coinbase wins conditional OCC approval for a national trust charter",
+    "Coinbase says CLARITY Act stablecoin deal is 'very close'",
+    "Volatility Shares launches new 2x leveraged altcoin ETFs (ADA, XLM, LINK)",
+    "Deloitte confirms Ripple’s RLUSD stablecoin is fully backed",
+    "BitGo launches institutional stablecoin minting platform (BitGo Mint) for clients"
   ],
   "articles": [
     {
-      "title": "U.S. spot Bitcoin ETFs posted $1.32B in March — first monthly inflow since October",
-      "summary": "March saw U.S. spot Bitcoin ETFs attract about $1.32 billion, ending a four-month outflow streak. The inflows show some returning institutional interest but Q1 still finished with net outflows overall. (Data and coverage cited Apr 1, 2026.)",
-      "source": "CoinMarketCap / CoinDesk coverage",
-      "url": "",
-      "published_at": "2026-04-01",
-      "category": "ETF & Market News"
-    },
-    {
-      "title": "Bitcoin fell 24% in Q1 — worst first quarter since 2018",
-      "summary": "Bitcoin closed Q1 2026 down roughly 24%, its weakest opening quarter in years as macro pressure and ETF flow swings weighed on prices. The drop highlights ongoing market stress even as ETFs and institutional buyers show mixed signals. (Reported Apr 1–2, 2026.)",
-      "source": "The Block",
-      "url": "",
-      "published_at": "2026-04-01",
-      "category": "Market / Bitcoin"
-    },
-    {
-      "title": "Franklin Templeton to buy CoinFund spinoff 250 Digital and form 'Franklin Crypto'",
-      "summary": "Asset manager Franklin Templeton agreed to acquire 250 Digital (a CoinFund spinoff) and will roll the team into a new institutional unit called Franklin Crypto, boosting traditional-finance exposure to active crypto strategies. The deal was announced Apr 1, 2026.",
-      "source": "Franklin Templeton press release / Reuters",
-      "url": "",
-      "published_at": "2026-04-01",
-      "category": "Institutional / ETF"
-    },
-    {
-      "title": "SoFi launches 'Big Business Banking' that uses Solana for enterprise fiat and stablecoin operations",
-      "summary": "SoFi unveiled 'Big Business Banking' — a regulated, 24/7 enterprise banking platform that will leverage Solana (and other rails) to let companies hold deposits, move fiat, mint/burn stablecoins and settle in real time. The launch was announced Apr 2, 2026.",
-      "source": "SoFi press release / The Block",
-      "url": "",
+      "title": "Coinbase wins conditional OCC approval for a national trust charter",
+      "summary": "Coinbase received conditional approval from U.S. banking regulators to form a federally chartered national trust company, a step that could let the exchange offer custody and banking-style services under federal oversight. ([news.bloomberglaw.com](https://news.bloomberglaw.com/crypto/coinbase-says-it-wins-conditional-us-approval-for-trust-charter?utm_source=openai))",
+      "source": "Bloomberg Law / The Block",
+      "url": "https://news.bloomberglaw.com/crypto/coinbase-says-it-wins-conditional-us-approval-for-trust-charter",
       "published_at": "2026-04-02",
-      "category": "Payments / Stablecoin / Blockchain"
+      "category": "exchange / regulation"
     },
     {
-      "title": "CFTC consent order bars KuCoin operator from U.S.; $500,000 civil penalty",
-      "summary": "The CFTC’s consent order against Peken Global Limited (operator of KuCoin) requires a $500,000 penalty and prohibits allowing U.S. participants to trade on KuCoin unless the platform registers with the CFTC as a foreign board of trade. (Court action and CFTC release published Mar 30–31, 2026; widely reported Apr 1.)",
-      "source": "CFTC press release / Benzinga",
-      "url": "",
+      "title": "Coinbase says CLARITY Act stablecoin deal is 'very close'",
+      "summary": "Coinbase’s chief legal officer said negotiators may reach a compromise on the CLARITY Act’s stablecoin 'yield' language within 48 hours, moving the long-running U.S. stablecoin debate toward a possible Senate markup. ([coinpaper.com](https://coinpaper.com/15950/coinbase-clo-expects-clarity-act-stablecoin-rewards-deal-this-week?utm_source=openai))",
+      "source": "CoinPaper / Bitcoin Foundation",
+      "url": "https://coinpaper.com/15950/coinbase-clo-expects-clarity-act-stablecoin-rewards-deal-this-week",
+      "published_at": "2026-04-02",
+      "category": "regulation / stablecoin"
+    },
+    {
+      "title": "Volatility Shares launches 2x leveraged ETFs for Cardano, Stellar and Chainlink",
+      "summary": "Volatility Shares rolled out new 2x leveraged ETFs giving investors doubled exposure to Cardano (ADA), Stellar (XLM) and Chainlink (LINK) — expanding the wave of crypto ETF product variety. Leveraged ETFs carry extra risk and are aimed at short-term or professional traders. ([stockanalysis.com](https://stockanalysis.com/etf/crdx/?utm_source=openai))",
+      "source": "StockAnalysis / Volatility Shares press coverage",
+      "url": "https://stockanalysis.com/etf/crdx/",
+      "published_at": "2026-04-01",
+      "category": "ETF / altcoin"
+    },
+    {
+      "title": "Big Four auditor Deloitte verifies Ripple’s RLUSD reserves",
+      "summary": "Deloitte released an attestation confirming Ripple’s RLUSD stablecoin reserves exceed tokens in circulation, a credibility boost for the dollar-backed coin as it pursues more institutional use. ([coinpaper.com](https://coinpaper.com/15957/big-four-auditing-firm-deloitte-validates-ripple-s-rlusd-in-major-credibility-boost?utm_source=openai))",
+      "source": "CoinPaper / TheStreet",
+      "url": "https://coinpaper.com/15957/big-four-auditing-firm-deloitte-validates-ripple-s-rlusd-in-major-credibility-boost",
+      "published_at": "2026-04-02",
+      "category": "stablecoin / altcoin"
+    },
+    {
+      "title": "BitGo launches stablecoin minting platform for institutional clients",
+      "summary": "BitGo announced 'BitGo Mint', a stablecoin-as-a-service platform that lets institutional issuers mint and manage regulated dollar-pegged coins through BitGo’s custody and distribution network. The move targets banks, asset managers and exchanges. ([news.bitcoin.com](https://news.bitcoin.com/nyse-listed-bitgo-rolls-out-stablecoin-minting-platform-for-institutional-clients//?utm_source=openai))",
+      "source": "Bitcoin.com (news)",
+      "url": "https://news.bitcoin.com/nyse-listed-bitgo-rolls-out-stablecoin-minting-platform-for-institutional-clients//",
+      "published_at": "2026-04-02",
+      "category": "stablecoin / infrastructure"
+    },
+    {
+      "title": "Bitcoin slips to mid-$60k as markets react to macro and geopolitical news",
+      "summary": "Bitcoin traded lower on April 2, sliding into the mid-$60,000s as investors reacted to fresh macro and geopolitical headlines that weighed on risk assets. Market volatility and liquidations pushed short-term selling across crypto. ([finance.yahoo.com](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-2-2026-prices-lose-ground-after-trump-promises-quick-fierce-end-to-war-120045450.html?utm_source=openai))",
+      "source": "Yahoo Finance / Bitcoin.com market coverage",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-2-2026-prices-lose-ground-after-trump-promises-quick-fierce-end-to-war-120045450.html",
+      "published_at": "2026-04-02",
+      "category": "market / Bitcoin"
+    },
+    {
+      "title": "Ethereum Foundation stakes $46.2M in ETH — largest single staking event",
+      "summary": "On-chain data shows the Ethereum Foundation deposited roughly 22,517 ETH (~$46.2M) into staking, its biggest single staking operation to date as the foundation moves more treasury assets into yield-generating activity. ([dailycoin.com](https://dailycoin.com/ethereum-foundation-stakes-22517-eth-record-transaction/?utm_source=openai))",
+      "source": "DailyCoin / Arkham-based on-chain reports",
+      "url": "https://dailycoin.com/ethereum-foundation-stakes-22517-eth-record-transaction/",
       "published_at": "2026-03-30",
-      "category": "Regulation / Exchange"
+      "category": "Ethereum / treasury"
     },
     {
-      "title": "Ripple’s RLUSD stablecoin lists on South Korea exchange Coinone",
-      "summary": "Ripple’s dollar-pegged stablecoin RLUSD was listed on Coinone, giving Korean traders KRW access to RLUSD trading and expanding Ripple’s stablecoin reach in Asia. (Reported Apr 1, 2026.)",
-      "source": "CoinPaper / regional coverage",
-      "url": "",
-      "published_at": "2026-04-01",
-      "category": "Stablecoin / Altcoin"
-    },
-    {
-      "title": "Large corporate treasuries keep buying Ethereum — big weekly ETH buys reported",
-      "summary": "On-chain trackers show corporate and treasury buyers continued large ETH purchases in late March–early April (weekly seven-figure buys), signaling institutional accumulation even as ETH prices remain under pressure. (Reported Apr 1, 2026.)",
-      "source": "CryptoAdventure / Crypto.com market coverage",
-      "url": "",
-      "published_at": "2026-04-01",
-      "category": "Ethereum / Institutional Demand"
-    },
-    {
-      "title": "Ethereum ETF complex and some ETH funds saw outflows as April opened; Grayscale products bucked the trend",
-      "summary": "Spot Ethereum ETFs finished Q1 with notable outflows and some ETF products saw further withdrawals on Apr 1, 2026 — while Grayscale’s ETH product attracted inflows, highlighting fee- and product-level rotation among institutional investors.",
-      "source": "Cryptonews / BeinCrypto coverage",
-      "url": "",
-      "published_at": "2026-04-01",
-      "category": "ETF / Ethereum"
+      "title": "Coinbase, Cloudflare and Stripe build infrastructure for 'AI money'",
+      "summary": "Big tech and payments firms including Coinbase, Cloudflare and Stripe are working on systems that would let AI agents handle payments and money — a trend that could reshape how crypto and web payments interact with AI services. ([news.bloomberglaw.com](https://news.bloomberglaw.com/business-and-practice/coinbase-cloudflare-stripe-push-to-shape-future-of-ai-money?utm_source=openai))",
+      "source": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/business-and-practice/coinbase-cloudflare-stripe-push-to-shape-future-of-ai-money",
+      "published_at": "2026-04-02",
+      "category": "payments / crypto + AI"
     }
   ]
 }
