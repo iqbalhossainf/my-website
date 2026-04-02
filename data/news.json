@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-02 12:06 UTC",
+  "updated_at": "2026-04-02 16:14 UTC",
   "headlines": [
-    "Drift $280M Solana exploit raises questions over USDC freezes",
-    "US Treasury seeks comment on state-level stablecoin rules (NPRM)",
-    "Coinbase says CLARITY Act markup is near — stablecoin yield still unresolved",
-    "EDX Markets applies for OCC trust bank charter for crypto custody",
-    "Bitcoin faces fresh downside as US dollar rallies; traders warn of new lows','Metaplanet buys 5,075 BTC in Q1, becomes 3rd-largest public BTC treasury','Alabama becomes 2nd US state to give DAOs legal status under DUNA','Morgan Stanley advances spot Bitcoin ETF filing (ticker MSBT)"
+    "US spot Bitcoin ETFs see big one-day outflows",
+    "Morgan Stanley signals near-launch of MSBT Bitcoin ETF",
+    "Bitcoin falls to about $66K after US foreign-policy remarks",
+    "SoFi launches 24/7 enterprise crypto + stablecoin banking",
+    "Bybit publishes new proof-of-reserves report showing >100% backing of major assets as of Mar. 18, 2026 (verified) (press release) — Apr 2, 2026) — TheStreet) — Apr 2, 2026) — Apr 2, 2026)"
   ],
   "articles": [
     {
-      "title": "Drift $280M Solana exploit raises questions over USDC freezes",
-      "summary": "Drift Protocol says a 'durable nonce' attack on Solana enabled a roughly $280M drain, much of which was swapped into USDC and bridged — prompting criticism that Circle had hours to freeze funds but did not. Simple: a big Solana DEX hack exposed cross-chain and stablecoin response issues. ",
-      "source": "Cointelegraph",
-      "url": "(Cointelegraph coverage)",
-      "published_at": "1 hour ago",
-      "category": "Hack / Stablecoin"
+      "title": "US spot Bitcoin ETFs flip to net outflows (~$174M)",
+      "summary": "Data show the 12 US spot Bitcoin ETFs recorded about $173.7 million in combined outflows on April 1, signaling short-term cooling in demand after recent inflows. This daily reversal suggests ETF flows remain macro-sensitive and tactical. ",
+      "source": "TokenPost",
+      "url": "https://www.tokenpost.com/news/insights/19527",
+      "published_at": "Apr 1-2, 2026",
+      "category": "ETF / Market News"
     },
     {
-      "title": "US Treasury seeks public comment on state-level stablecoin rules (NPRM)",
-      "summary": "The U.S. Treasury published a notice of proposed rulemaking asking for public input on how states should implement the GENIUS Act’s stablecoin framework for issuers under $10B market cap. Simple: Washington is inviting feedback before finalizing state-level stablecoin rules. ",
-      "source": "Cointelegraph (reports Treasury NPRM)",
-      "url": "(Cointelegraph coverage of Treasury NPRM)",
-      "published_at": "14 hours ago",
-      "category": "Regulation / Stablecoin"
+      "title": "Morgan Stanley updates S‑1 for new Bitcoin ETF; ticker MSBT appears",
+      "summary": "Morgan Stanley filed Amendment No.4 to its S‑1 for the Morgan Stanley Bitcoin Trust, a step toward listing a spot-Bitcoin ETF on NYSE Arca under ticker MSBT — a sign more institutional ETFs may launch soon. ",
+      "source": "Bitcoin.com",
+      "url": "https://news.bitcoin.com/morgan-stanley-signals-bitcoin-etf-near-launch-with-amendment-4-update/",
+      "published_at": "Apr 1, 2026",
+      "category": "ETF / Regulation"
     },
     {
-      "title": "Coinbase says CLARITY Act markup is near, but yield dispute remains",
-      "summary": "Coinbase’s chief legal officer said senators are close to a compromise on the CLARITY crypto market-structure bill, but lawmakers still disagree over whether stablecoin issuers or platforms can pay yield. Simple: federal crypto law may move soon, but the stablecoin-yield fight is the key hold-up. ",
-      "source": "Cointelegraph",
-      "url": "(Cointelegraph coverage)",
-      "published_at": "2 hours ago",
-      "category": "Regulation / Legislation"
+      "title": "Bitcoin tumbles to around $66K after strong US foreign‑policy signal",
+      "summary": "Bitcoin fell roughly 2–3% to about $66,000 as risk assets sold off after a US presidential speech signaling tougher action overseas; traders noted heightened geo‑political risk and broader market volatility. ",
+      "source": "Yahoo Finance (Bloomberg reporting)",
+      "url": "https://finance.yahoo.com/news/bitcoin-tumbles-stocks-trump-signals-065520688.html",
+      "published_at": "Apr 2, 2026",
+      "category": "Market / Bitcoin"
     },
     {
-      "title": "EDX Markets applies for OCC national trust bank to expand custody",
-      "summary": "EDX Markets filed with the OCC to create a national trust bank (EDX Trust) to separate custody and settlement from trading and offer institutional custody, settlement and fiduciary services under a federal charter. Simple: institutional custody options are expanding under bank supervision. ",
-      "source": "Cointelegraph",
-      "url": "(Cointelegraph coverage)",
-      "published_at": "15 hours ago",
+      "title": "SoFi launches enterprise bank platform with crypto and stablecoin settlement",
+      "summary": "SoFi rolled out 'SoFi Big Business Banking' to let U.S. enterprises hold deposits, move money, and settle transactions in fiat and crypto 24/7 — a push toward bank-level crypto rails for corporate users. ",
+      "source": "Bitcoin.com",
+      "url": "https://news.bitcoin.com/sofi-technologies-launches-first-national-bank-enterprise-crypto-and-stablecoin-platform/",
+      "published_at": "Apr 2, 2026",
+      "category": "Banking / Stablecoins / Infrastructure"
+    },
+    {
+      "title": "Bybit publishes latest Proof‑of‑Reserves report; shows overcollateralization",
+      "summary": "Bybit released its 32nd PoR report (assets as of Mar. 18) with independent verification from Hacken, showing reserve ratios above 100% for major tracked assets — continuing the exchange's transparency program. ",
+      "source": "TheStreet (press release)",
+      "url": "https://www.thestreet.com/crypto/press-releases/bybit-releases-32nd-proof-of-reserves-report-maintaining-overcollateralized-positions-across-major-assets/",
+      "published_at": "Apr 2, 2026",
       "category": "Exchange / Custody"
     },
     {
-      "title": "Bitcoin risks fresh lows as US dollar hits multi‑month highs",
-      "summary": "Bitcoin fell after US‑Iran war headlines and a stronger US dollar; traders warn a DXY breakout could push BTC and other risk assets to new lows. Simple: macro and geopolitical moves are pressuring crypto prices now. ",
-      "source": "Cointelegraph",
-      "url": "(Cointelegraph coverage)",
-      "published_at": "4 hours ago",
-      "category": "Markets / Bitcoin"
+      "title": "Japan’s Metaplanet bought 5,075 BTC in Q1; now holds ~40,177 BTC",
+      "summary": "Metaplanet disclosed it bought 5,075 BTC during Q1 2026, bringing total treasury holdings to about 40,177 BTC — a major corporate accumulation that can influence market supply dynamics. ",
+      "source": "Bitcoin.com",
+      "url": "https://news.bitcoin.com/metaplanet-buys-5075-bitcoin-in-q1-2026-total-holdings-hit-40177-btc/",
+      "published_at": "Apr 2, 2026",
+      "category": "Bitcoin / Corporate Treasury"
     },
     {
-      "title": "Metaplanet buys 5,075 BTC in Q1, becomes 3rd‑largest public BTC treasury",
-      "summary": "Tokyo-listed Metaplanet bought about 5,075 BTC (~$405M) in Q1 and now holds 40,177 BTC, making it the third-largest publicly listed Bitcoin treasury. Simple: another corporate buyer added a large, visible BTC position this quarter. ",
-      "source": "Cointelegraph",
-      "url": "(Cointelegraph coverage)",
-      "published_at": "1 hour ago",
-      "category": "Adoption / Bitcoin"
+      "title": "Google, OpenAI and Circle explore agentic payments and crypto tooling",
+      "summary": "Tech giants and a major payments-focused crypto firm are teaming on so‑called 'agentic' payments — building infrastructure that could let software agents execute payments (including tokenized/stablecoin flows) on behalf of users. ",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/google-openai-circle-join-hands-for-agentic-payments",
+      "published_at": "Apr 2, 2026",
+      "category": "Payments / Infrastructure"
     },
     {
-      "title": "Alabama gives DAOs legal status under a DUNA law",
-      "summary": "Alabama signed a DUNA bill that grants decentralized autonomous organizations legal entity status and limited liability, becoming the second US state after Wyoming to do so. Simple: more U.S. states are creating legal frameworks for DAOs. ",
-      "source": "Cointelegraph",
-      "url": "(Cointelegraph coverage)",
-      "published_at": "5 hours ago",
-      "category": "Regulation / DAOs"
-    },
-    {
-      "title": "Morgan Stanley advances spot Bitcoin ETF filing (ticker MSBT)",
-      "summary": "Morgan Stanley filed another S‑1 amendment for a proposed spot Bitcoin ETF (to trade as MSBT on NYSE Arca), detailing custody, seed shares and fees — signaling the product could launch soon if the SEC clears it. Simple: another big bank is lining up a low‑fee spot BTC ETF. ",
-      "source": "Bitcoin.com (coverage)",
-      "url": "(Bitcoin.com coverage)",
-      "published_at": "Apr 1, 2026",
-      "category": "ETF / Bitcoin"
+      "title": "MiniPay partners with WalletConnect to speed stablecoin payments",
+      "summary": "MiniPay announced a partnership with WalletConnect to simplify stablecoin payments via WalletConnect Pay, aiming to reduce friction for merchants and wallets using stablecoins for real‑time settlement. ",
+      "source": "CoinTrust",
+      "url": "https://www.cointrust.com/market-news/minipay-partners-walletconnect-to-boost-stablecoin-payments",
+      "published_at": "Apr 2, 2026",
+      "category": "Stablecoins / Payments / Integration"
     }
   ]
 }
