@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-02 23:05 UTC",
+  "updated_at": "2026-04-03 05:51 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 66987,
-      "change_24h": -1.749322161319788
+      "price": 66685,
+      "change_24h": 0.28537663129177987
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2059.08,
-      "change_24h": -3.905055548147334
+      "price": 2058.92,
+      "change_24h": 0.573653625428208
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 583.66,
-      "change_24h": -4.488818396339884
+      "price": 587.46,
+      "change_24h": -0.5413354839782178
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 78.97,
-      "change_24h": -2.693083237870074
+      "price": 79.48,
+      "change_24h": 0.620214290567921
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.32,
-      "change_24h": -2.3173709817831947
+      "change_24h": 0.6318662627525061
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.239524,
-      "change_24h": -3.2139482612096355
+      "price": 0.244514,
+      "change_24h": 2.830452969831155
     }
   ],
   "bullish": [
     {
-      "name": "Little Pepe",
-      "symbol": "LILPEPE",
-      "price": 6.49,
-      "change_24h": 486551.49055032013
-    },
-    {
-      "name": "Provenance Blockchain",
-      "symbol": "HASH",
-      "price": 0.01119264,
-      "change_24h": 7.389473537157515
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "price": 0.117483,
+      "change_24h": 18.268492637828228
     },
     {
       "name": "Render",
       "symbol": "RENDER",
-      "price": 1.86,
-      "change_24h": 5.537478265428505
+      "price": 1.9,
+      "change_24h": 10.741432571005367
     },
     {
       "name": "Quant",
       "symbol": "QNT",
-      "price": 73.67,
-      "change_24h": 4.50342838567516
+      "price": 75.32,
+      "change_24h": 7.281310149848194
     },
     {
-      "name": "Algorand",
-      "symbol": "ALGO",
-      "price": 0.106861,
-      "change_24h": 3.9825755289688742
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price": 0.159903,
+      "change_24h": 5.201317211549787
+    },
+    {
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price": 1.72,
+      "change_24h": 5.111076845834691
     }
   ],
   "bearish": [
     {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "price": 3.17,
-      "change_24h": -11.30848074518985
-    },
-    {
-      "name": "Ethena",
-      "symbol": "ENA",
-      "price": 0.081128,
-      "change_24h": -9.77356152808575
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "price": 240.91,
-      "change_24h": -6.07470966305285
-    },
-    {
-      "name": "Official Trump",
-      "symbol": "TRUMP",
-      "price": 2.82,
-      "change_24h": -5.01076142440509
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.02859035,
+      "change_24h": -4.836114352030914
     },
     {
       "name": "Midnight",
       "symbol": "NIGHT",
-      "price": 0.04578888,
-      "change_24h": -4.775028281662276
+      "price": 0.04609016,
+      "change_24h": -4.155310871964792
+    },
+    {
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price": 0.082216,
+      "change_24h": -2.8488620140038483
+    },
+    {
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price": 0.171241,
+      "change_24h": -2.1416362776723035
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price": 3.24,
+      "change_24h": -1.9804720157496885
     }
   ]
 }

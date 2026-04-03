@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-02 23:06 UTC",
+  "updated_at": "2026-04-03 05:53 UTC",
   "headlines": [
-    "Coinbase wins conditional OCC approval for a national trust charter",
-    "Coinbase says CLARITY Act stablecoin deal is 'very close'",
-    "Volatility Shares launches new 2x leveraged altcoin ETFs (ADA, XLM, LINK)",
-    "Deloitte confirms Ripple’s RLUSD stablecoin is fully backed",
-    "BitGo launches institutional stablecoin minting platform (BitGo Mint) for clients"
+    "Bitcoin slips to mid-$60Ks after worst Q1 since 2018",
+    "Huge Bitcoin & Ethereum options expiry raises volatility risks",
+    "Wormhole (W) token: massive token unlock set for April 3",
+    "CLARITY Act: Senate markup eyed for late April as yield text nears deal",
+    "Tether hires KPMG for first full USDT financial audit (big stablecoin news)​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ "
   ],
   "articles": [
     {
-      "title": "Coinbase wins conditional OCC approval for a national trust charter",
-      "summary": "Coinbase received conditional approval from U.S. banking regulators to form a federally chartered national trust company, a step that could let the exchange offer custody and banking-style services under federal oversight. ([news.bloomberglaw.com](https://news.bloomberglaw.com/crypto/coinbase-says-it-wins-conditional-us-approval-for-trust-charter?utm_source=openai))",
-      "source": "Bloomberg Law / The Block",
-      "url": "https://news.bloomberglaw.com/crypto/coinbase-says-it-wins-conditional-us-approval-for-trust-charter",
-      "published_at": "2026-04-02",
-      "category": "exchange / regulation"
+      "title": "Bitcoin price drops; Q1 2026 was the worst quarter since 2018",
+      "summary": "Bitcoin fell back into the mid‑$60,000s as macro and geopolitical risk pushed traders risk‑off. The asset posted its worst first quarter since 2018, keeping pressure on crypto markets and leading funds to re‑assess positions.",
+      "source": "The Block; FX Leaders",
+      "url": "(sources)",
+      "published_at": "2026-04-02/03",
+      "category": "market"
     },
     {
-      "title": "Coinbase says CLARITY Act stablecoin deal is 'very close'",
-      "summary": "Coinbase’s chief legal officer said negotiators may reach a compromise on the CLARITY Act’s stablecoin 'yield' language within 48 hours, moving the long-running U.S. stablecoin debate toward a possible Senate markup. ([coinpaper.com](https://coinpaper.com/15950/coinbase-clo-expects-clarity-act-stablecoin-rewards-deal-this-week?utm_source=openai))",
-      "source": "CoinPaper / Bitcoin Foundation",
-      "url": "https://coinpaper.com/15950/coinbase-clo-expects-clarity-act-stablecoin-rewards-deal-this-week",
-      "published_at": "2026-04-02",
-      "category": "regulation / stablecoin"
+      "title": "Large Bitcoin & Ethereum options expiry today raises volatility risk",
+      "summary": "More than a billion dollars of BTC and ETH options settled on April 3, creating extra short‑term volatility and raising the chance of sudden price moves as market makers hedge positions.",
+      "source": "BeInCrypto; market trackers",
+      "url": "(sources)",
+      "published_at": "2026-04-03",
+      "category": "derivatives/market"
     },
     {
-      "title": "Volatility Shares launches 2x leveraged ETFs for Cardano, Stellar and Chainlink",
-      "summary": "Volatility Shares rolled out new 2x leveraged ETFs giving investors doubled exposure to Cardano (ADA), Stellar (XLM) and Chainlink (LINK) — expanding the wave of crypto ETF product variety. Leveraged ETFs carry extra risk and are aimed at short-term or professional traders. ([stockanalysis.com](https://stockanalysis.com/etf/crdx/?utm_source=openai))",
-      "source": "StockAnalysis / Volatility Shares press coverage",
-      "url": "https://stockanalysis.com/etf/crdx/",
-      "published_at": "2026-04-01",
-      "category": "ETF / altcoin"
+      "title": "Wormhole (W) faces a major token unlock on April 3",
+      "summary": "Wormhole is set for a large vesting/cliff release on April 3 that will add hundreds of millions–over a billion–W tokens into circulation. Traders expect extra sell pressure and high volatility for W and related cross‑chain tokens.",
+      "source": "Gate Calendar; DailyCoin; Wormhole blog",
+      "url": "(sources)",
+      "published_at": "2026-04-03",
+      "category": "altcoin/tokenomics"
     },
     {
-      "title": "Big Four auditor Deloitte verifies Ripple’s RLUSD reserves",
-      "summary": "Deloitte released an attestation confirming Ripple’s RLUSD stablecoin reserves exceed tokens in circulation, a credibility boost for the dollar-backed coin as it pursues more institutional use. ([coinpaper.com](https://coinpaper.com/15957/big-four-auditing-firm-deloitte-validates-ripple-s-rlusd-in-major-credibility-boost?utm_source=openai))",
-      "source": "CoinPaper / TheStreet",
-      "url": "https://coinpaper.com/15957/big-four-auditing-firm-deloitte-validates-ripple-s-rlusd-in-major-credibility-boost",
-      "published_at": "2026-04-02",
-      "category": "stablecoin / altcoin"
+      "title": "U.S. crypto bill (CLARITY Act) moves toward April Senate markup",
+      "summary": "Senate negotiators say an in‑principle deal on stablecoin yield language is close and are targeting a Banking Committee markup in late April — a key step for U.S. crypto market‑structure and stablecoin rules.",
+      "source": "Whale‑Alert; CoinCentral",
+      "url": "(sources)",
+      "published_at": "2026-03/Apr window",
+      "category": "regulation"
     },
     {
-      "title": "BitGo launches stablecoin minting platform for institutional clients",
-      "summary": "BitGo announced 'BitGo Mint', a stablecoin-as-a-service platform that lets institutional issuers mint and manage regulated dollar-pegged coins through BitGo’s custody and distribution network. The move targets banks, asset managers and exchanges. ([news.bitcoin.com](https://news.bitcoin.com/nyse-listed-bitgo-rolls-out-stablecoin-minting-platform-for-institutional-clients//?utm_source=openai))",
-      "source": "Bitcoin.com (news)",
-      "url": "https://news.bitcoin.com/nyse-listed-bitgo-rolls-out-stablecoin-minting-platform-for-institutional-clients//",
-      "published_at": "2026-04-02",
-      "category": "stablecoin / infrastructure"
+      "title": "Tether hires KPMG for first full financial audit of USDT reserves",
+      "summary": "Tether has engaged a Big Four auditor (reported as KPMG) to perform its first full financial statement audit of USDT reserves, a major transparency step for the largest stablecoin and a potential catalyst for institutional trust.",
+      "source": "Financial Times / Bloomberg Law; The Block",
+      "url": "(sources)",
+      "published_at": "2026-03-27",
+      "category": "stablecoin/regulation"
     },
     {
-      "title": "Bitcoin slips to mid-$60k as markets react to macro and geopolitical news",
-      "summary": "Bitcoin traded lower on April 2, sliding into the mid-$60,000s as investors reacted to fresh macro and geopolitical headlines that weighed on risk assets. Market volatility and liquidations pushed short-term selling across crypto. ([finance.yahoo.com](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-2-2026-prices-lose-ground-after-trump-promises-quick-fierce-end-to-war-120045450.html?utm_source=openai))",
-      "source": "Yahoo Finance / Bitcoin.com market coverage",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-2-2026-prices-lose-ground-after-trump-promises-quick-fierce-end-to-war-120045450.html",
-      "published_at": "2026-04-02",
-      "category": "market / Bitcoin"
+      "title": "Ripple launches on‑chain Treasury Management System for corporate treasuries",
+      "summary": "Ripple rolled out a Treasury Management System that natively integrates XRP and RLUSD for corporate cash and on‑chain liquidity management — a push to bring corporate treasury workflows on‑chain.",
+      "source": "Blockonomi; MEXC media reports",
+      "url": "(sources)",
+      "published_at": "2026-04-01/02",
+      "category": "altcoin/enterprise"
     },
     {
-      "title": "Ethereum Foundation stakes $46.2M in ETH — largest single staking event",
-      "summary": "On-chain data shows the Ethereum Foundation deposited roughly 22,517 ETH (~$46.2M) into staking, its biggest single staking operation to date as the foundation moves more treasury assets into yield-generating activity. ([dailycoin.com](https://dailycoin.com/ethereum-foundation-stakes-22517-eth-record-transaction/?utm_source=openai))",
-      "source": "DailyCoin / Arkham-based on-chain reports",
-      "url": "https://dailycoin.com/ethereum-foundation-stakes-22517-eth-record-transaction/",
-      "published_at": "2026-03-30",
-      "category": "Ethereum / treasury"
+      "title": "Customer deposits at South Korea’s top exchanges fall sharply",
+      "summary": "Upbit and Bithumb reported big year‑on‑year drops in customer deposits (about ₩2.5 trillion combined), signaling capital shifting from crypto exchanges into Korean equities and other assets.",
+      "source": "BitcoinWorld (FSS/DART filings reported)",
+      "url": "(sources)",
+      "published_at": "2026-04-02/03",
+      "category": "exchange/market"
     },
     {
-      "title": "Coinbase, Cloudflare and Stripe build infrastructure for 'AI money'",
-      "summary": "Big tech and payments firms including Coinbase, Cloudflare and Stripe are working on systems that would let AI agents handle payments and money — a trend that could reshape how crypto and web payments interact with AI services. ([news.bloomberglaw.com](https://news.bloomberglaw.com/business-and-practice/coinbase-cloudflare-stripe-push-to-shape-future-of-ai-money?utm_source=openai))",
-      "source": "Bloomberg Law",
-      "url": "https://news.bloomberglaw.com/business-and-practice/coinbase-cloudflare-stripe-push-to-shape-future-of-ai-money",
-      "published_at": "2026-04-02",
-      "category": "payments / crypto + AI"
+      "title": "Spot Bitcoin & Ethereum ETFs see early April outflows",
+      "summary": "U.S. spot crypto ETFs recorded net outflows at the start of April, continuing the choppy flows that have influenced BTC and ETH price sentiment and liquidity in recent weeks.",
+      "source": "CryptoAdventure; CleanSky ETF flow reports",
+      "url": "(sources)",
+      "published_at": "2026-04-01/02",
+      "category": "ETF/market"
     }
   ]
 }
