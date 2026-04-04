@@ -1,76 +1,68 @@
 {
-  "updated_at": "2026-04-04 10:07 UTC",
+  "updated_at": "2026-04-04 11:56 UTC",
   "headlines": [
-    "Morgan Stanley moves closer to a U.S. spot Bitcoin ETF (MSBT) with new S-1 amendment",
-    "Circle announces cirBTC — a 1:1 wrapped Bitcoin for institutions",
-    "Stablecoin monthly volume tops US ACH for the first time",
-    "Bitcoin miner Riot sold 3,778 BTC in Q1 as miners trim reserves",
-    "Metaplanet bought 5,075 BTC in Q1 and became a top public Bitcoin treasury holder"
+    "Linux Foundation, Big Tech back x402 for agentic AI payments",
+    "SoFi launches Big Business Banking — fiat + stablecoins on Solana",
+    "Bitcoin near $67K as BTC ETFs see small inflows; Ether ETFs post outflows",
+    "Crypto derivatives volumes stay huge in Q1; Binance leads, Hyperliquid climbs",
+    "Telegram Wallet adds 50x perpetual futures trading inside app (Lighter) ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️"
   ],
   "articles": [
     {
-      "title": "Morgan Stanley signals near-launch for spot Bitcoin ETF (MSBT)",
-      "summary": "Morgan Stanley filed an S-1 amendment for the Morgan Stanley Bitcoin Trust (ticker MSBT) that lays out custody, listing and a low 0.14% fee — a clear sign the bank is close to launching a US spot Bitcoin ETF. (Apr 1–3, 2026)",
-      "source": "The Block / Whale Alert",
-      "url": "https://www.theblock.co",
-      "published_at": "2026-04-01",
-      "category": "ETF"
-    },
-    {
-      "title": "Circle unveils cirBTC — a 1:1 wrapped Bitcoin aimed at institutions",
-      "summary": "Circle announced cirBTC, a Bitcoin-backed token (1:1) that will launch on Ethereum and Circle’s Arc chain with on-chain reserve verification to serve OTC desks, market makers and DeFi. (Apr 3, 2026)",
-      "source": "Cointelegraph / Bitcoin.com",
-      "url": "https://cointelegraph.com/news/circle-launch-cirbtc-wrapped-bitcoin-token-targeting-institutional-markets",
+      "title": "Linux Foundation launches x402 Foundation — Big Tech backs agentic AI payments",
+      "summary": "Linux Foundation and a coalition of big tech and payments firms adopted Coinbase’s x402 protocol to standardize machine-to-machine payments. The open foundation aims to let AI agents pay and settle across crypto and fiat rails. (Apr 3, 2026)",
+      "source": "Cointelegraph; Coinbase blog",
+      "url": "https://cointelegraph.com/news/big-tech-companies-join-x402-protocol-agentic-ai",
       "published_at": "2026-04-03",
-      "category": "Stablecoin / Bitcoin"
+      "category": "Payments / Infrastructure"
     },
     {
-      "title": "Stablecoins processed more monthly volume than the US ACH network",
-      "summary": "Data shows stablecoin transfers hit roughly $7.2T in February, surpassing the US ACH network’s $6.8T — a major milestone for stablecoins as a payments and trading backbone. (Reported Apr 3, 2026)",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/stablecoins-flip-ach-monthly-volume-in-february",
-      "published_at": "2026-04-03",
-      "category": "Stablecoin / Payments"
-    },
-    {
-      "title": "Riot Platforms sold 3,778 BTC in Q1 amid miner selling pressure",
-      "summary": "Bitcoin miner Riot disclosed selling 3,778 BTC in Q1 (~$289.5M at average prices) as listed miners continue to trim holdings under market stress. This adds to a wave of miner and corporate sales. (Apr 3, 2026)",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/riot-sells-3778-bitcoin-miners-shift-strategy",
-      "published_at": "2026-04-03",
-      "category": "Bitcoin / Market"
-    },
-    {
-      "title": "Metaplanet bought 5,075 BTC in Q1 and joins the largest public Bitcoin treasuries",
-      "summary": "Tokyo-listed Metaplanet bought 5,075 BTC (~$405M) during Q1 2026, bringing its total holdings to 40,177 BTC and making it one of the largest public corporate Bitcoin treasuries. (Apr 2, 2026)",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/metaplanet-adds-5-075-btc-in-q1-bitcoin-options",
+      "title": "SoFi unveils ‘Big Business Banking’ — fiat and stablecoins settle on Solana",
+      "summary": "SoFi launched an institutional banking platform that combines fiat and stablecoin rails and will route settlement through Solana. The service (and SoFiUSD stablecoin support) targets enterprise treasury, payments and 24/7 settlement. (Apr 2–3, 2026)",
+      "source": "SoFi press release; coverage",
+      "url": "https://investors.sofi.com/news/news-details/2026/SoFi-Launches-Big-Business-Banking-to-Power-Fiat-and-Crypto-Banking-on-a-Single-Regulated-Platform/default.aspx",
       "published_at": "2026-04-02",
-      "category": "Bitcoin / Corporate Treasury"
+      "category": "Stablecoins / Banking"
     },
     {
-      "title": "Solana handled a record wave of stablecoin transfers — $650B in February",
-      "summary": "On-chain reports show Solana processed roughly $650B of stablecoin transactions in February 2026, underscoring the chain’s growth as a high-speed settlement layer for stablecoins and tokenized assets. (Reported early April 2026)",
-      "source": "Live Bitcoin News / CryptoRank",
-      "url": "https://www.livebitcoinnews.com/solana-stablecoin-volume-hits-650b-dwarfing-gold-futures/",
-      "published_at": "2026-04-01",
-      "category": "Altcoin / Stablecoin"
+      "title": "Bitcoin holds near $66–67K as BTC ETFs see small inflows; Ether ETFs post outflows",
+      "summary": "Bitcoin traded around $66–67K on Apr 3 as spot Bitcoin ETFs recorded modest inflows while spot Ether ETFs recorded notable outflows (BlackRock’s ETHA among largest single redemptions). The flows show mixed institutional demand across BTC and ETH. (Apr 2–3, 2026)",
+      "source": "Yahoo Finance; ETF flow data report",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html",
+      "published_at": "2026-04-03",
+      "category": "Market / ETF flows"
     },
     {
-      "title": "Telegram wallet adds perpetual futures trading via Lighter",
-      "summary": "Telegram’s wallet integration now supports perpetual futures trading (up to 50×) through a Lighter DEX integration, expanding crypto derivatives to Telegram’s large user base. (Apr 2, 2026)",
+      "title": "Q1 crypto derivatives volume stays enormous; Binance leads, Hyperliquid breaks top 10",
+      "summary": "CoinGlass data shows Q1 derivatives activity remained massive, with Binance topping volumes and emerging venues like Hyperliquid entering the top 10 — underscoring the dominance of derivatives in crypto trading. (late Mar–Apr 2026)",
+      "source": "Cointelegraph (CoinGlass data)",
+      "url": "https://cointelegraph.com/news/binance-derivatives-q1-hyperliquid-enters-top-10-coinglass",
+      "published_at": "2026-03-30",
+      "category": "Derivatives / Market"
+    },
+    {
+      "title": "Telegram’s in-app Wallet launches perpetual futures trading with Lighter",
+      "summary": "Telegram’s integrated wallet added perpetual futures via the Lighter DEX, offering up to 50× leverage on 50+ assets inside the messaging app — a push that brings advanced trading to millions of users. (Apr 2, 2026)",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/wallet-in-telegram-perpetual-future-lighter-dex",
       "published_at": "2026-04-02",
       "category": "Exchange / Derivatives"
     },
     {
-      "title": "CFTC settles with former FTX engineer Nishad Singh for $3.7M",
-      "summary": "The CFTC finalized a settlement requiring former FTX engineer Nishad Singh to pay $3.7M in disgorgement, closing one of the regulator’s actions tied to the FTX collapse. (Settlement public Apr 1, 2026)",
-      "source": "MEXC / Bitcoin.com (coverage of CFTC order)",
-      "url": "https://www.mexc.com/news/999851",
-      "published_at": "2026-04-01",
-      "category": "Regulation / Enforcement"
+      "title": "Soluna buys $53M wind farm to power AI data center and mining projects",
+      "summary": "Soluna closed a $53 million purchase of a wind farm to power a new AI facility (and continued bitcoin-mining operations). The deal highlights miners’ moves to secure renewable energy and diversify into AI workloads. (Apr 2–3, 2026)",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-miner-soluna-acquires-53m-wind-farm-to-power-ai-facility",
+      "published_at": "2026-04-02",
+      "category": "Mining / Energy"
+    },
+    {
+      "title": "Small public crypto firm sells entire Bitcoin treasury to pay debt",
+      "summary": "Genius Group disclosed it sold its remaining BTC in Q1 to pay down about $8.5M of debt. The move joins other firms trimming treasuries amid tight markets and shows continued corporate rebalancing. (Apr 2, 2026)",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/genius-group-triples-revenue-but-liquidates-entire-bitcoin-stash",
+      "published_at": "2026-04-02",
+      "category": "Corporate BTC / Market"
     }
   ]
 }
