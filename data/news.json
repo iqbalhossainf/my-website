@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-03 23:06 UTC",
+  "updated_at": "2026-04-04 05:15 UTC",
   "headlines": [
-    "Solana DeFi exchange Drift hit by $285M exploit; funds bridged to Ethereum",
-    "Circle and USDC come under fire after large cross‑chain outflows during Drift hack",
-    "Coinbase says CLARITY Act deal on stablecoin yields is 'very close' (Senate action expected)",
-    "Coinbase wins conditional OCC approval to charter Coinbase National Trust (Apr 2, 2026)",
-    "BlackRock’s IBIT posts massive daily volume — ETF trading rivals major exchanges (Kaiko data / Apr 2, 2026 reportings)"
+    "Morgan Stanley’s spot Bitcoin ETF (MSBT) nears launch",
+    "Stablecoin supply hits record $315B in Q1 as USDC gains",
+    "U.S. charges suspect in $54M Uranium Finance DeFi exploit",
+    "Japanese firm Metaplanet buys 5,075 BTC, becomes 3rd‑largest public treasury",
+    "JPMorgan: crypto fund flows fell to $11B in Q1 — big slowdown vs. last year (2025) / Q1 2026 drop noted (analysis) (clarify date) — source: The Block (Apr 3) — summarised below)  NOTE: The Block article reports Q1 2026 flows fell to $11B (Apr 3, 2026) — user asked for last 24 hours—this was within that window (Apr 3). Please verify directly if you need transaction‑level data) — placeholder for more accurate timestamping if needed]  Please confirm you want direct links or a different selection of stories."
   ],
   "articles": [
     {
-      "title": "Solana DeFi exchange Drift hit by $285M exploit; funds bridged to Ethereum",
-      "summary": "Drift Protocol, a Solana-based decentralized perpetuals exchange, was exploited on April 1–2, 2026 with roughly $280–$285 million stolen. Attackers moved large portions of the loot across chains and into ETH quickly, making this one of 2026’s biggest DeFi hacks and triggering an immediate security and liquidity shock across Solana DeFi.",
-      "source": "TRM Labs / Elliptic / CoinCentral",
-      "url": "",
-      "published_at": "April 1–2, 2026",
-      "category": "DeFi / Security"
+      "title": "Morgan Stanley’s MSBT amendment signals near‑term spot Bitcoin ETF launch",
+      "summary": "Morgan Stanley filed an updated S‑1 (Amendment No. 4) for the Morgan Stanley Bitcoin Trust, naming NYSE Arca as the planned listing exchange and showing operational details (seed capital, custodians and a low 0.14% fee). Markets see the filing as a strong sign the bank’s spot BTC ETF (ticker MSBT) could start trading soon — a major development for institutional Bitcoin access.",
+      "source": "MEXC / Whale‑Alert reporting (EDGAR filing coverage)",
+      "url": "https://www.mexc.com/news/999682",
+      "published_at": "Apr 1–2, 2026",
+      "category": "ETF / Bitcoin"
     },
     {
-      "title": "Circle and USDC come under fire after large cross‑chain outflows during Drift hack",
-      "summary": "Researchers and on‑chain investigators said millions of USDC were bridged from Solana to Ethereum using Circle’s CCTP in the hours after the Drift exploit, and criticized Circle’s response time to flag or freeze those transfers while the attack unfolded.",
-      "source": "CoinGape / on‑chain investigators (reported across outlets)",
-      "url": "",
-      "published_at": "April 2, 2026",
-      "category": "Stablecoins / Security"
+      "title": "Stablecoin supply tops $315 billion in Q1 as USDC rises and USDT slips",
+      "summary": "Stablecoin total supply reached a record about $315B in Q1 2026. USDC gained market share while USDT declined, and stablecoins continued to dominate trading volume as investors sought a safe, liquid on‑ramp during a cautious quarter.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/stablecoin-supply-315b-q1-usdc-rises-usdt-declines",
+      "published_at": "Apr 2, 2026",
+      "category": "Stablecoins / Market"
     },
     {
-      "title": "Coinbase: CLARITY Act deal on stablecoin yield rules ‘very close’",
-      "summary": "Coinbase’s chief legal officer said on April 1–2 that lawmakers are nearing an agreement on the CLARITY Act’s disputed stablecoin‑yield language and that a Senate Banking Committee markup could follow soon — a development markets are watching because it would shape US crypto market rules.",
-      "source": "Decrypt / TheStreet",
-      "url": "",
-      "published_at": "April 1–2, 2026",
-      "category": "Regulation"
+      "title": "U.S. indicts suspect tied to $54M Uranium Finance DeFi hack",
+      "summary": "U.S. prosecutors charged a Maryland man in connection with two 2021 exploits of Uranium Finance that drained roughly $53–54 million. The case underscores rising enforcement focus on historic DeFi exploits and could shape future criminal enforcement in decentralized finance.",
+      "source": "SecurityWeek / AMLNetwork",
+      "url": "https://www.securityweek.com/us-charges-uranium-crypto-exchange-hacker/",
+      "published_at": "Mar 31 – Apr 1, 2026",
+      "category": "Legal / Security"
     },
     {
-      "title": "Coinbase gets conditional OCC approval to charter Coinbase National Trust",
-      "summary": "On April 2, Coinbase announced it received conditional approval from the Office of the Comptroller of the Currency to charter Coinbase National Trust Company — a regulatory step that could expand Coinbase’s custody and trust services in the US.",
-      "source": "Coinbase blog",
-      "url": "",
-      "published_at": "April 2, 2026",
-      "category": "Exchange / Regulation"
+      "title": "Metaplanet adds 5,075 BTC in Q1 and becomes the 3rd‑largest corporate Bitcoin treasury",
+      "summary": "Tokyo‑listed Metaplanet disclosed Q1 purchases of about 5,075 BTC (≈$405M), bringing its total to ~40,177 BTC and making it the third‑largest public company holder. Large corporate treasuries remain a meaningful demand source for Bitcoin.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/metaplanet-adds-5-075-btc-in-q1-bitcoin-options",
+      "published_at": "Apr 2, 2026",
+      "category": "Treasury / Bitcoin"
     },
     {
-      "title": "BlackRock’s IBIT trading volume now rivals big exchanges, data show",
-      "summary": "Data cited by market trackers show BlackRock’s iShares Bitcoin Trust (IBIT) trading between about $16B–$18B in daily volume — levels that approach big crypto exchange spot volumes and signal ETFs are reshaping liquidity in the Bitcoin market.",
-      "source": "Kaiko data reported by DailyCoin / BeInCrypto (reported Apr 2, 2026)",
-      "url": "",
-      "published_at": "March 30 — Apr 2, 2026 (reporting)",
-      "category": "ETF / Market structure"
+      "title": "JPMorgan: crypto fund flows slow — $11B in Q1 2026",
+      "summary": "JPMorgan research shows crypto flows fell to roughly $11 billion in Q1 2026 — about one‑third of the inflows seen in the same quarter last year — signaling a marked slowdown in investor demand and heavier reliance on corporate/treasury purchases and specialized products.",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/396327/jpmorgan-crypto-flows-drop-11-billion-q1",
+      "published_at": "Apr 3, 2026",
+      "category": "Market Flows / Institutional"
     },
     {
-      "title": "Bitcoin snaps five‑month losing streak with March close; price action fragile",
-      "summary": "Bitcoin posted its first positive monthly close since October, ending March on a modest gain, but analysts warn the rally is fragile amid macro uncertainty and continued ETF flow swings that can push fast moves in spot BTC.",
-      "source": "Cointelegraph / Crypto market reports",
-      "url": "",
-      "published_at": "April 1–2, 2026",
-      "category": "Market / Bitcoin"
+      "title": "Dubai’s VARA issues formal rules for crypto derivatives — retail allowed with limits",
+      "summary": "Dubai’s Virtual Assets Regulatory Authority released a framework for exchange‑traded crypto derivatives that permits retail access under suitability checks, margin controls and leverage caps — part of wider efforts to build a regulated derivatives market for digital assets.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/dubai-vara-crypto-derivatives-framework-retail-leverage",
+      "published_at": "Mar 31, 2026",
+      "category": "Regulation / Derivatives"
     },
     {
-      "title": "Solana prices and DEX volumes wobble after big Drift exploit",
-      "summary": "The $285M Drift exploit hit Solana‑based DeFi hard: trading volumes and trust in some Solana DEX vaults fell and SOL price action showed sharp short‑term volatility as users pulled liquidity and DeFi counterparties reassessed risk.",
-      "source": "Cointelegraph / DailyCoin (Apr 1–2, 2026)",
-      "url": "",
-      "published_at": "April 2, 2026",
-      "category": "Altcoin / Market impact"
+      "title": "Bitcoin drifts below $67K amid geopolitical and political headlines",
+      "summary": "Bitcoin slipped to the mid‑$60K range on April 3 as markets reacted to geopolitical tensions and U.S. political developments. Traders flagged thinner holiday liquidity and risk‑off flows into stablecoins and cash, pushing short‑term price pressure on BTC and other large caps.",
+      "source": "IBTimes / Yahoo Finance market coverage",
+      "url": "https://www.ibtimes.com.au/bitcoin-slips-below-67000-geopolitical-tensions-weigh-crypto-market-early-friday-1865300",
+      "published_at": "Apr 3, 2026",
+      "category": "Market / Price Action"
     },
     {
-      "title": "US prosecutors forfeit $600K in Tether tied to phishing; law enforcement keeps pressure on crypto crime",
-      "summary": "A US attorney in Connecticut announced the forfeiture of about $600,000 in USDT linked to a phishing scam, illustrating ongoing law‑enforcement efforts to seize stolen stablecoins and return funds to victims.",
-      "source": "Bitcoin.com News / regional US reporting",
-      "url": "",
-      "published_at": "April 2, 2026",
-      "category": "Enforcement / Stablecoins"
+      "title": "Google research highlights quantum computing threat to current crypto keys",
+      "summary": "Google published research suggesting certain quantum advances could reduce the resources needed to attack elliptic‑curve cryptography used by Bitcoin and Ethereum. The paper warns long‑term cryptographic risks and adds urgency to post‑quantum planning for wallets, exchanges and infrastructure.",
+      "source": "Cointelegraph (coverage of Google research)",
+      "url": "https://cointelegraph.com/news/quantum-computers-need-far-less-power-crack-crypto-says-google",
+      "published_at": "Mar 31, 2026",
+      "category": "Security / Tech"
     }
   ]
 }
