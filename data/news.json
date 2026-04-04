@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-04 14:05 UTC",
+  "updated_at": "2026-04-04 16:01 UTC",
   "headlines": [
-    "Drift Protocol hit for ~$285M in major Solana hack",
-    "Blockchain sleuth accuses Circle of slow USDC freezes across $420M+ of illicit funds",
-    "Coinbase wins conditional OCC national trust charter approval",
-    "Ethereum Foundation doubles staked ETH as it ramps staking deployments",
-    "JPMorgan: crypto flows plunged to $11B in Q1 2026, about one-third year-earlier level','Metaplanet buys 5,075 BTC in Q1 to become the 3rd-largest public Bitcoin treasury','Circle announces cirBTC — a 1:1 wrapped Bitcoin product for institutions','Mixed ETF flows: Bitcoin ETFs see small inflows while Ether ETFs post outflows"
+    "Coinbase wins conditional OCC national trust charter (Apr 2, 2026)",
+    "JPMorgan: institutional crypto flows plunged in Q1 2026",
+    "U.S. spot Bitcoin & Ethereum ETFs posted net outflows on April 3, 2026",
+    "Binance adds oil & natural-gas perpetual futures, expanding into commodities",
+    "Tether hires a Big Four firm for its first full USDT financial audit (March 2026 filings/news )"
   ],
   "articles": [
     {
-      "title": "Drift Protocol hit for ~$285M in major Solana hack",
-      "summary": "Drift Protocol was exploited on April 1–2, 2026, losing roughly $270–285 million in a fast governance/nonce-style attack. The attacker converted much of the loot to USDC and bridged funds to Ethereum, spreading contagion across Solana DeFi projects and prompting forensic work and outreach to the wallets holding stolen assets.",
-      "source": "Decrypt / Decrypt follow-up",
-      "url": "https://decrypt.co/363087",
-      "published_at": "2026-04-01/2026-04-03",
-      "category": "security/DeFi"
-    },
-    {
-      "title": "Blockchain sleuth accuses Circle of slow USDC freezes across $420M+ of illicit funds",
-      "summary": "On April 3, investigator ZachXBT posted on X alleging Circle was slow or failed to freeze over $420M of stolen or illicit USDC across multiple incidents since 2022 — a claim that drew fresh scrutiny after the Drift exploit's funds moved via Circle’s CCTP bridge.",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/396296",
-      "published_at": "2026-04-03",
-      "category": "stablecoin/compliance"
-    },
-    {
-      "title": "Coinbase wins conditional OCC national trust charter approval",
-      "summary": "Coinbase said on April 2, 2026 it received conditional approval from the U.S. Office of the Comptroller of the Currency to form a national trust company, a major regulatory step that would put parts of its custody business under federal supervision (final approval still pending standard OCC pre-opening steps).",
-      "source": "Bitcoin.com / The Block",
-      "url": "https://news.bitcoin.com/coinbase-clarifies-we-are-not-becoming-a-bank-after-receiving-conditional-occ-nod/",
+      "title": "Coinbase receives conditional approval for a national trust company charter (Apr 2, 2026)",
+      "summary": "The Office of the Comptroller of the Currency gave Coinbase conditional approval to form a federally chartered national trust company on April 2, 2026 — a major step that would let the exchange expand custody and bank-like services once pre‑opening conditions are met. This move drew immediate pushback from bank lobby groups that warned of consumer and safety concerns.",
+      "source": "Benzinga / Independent Community Bankers of America (ICBA)",
+      "url": "",
       "published_at": "2026-04-02",
-      "category": "regulation/exchange"
+      "category": "Exchange / Regulation"
     },
     {
-      "title": "Ethereum Foundation doubles staked ETH as it ramps staking deployments",
-      "summary": "On April 3, 2026 the Ethereum Foundation said it increased its staking allocation to about 47,050 ETH — roughly two-thirds of its 70,000 ETH target — moving more treasury ETH into staking to earn yield instead of selling.",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/396297",
-      "published_at": "2026-04-03",
-      "category": "Ethereum/treasury"
-    },
-    {
-      "title": "JPMorgan: crypto flows plunged to $11B in Q1 2026, about one-third year-earlier level",
-      "summary": "JPMorgan analysts reported crypto fund flows fell to around $11 billion in Q1 2026 — roughly one-third of the same quarter last year — signaling weaker investor demand early in 2026 despite pockets of ETF activity.",
+      "title": "JPMorgan: crypto investment flows fell to $11B in Q1 2026",
+      "summary": "JPMorgan research reported a sharp slowdown in crypto investment flows during Q1 2026, with total flows roughly $11 billion — about one‑third of the prior year — signalling weaker institutional net demand early in 2026.",
       "source": "The Block (JPMorgan analysis)",
-      "url": "https://www.theblock.co/post/396327",
+      "url": "",
       "published_at": "2026-04-03",
-      "category": "market flows"
+      "category": "Market / Institutional Flows"
     },
     {
-      "title": "Metaplanet adds 5,075 BTC in Q1 to become 3rd-largest public Bitcoin treasury",
-      "summary": "Tokyo-listed Metaplanet bought about 5,075 BTC (~$405M) in Q1 2026, lifting its holdings to 40,177 BTC and making it one of the largest corporate public treasuries by Bitcoin held.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/metaplanet-adds-5-075-btc-in-q1-bitcoin-options/",
+      "title": "Spot Bitcoin & Ethereum ETFs saw net outflows on April 3, 2026",
+      "summary": "Data providers showed U.S. spot Bitcoin and Ethereum ETFs recorded net outflows on April 3, 2026, as risk‑off macro headlines and reduced ETF creation activity pressured short‑term demand for both BTC and ETH exposure.",
+      "source": "CoinRepublic / CoinDesk Daybook (ETF flow data)",
+      "url": "",
+      "published_at": "2026-04-03",
+      "category": "ETF / Market Flows"
+    },
+    {
+      "title": "Binance launches oil and natural‑gas perpetual futures (late Mar–Apr 2026)",
+      "summary": "Binance expanded its derivatives suite by listing perpetual futures tied to major energy commodities (WTI, Brent and natural gas), giving crypto traders 24/7 exposure to oil and gas prices and signalling exchanges’ growing push into real‑world commodity derivatives.",
+      "source": "Binance announcement coverage (MEXC / InteractiveCrypto)",
+      "url": "",
+      "published_at": "2026-03-30 / 2026-04-01",
+      "category": "Exchange / Derivatives"
+    },
+    {
+      "title": "Tether engages a Big Four firm for a full USDT financial audit (March 2026 reports)",
+      "summary": "Tether confirmed it retained a Big Four accounting firm to perform its first full financial statement audit of USDT reserves, a milestone that aims to close long‑standing transparency questions about the world's largest stablecoin.",
+      "source": "Bloomberg Law / Cointelegraph",
+      "url": "",
+      "published_at": "2026-03-24 to 2026-03-27 (reporting)",
+      "category": "Stablecoin / Transparency"
+    },
+    {
+      "title": "Morgan Stanley files ultra‑low fee spot Bitcoin ETF (0.14%)",
+      "summary": "Morgan Stanley filed paperwork for a spot Bitcoin ETF with a 0.14% fee, positioning the bank to offer one of the cheapest U.S. Bitcoin ETFs and signalling more traditional asset managers are moving into spot crypto products.",
+      "source": "Blockonomi / MEXC (filing reports)",
+      "url": "",
+      "published_at": "2026-03-28",
+      "category": "ETF / Institutional Products"
+    },
+    {
+      "title": "U.S. Treasury starts GENIUS Act implementation with a proposed rulemaking (early April 2026)",
+      "summary": "The U.S. Treasury published a notice of proposed rulemaking to begin implementing the GENIUS Act stablecoin framework — the first formal step to shape how payment stablecoins will be regulated and licensed in the U.S.",
+      "source": "Bitcoin Insider / coverage",
+      "url": "",
       "published_at": "2026-04-02",
-      "category": "Bitcoin/treasury"
+      "category": "Regulation / Stablecoins"
     },
     {
-      "title": "Circle announces cirBTC — a 1:1 wrapped Bitcoin product for institutions",
-      "summary": "Circle unveiled cirBTC on April 2, 2026: a 1:1 wrapped Bitcoin token with on‑chain reserve verification aimed at institutions and DeFi users, expanding Circle’s product stack beyond USDC.",
-      "source": "Circle (official) / Bitcoin.com coverage",
-      "url": "https://www.circle.com/cirbtc",
-      "published_at": "2026-04-02",
-      "category": "stablecoin/wrapped BTC"
-    },
-    {
-      "title": "Mixed ETF flows: Bitcoin ETFs see small inflows while Ether ETFs post outflows",
-      "summary": "Data for April 2–3, 2026 showed U.S. spot Bitcoin ETFs recorded modest net inflows while spot Ethereum ETFs posted net outflows, highlighting divergent institutional demand between BTC and ETH products over the last 24–48 hours.",
-      "source": "Gate News / Bitcoin.com coverage",
-      "url": "https://www.gate.com/tr/news/detail/yesterday-ethereum-spot-etfs-had-net-outflows-of-711688-million-with-20013681",
-      "published_at": "2026-04-02/2026-04-03",
-      "category": "ETF/market flows"
+      "title": "Blur (BLUR) monthly token unlock pumps new supply to market (April 3, 2026)",
+      "summary": "Blur executed a scheduled token unlock on April 3, 2026, moving a large tranche of BLUR tokens (reported in the hundreds of millions in nominal USD) to Coinbase Prime — a supply event that can weigh on price and trading sentiment for the NFT‑market focused token.",
+      "source": "BitcoinEthereumNews (on‑chain transfer reporting)",
+      "url": "",
+      "published_at": "2026-04-03",
+      "category": "Altcoin / Token Supply"
     }
   ]
 }

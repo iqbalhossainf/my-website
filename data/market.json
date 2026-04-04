@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-04 14:04 UTC",
+  "updated_at": "2026-04-04 15:59 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 67204,
-      "change_24h": 0.7510549741321205
+      "price": 67329,
+      "change_24h": 0.712585518288457
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2054.1,
-      "change_24h": 0.25172606177801954
+      "price": 2054.82,
+      "change_24h": 0.16213590781063114
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 590.36,
-      "change_24h": 0.6907385648289511
+      "price": 590.75,
+      "change_24h": 0.6440762692313992
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 80.05,
-      "change_24h": 0.6773884580478632
+      "price": 80.94,
+      "change_24h": 0.5952027213718175
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.31,
-      "change_24h": -0.587361891261304
+      "change_24h": -0.4842194994062638
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.244165,
-      "change_24h": -0.6203612788018955
+      "price": 0.245145,
+      "change_24h": -0.6011850686218684
     }
   ],
   "bullish": [
     {
-      "name": "PancakeSwap",
-      "symbol": "CAKE",
-      "price": 1.42,
-      "change_24h": 5.761527863854806
-    },
-    {
       "name": "VeChain",
       "symbol": "VET",
-      "price": 0.00735112,
-      "change_24h": 5.753589557080807
+      "price": 0.00750294,
+      "change_24h": 8.897964072487127
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 248.24,
-      "change_24h": 5.354485157053449
+      "price": 248.95,
+      "change_24h": 6.095654353840518
+    },
+    {
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "price": 1.41,
+      "change_24h": 5.152517044137629
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price": 1.26,
+      "change_24h": 4.866033330531734
     },
     {
       "name": "Ethereum Classic",
       "symbol": "ETC",
-      "price": 8.33,
-      "change_24h": 3.8217977017668034
-    },
-    {
-      "name": "XDC Network",
-      "symbol": "XDC",
-      "price": 0.03116503,
-      "change_24h": 2.6170847435837072
+      "price": 8.44,
+      "change_24h": 4.855062743651125
     }
   ],
   "bearish": [
     {
-      "name": "Provenance Blockchain",
-      "symbol": "HASH",
-      "price": 0.00984816,
-      "change_24h": -8.905334202798342
-    },
-    {
-      "name": "Pepe",
-      "symbol": "PEPE",
-      "price": 3.36e-06,
-      "change_24h": -3.6381150231062835
-    },
-    {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.02706309,
-      "change_24h": -3.6355054431215104
-    },
-    {
       "name": "Quant",
       "symbol": "QNT",
-      "price": 73.4,
-      "change_24h": -3.5136288687310717
+      "price": 73.3,
+      "change_24h": -3.843374708024709
     },
     {
       "name": "Midnight",
       "symbol": "NIGHT",
-      "price": 0.04241325,
-      "change_24h": -3.2008570957347167
+      "price": 0.04272372,
+      "change_24h": -3.5759768073210054
+    },
+    {
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.02696381,
+      "change_24h": -3.302916100344034
+    },
+    {
+      "name": "Canton",
+      "symbol": "CC",
+      "price": 0.139657,
+      "change_24h": -2.882163675291173
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price": 303.51,
+      "change_24h": -2.6724209042056986
     }
   ]
 }
