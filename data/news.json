@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-04 19:46 UTC",
+  "updated_at": "2026-04-04 21:08 UTC",
   "headlines": [
-    "Morgan Stanley’s MSBT ETF moves closer to launch after S‑1 amendment",
-    "Coinbase wins conditional approval for a U.S. national trust charter",
-    "JPMorgan: crypto flows plunged to $11B in Q1 — sharp slowdown",
-    "Circle announces cirBTC — a 1:1 wrapped Bitcoin for institutions",
-    "U.S. Treasury opens public comment on GENIUS Act stablecoin rules (NPRM Apr 1, 2026)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    "Drift Protocol hit by huge Solana exploit",
+    "Circle criticized for not freezing USDC after Drift theft",
+    "Ethereum Foundation stakes ~45,000 ETH, nears 70,000 ETH goal",
+    "U.S. (CFTC & DOJ) sues states over prediction-market rules",
+    "DeFi hacks fall in Q1 but big single losses persist ($169M)  : Q1 2026 update from Cointelegraph','Coinbase wins conditional OCC national trust charter approval','BTC vs ETH ETF flows diverge (BTC inflows, ETH outflows) — weekly data','Riot sells 3,778 BTC in Q1 2026 — miner treasury moves"
   ],
   "articles": [
     {
-      "title": "Morgan Stanley MSBT ETF nears launch after Amendment No. 4",
-      "summary": "Morgan Stanley filed Amendment No. 4 to its S‑1 for a spot Bitcoin ETF (proposed ticker: MSBT) that names custodians and a 0.14% fee — a clear step toward an NYSE Arca listing if the SEC signs off. The low fee and formal ops details intensify competition among US spot‑Bitcoin ETFs.",
-      "source": "Whale‑Alert / Bitcoin.com",
-      "url": "",
-      "published_at": "Apr 1–2, 2026",
-      "category": "ETF / Bitcoin"
+      "title": "Drift Protocol suffers massive exploit on Solana (≈$270–285M)",
+      "summary": "Drift, a major Solana-based perpetuals exchange, confirmed an active attack on April 1–2, 2026. On‑chain analysts and security firms estimated $270–$285 million was drained; the protocol paused deposits and withdrawals while investigators traced funds across chains. This is one of 2026’s largest DeFi losses and pushed SOL and many Solana projects lower.",
+      "source": "Bloomberg / Drift on-chain reports",
+      "url": "(Bloomberg coverage)",
+      "published_at": "2026-04-01/2026-04-02",
+      "category": "exchange/hack"
     },
     {
-      "title": "Coinbase gets conditional approval for a U.S. national trust charter",
-      "summary": "The U.S. Office of the Comptroller of the Currency has given Coinbase conditional approval for a national trust charter, a big regulatory milestone that could expand how exchanges custody assets and offer banking‑style services.",
-      "source": "Cointelegraph",
-      "url": "",
-      "published_at": "Apr 2, 2026",
-      "category": "Exchange / Regulation"
+      "title": "Circle faces criticism for not freezing stolen USDC after Drift hack",
+      "summary": "Investigators say large amounts of stolen assets were converted into USDC and bridged to Ethereum. Critics — including blockchain sleuths — argue Circle could have acted faster to block or blacklist addresses; Circle says it only freezes funds when legally required or at law‑enforcement request.",
+      "source": "CoinDesk coverage cited by PYMNTS / MoneyCheck",
+      "url": "(reporting on Circle response)",
+      "published_at": "2026-04-03",
+      "category": "stablecoin/regulation"
     },
     {
-      "title": "JPMorgan: crypto flows tumbled to $11B in Q1 — one‑third of last year",
-      "summary": "JPMorgan analysts say digital‑asset flows fell sharply in Q1 2026 to about $11 billion, signaling weaker institutional demand compared with the same quarter last year and raising questions on near‑term market momentum.",
-      "source": "The Block",
-      "url": "",
-      "published_at": "Apr 3, 2026",
-      "category": "Markets / ETF flows"
+      "title": "Ethereum Foundation stakes ~45,034 ETH, nears 70,000 ETH target",
+      "summary": "On April 3, 2026 the Ethereum Foundation moved roughly 45,034 ETH into the Beacon Chain in multiple equal deposits, bringing its total staked ETH close to the 70,000‑ETH goal it announced earlier. The move locks more ETH into consensus staking and slightly reduces liquid supply available on exchanges.",
+      "source": "Coin360 / on‑chain trackers (Arkham)",
+      "url": "(on‑chain reporting)",
+      "published_at": "2026-04-03",
+      "category": "Ethereum/staking"
     },
     {
-      "title": "Circle to launch cirBTC — a 1:1 wrapped Bitcoin for institutions",
-      "summary": "Circle announced cirBTC, a wrapped‑Bitcoin token on Ethereum backed 1:1 by BTC and aimed at OTC desks, market makers and lending platforms — putting Circle up against existing custodial wrapped BTC products.",
-      "source": "Cointelegraph",
-      "url": "",
-      "published_at": "Apr 3, 2026",
-      "category": "Stablecoin / Wrapped BTC"
+      "title": "CFTC and DOJ sue Illinois, Arizona and Connecticut over prediction‑market regulation",
+      "summary": "On April 2–3, 2026 the U.S. government (CFTC backed by DOJ filings) sued several states to stop state gambling authorities from enforcing cease‑and‑desist orders against federally‑regulated prediction markets. The cases raise a big jurisdiction fight over whether event contracts are federally regulated derivatives or state‑level gambling.",
+      "source": "WGLT / DeFiRate / Techmeme (Reuters coverage)",
+      "url": "(news coverage of federal lawsuits)",
+      "published_at": "2026-04-02",
+      "category": "regulation"
     },
     {
-      "title": "U.S. Treasury issues GENIUS Act NPRM — opens 60‑day comment period on stablecoin state‑paths",
-      "summary": "On April 1 the U.S. Treasury published a notice of proposed rulemaking under the GENIUS Act that sets rules for when smaller stablecoin issuers may stay under state supervision. The move is the first major federal step to define how U.S. stablecoins will be regulated.",
-      "source": "U.S. Department of the Treasury",
-      "url": "",
-      "published_at": "Apr 1, 2026",
-      "category": "Regulation / Stablecoins"
+      "title": "DeFi hacks Q1 2026: ~$169M lost, decline from prior year but single exploits still large",
+      "summary": "Quarterly tracking shows DeFi exploits stole about $169M in Q1 2026 across dozens of incidents — a big year‑on‑year drop from 2025 but still driven by a few very large attacks (including the early‑April Drift event). Security remains a top risk for decentralized finance.",
+      "source": "Cointelegraph (DefiLlama / Q1 data)",
+      "url": "(Cointelegraph Q1 report)",
+      "published_at": "2026-04-03",
+      "category": "security/DeFi"
     },
     {
-      "title": "Drift Protocol hit by a ~$285M exploit on Solana — DeFi fallout",
-      "summary": "Drift, a Solana‑based perpetuals DEX, suffered a roughly $270–$286 million exploit on April 1 that drained its vaults. The incident forced suspensions, spread losses across Solana DeFi, and prompted on‑chain tracing and recovery outreach.",
-      "source": "Elliptic / CCN",
-      "url": "",
-      "published_at": "Apr 1–3, 2026",
-      "category": "Security / DeFi"
+      "title": "Coinbase gets conditional OCC national trust charter (step toward federal custody status)",
+      "summary": "The Office of the Comptroller of the Currency granted Coinbase conditional approval to form a national trust company for custody and market‑infrastructure services. This is not a final bank license but it moves Coinbase closer to a single federal regulatory home for custody services and institutional products.",
+      "source": "Coinpaper / Cryptoslate / company filings",
+      "url": "(reporting on OCC conditional approval)",
+      "published_at": "2026-04-02",
+      "category": "exchange/regulation"
     },
     {
-      "title": "Bybit publishes Proof‑of‑Reserves report (Mar snapshot)",
-      "summary": "Bybit released its 32nd proof‑of‑reserves report showing overcollateralized positions across major assets — a transparency move that exchanges keep using to rebuild trust after earlier industry breaches.",
-      "source": "TheStreet (Bybit PoR)",
-      "url": "",
-      "published_at": "Apr 2–3, 2026",
-      "category": "Exchange / Transparency"
+      "title": "ETF flows: Bitcoin ETFs net inflows while Ether ETFs show outflows (week of Mar 30–Apr 2)",
+      "summary": "Weekly data show continued net inflows into U.S. spot Bitcoin ETFs while Ether‑focused ETFs saw net outflows over the same short window. The divergence matters for price leadership and short‑term liquidity across BTC vs ETH markets.",
+      "source": "Coin360 weekly ETF/flow data",
+      "url": "(Coin360 weekly dispatch)",
+      "published_at": "2026-03-30_to_2026-04-02",
+      "category": "ETF/market"
     },
     {
-      "title": "Offchain Labs: Ethereum L2s need 'responsive pricing' to scale",
-      "summary": "At EthCC, Offchain Labs argued that Ethereum layer‑2 networks must adopt responsive fee models to handle billions of users and reduce volatile fee swings — a key discussion for ETH scalability and L2 adoption.",
-      "source": "Cointelegraph",
-      "url": "",
-      "published_at": "Apr 3, 2026",
-      "category": "Ethereum / Layer‑2"
+      "title": "Riot Platforms sold 3,778 BTC in Q1 2026 (miner treasury movement)",
+      "summary": "Riot disclosed the sale of 3,778 BTC in Q1 2026, raising roughly $289.5M in proceeds. Miner sales like this can influence short‑term BTC supply on exchanges and are monitored by traders as a liquidity and price factor.",
+      "source": "The Defiant / company filings coverage",
+      "url": "(miner sales report)",
+      "published_at": "2026-04-03",
+      "category": "mining/market"
     }
   ]
 }
