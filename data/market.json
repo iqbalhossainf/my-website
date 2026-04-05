@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-05 16:02 UTC",
+  "updated_at": "2026-04-05 18:02 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 67335,
-      "change_24h": -0.03794499425784244
+      "price": 67336,
+      "change_24h": 0.04776345975410184
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2054.52,
-      "change_24h": -0.03848511630452648
+      "price": 2061.39,
+      "change_24h": 0.2496701256800432
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 593.42,
-      "change_24h": 0.404293808046003
+      "price": 592.76,
+      "change_24h": 0.005431932226824029
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 79.69,
-      "change_24h": -1.5638488055377506
+      "price": 79.87,
+      "change_24h": -1.3628396112341985
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.3,
-      "change_24h": -1.1069170484849415
+      "change_24h": -0.9931995350952875
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.2435,
-      "change_24h": -0.7417488836256942
+      "price": 0.243866,
+      "change_24h": -1.513628689818931
     }
   ],
   "bullish": [
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.063316,
-      "change_24h": 4.102779302278758
-    },
-    {
-      "name": "Monero",
-      "symbol": "XMR",
-      "price": 330.63,
-      "change_24h": 3.8949001085037183
+      "price": 0.063861,
+      "change_24h": 5.787176905993153
     },
     {
       "name": "Quant",
       "symbol": "QNT",
-      "price": 75.15,
-      "change_24h": 2.5318868411695994
+      "price": 75.4,
+      "change_24h": 3.1278441019219594
     },
     {
-      "name": "Ethereum Classic",
-      "symbol": "ETC",
-      "price": 8.54,
-      "change_24h": 1.187595562775491
+      "name": "Monero",
+      "symbol": "XMR",
+      "price": 329.62,
+      "change_24h": 3.0608216814774405
     },
     {
       "name": "Toncoin",
       "symbol": "TON",
-      "price": 1.25,
-      "change_24h": 1.090182078686091
+      "price": 1.24,
+      "change_24h": 0.8109873790517083
+    },
+    {
+      "name": "Figure Heloc",
+      "symbol": "FIGR_HELOC",
+      "price": 1.03,
+      "change_24h": 0.7726054106751259
     }
   ],
   "bearish": [
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00662855,
-      "change_24h": -10.164432709070358
-    },
-    {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 2.5,
-      "change_24h": -7.354713916974062
+      "price": 0.00659027,
+      "change_24h": -10.447866226158729
     },
     {
       "name": "Worldcoin",
       "symbol": "WLD",
-      "price": 0.248762,
-      "change_24h": -5.351388750273464
+      "price": 0.24888,
+      "change_24h": -5.848572815954172
     },
     {
-      "name": "Bitcoin Cash",
-      "symbol": "BCH",
-      "price": 421.22,
-      "change_24h": -4.837846048630367
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.04168289,
+      "change_24h": -5.6081733357734285
     },
     {
-      "name": "Ethena",
-      "symbol": "ENA",
-      "price": 0.077336,
-      "change_24h": -4.177545633399366
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 2.53,
+      "change_24h": -5.599590943226684
+    },
+    {
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price": 5.47e-06,
+      "change_24h": -4.816778527823904
     }
   ]
 }
