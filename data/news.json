@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-04 23:03 UTC",
+  "updated_at": "2026-04-05 05:57 UTC",
   "headlines": [
-    "Charles Schwab launches 'Schwab Crypto' page — spot Bitcoin & Ethereum trading coming",
-    "Coinbase wins conditional OK from OCC for a national trust charter",
-    "Bitcoin slips as spot‑ETF flows turn mixed and Good Friday halts institutional flows",
-    "Q1 2026 DeFi hacks drop but still cost $168–169M across 34 projects",
-    "Binance keeps top derivatives market share as derivatives volume hits $18.6T in Q1 2026"
+    "Solana DeFi: Drift Protocol hacked for about $270–$285M",
+    "Coinbase gets conditional OCC approval to form a national trust company",
+    "U.S. Treasury issues first GENIUS Act NPRM to shape stablecoin rules",
+    "Tether hires KPMG for first full audit of USDT reserves",
+    "Circle unveils cirBTC — a 1:1 on‑chain‑verifiable wrapped Bitcoin product (cirBTC)\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   ],
   "articles": [
     {
-      "title": "Charles Schwab to offer spot Bitcoin and Ethereum via 'Schwab Crypto' (H1 2026)",
-      "summary": "Charles Schwab added a ‘Schwab Crypto’ page and says a spot BTC and ETH trading account is coming soon. If rolled out, Schwab’s move would open direct crypto buying for millions of retail brokerage clients and could bring very large new demand to the market.",
-      "source": "Charles Schwab (company page) + industry reports",
-      "url": "https://www.schwab.com/cryptocurrency",
-      "published_at": "2026-04-04",
-      "category": "Market / Exchange"
-    },
-    {
-      "title": "Coinbase gets conditional approval from the OCC for a national trust charter",
-      "summary": "The Office of the Comptroller of the Currency has given Coinbase conditional approval to form a national trust company. That is a major regulatory milestone: a final charter would let Coinbase offer federally supervised custody and trust services for digital assets once it meets the OCC’s conditions.",
-      "source": "Cointelegraph + OCC application documents",
-      "url": "https://cointelegraph.com/news/coinbase-conditional-approval-national-trust-charter-occ",
-      "published_at": "2026-04-02",
-      "category": "Regulation / Exchange"
-    },
-    {
-      "title": "Bitcoin dips below ~$67K as spot‑ETF flows turn mixed and Good Friday pauses institutional activity",
-      "summary": "Bitcoin fell to the mid‑$60k range after renewed selling and a day when ETF creation/redemption and some CME futures were paused for Good Friday. ETF flows were mixed that week, leaving BTC exposed to thinner weekend liquidity and renewed price pressure.",
-      "source": "The Coin Republic + CryptoMist market coverage",
-      "url": "https://www.thecoinrepublic.com/2026/04/03/bitcoin-price-risks-drop-to-60k-as-etfs-see-174m-outflows/",
-      "published_at": "2026-04-03",
-      "category": "Bitcoin / ETF / Market"
-    },
-    {
-      "title": "Q1 2026 DeFi hacks fall but still cost about $168.6M across 34 protocols",
-      "summary": "DeFi exploits dropped year‑on‑year in Q1, but attackers still stole roughly $168.6 million from 34 projects. The report highlights that private‑key compromises and smart‑contract bugs remain the main risks to decentralized finance.",
-      "source": "Cointelegraph reporting on DefiLlama data",
-      "url": "https://cointelegraph.com/news/defi-hacks-169m-q1-2026-crypto-exploits-decline",
-      "published_at": "2026-04-03",
-      "category": "Security / DeFi"
-    },
-    {
-      "title": "Binance leads Q1 derivatives volumes as total crypto derivatives hit $18.6 trillion",
-      "summary": "Derivatives stayed dominant in Q1 2026 with roughly $18.6T of volume; Binance remained the top derivatives venue while new perp‑DEXs like Hyperliquid cracked the top ten. The report underlines how futures and perpetuals still drive most trading activity.",
-      "source": "Cointelegraph coverage of CoinGlass data",
-      "url": "https://cointelegraph.com/news/binance-derivatives-q1-hyperliquid-enters-top-10-coinglass",
-      "published_at": "2026-04-03",
-      "category": "Exchange / Derivatives"
-    },
-    {
-      "title": "Arkham flags a 500 BTC wallet outflow linked to Riot Platforms — miner selling continues",
-      "summary": "On‑chain analytics linked a 500 BTC outflow to a wallet associated with Riot Platforms, signaling another possible miner or treasury sale. Listed miners selling reserves can add sustained selling pressure to Bitcoin markets.",
-      "source": "Cointelegraph reporting on Arkham on‑chain data",
-      "url": "https://cointelegraph.com/news/onchain-data-flags-fresh-riot-500-btc-sale",
-      "published_at": "2026-04-02",
-      "category": "Bitcoin / Mining"
-    },
-    {
-      "title": "U.S. stablecoin rulemaking moves forward — regulators schedule April rule sessions under the GENIUS Act",
-      "summary": "U.S. agencies are moving on stablecoin rules tied to the GENIUS Act: credit‑union and banking regulators have set comment windows and the FDIC has scheduled related rule sessions in early April. The rulemaking will shape which institutions can issue or custody payment stablecoins and how reserves are held.",
-      "source": "NCUA notice + industry reporting on planned FDIC rule sessions",
-      "url": "https://ncua.gov/news/events/2026/comments-genius-act-proposal-due-april-13",
-      "published_at": "2026-04-03",
-      "category": "Regulation / Stablecoins"
-    },
-    {
-      "title": "Solana under pressure — DEX volume and on‑chain activity slump, SOL price weakens",
-      "summary": "Solana’s decentralized exchange volumes and network activity have fallen sharply, putting technical pressure on SOL. Lower DEX volumes and shrinking stablecoin liquidity on Solana increase downside risk for the token until activity recovers.",
-      "source": "Cointelegraph + TradingNews coverage",
-      "url": "https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support",
+      "title": "Drift Protocol suffers ~$270–$285M exploit on Solana",
+      "summary": "Drift Protocol, a major Solana-based decentralized perpetuals exchange, was exploited on April 1, 2026 with roughly $270–$285 million drained; the team paused deposits/withdrawals and started coordination with security firms and bridges.",
+      "source": "Bloomberg / NomosLabs",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-01/solana-based-defi-project-drift-hit-by-285-million-exploit",
       "published_at": "2026-04-01",
-      "category": "Altcoin / Solana"
+      "category": "security / exchange"
+    },
+    {
+      "title": "Coinbase wins conditional OCC approval to form a national trust company",
+      "summary": "Coinbase announced it received conditional approval from the U.S. Office of the Comptroller of the Currency to charter Coinbase National Trust Company — a federal trust vehicle that would centralize custody and institutional services after a final OCC review.",
+      "source": "CoinLaw / OCC filings",
+      "url": "https://coinlaw.io/coinbase-occ-national-trust-charter/",
+      "published_at": "2026-04-02",
+      "category": "exchange / regulation"
+    },
+    {
+      "title": "U.S. Treasury publishes GENIUS Act NPRM — first step to stablecoin rules",
+      "summary": "On April 1, 2026 the U.S. Treasury issued a Notice of Proposed Rulemaking to implement parts of the GENIUS Act, asking for public comment on how state stablecoin regimes can be deemed 'substantially similar' to federal rules.",
+      "source": "U.S. Department of the Treasury",
+      "url": "https://home.treasury.gov/news/press-releases/sb0428",
+      "published_at": "2026-04-01",
+      "category": "regulation / stablecoin"
+    },
+    {
+      "title": "Tether hires KPMG for first full USDT financial audit",
+      "summary": "Tether has engaged a Big Four auditor (reported as KPMG) to conduct its first full financial-statement audit of reserves backing USDT — a major move aimed at boosting transparency ahead of U.S. expansion plans.",
+      "source": "Financial Times / The Block",
+      "url": "https://news.bloombergtax.com/daily-tax-report-international/tether-hires-kpmg-as-auditor-ahead-of-us-expansion-ft",
+      "published_at": "2026-03-26",
+      "category": "stablecoin / audit"
+    },
+    {
+      "title": "Circle announces cirBTC — a 1:1 on‑chain‑verifiable wrapped Bitcoin",
+      "summary": "Circle unveiled cirBTC (April 2, 2026), a 1:1 Bitcoin‑backed wrapped token built for institutions and DeFi, with on‑chain reserve verification and initial deployment planned on Ethereum and Circle's Arc chain.",
+      "source": "Circle / multiple outlets",
+      "url": "https://www.circle.com/cirbtc",
+      "published_at": "2026-04-02",
+      "category": "Bitcoin / DeFi"
+    },
+    {
+      "title": "Morgan Stanley files Amendment No. 4 for a low‑fee spot Bitcoin ETF (MSBT)",
+      "summary": "Morgan Stanley amended its S‑1 to list the Morgan Stanley Bitcoin Trust (ticker MSBT) on NYSE Arca, naming custodians and proposing a competitive fee (reported 0.14%) as it inches toward launching a spot Bitcoin ETF.",
+      "source": "Whale Alert / filing coverage",
+      "url": "https://whale-alert.io/stories/8da0010a820210/Morgan-Stanley-amends-S1-to-list-MSBT-passive-Bitcoin-ETF-on-NYSE-Arca-names-BNY-Mellon-and-Coinbase-as-custodians-sets-014-fee",
+      "published_at": "2026-04-01",
+      "category": "ETF / Bitcoin"
+    },
+    {
+      "title": "Bitcoin spot ETFs record first monthly inflow of 2026 (about $1.32B in March)",
+      "summary": "Market data show U.S. spot Bitcoin ETFs had roughly $1.32 billion of inflows in March 2026, ending a multi‑month outflow streak and signaling renewed institutional interest — though flows remain uneven.",
+      "source": "SoSoValue / market reports (aggregated)",
+      "url": "https://investor-confidence-index.com/en/news/bitcoin-etfs-end-four-month-outflow-run-with-1-32b-inflow-in-march-2026",
+      "published_at": "2026-04-02",
+      "category": "market / ETF"
+    },
+    {
+      "title": "Ethereum ETFs keep underperforming — outflows extend while ETH lags BTC",
+      "summary": "Data for March 2026 show Ethereum spot ETF products continued to suffer net outflows versus Bitcoin ETFs, highlighting a divergence where institutions favored BTC exposure while ETH ETFs saw withdrawals and price underperformance.",
+      "source": "ETF flow reports / market analysis",
+      "url": "https://www.tradingnews.com/news/ethereum-price-forecast-eth-usd-5-month-of-etf-outflows",
+      "published_at": "2026-04-01",
+      "category": "ETF / Ethereum"
     }
   ]
 }
