@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-05 08:05 UTC",
+  "updated_at": "2026-04-05 10:21 UTC",
   "headlines": [
-    "Ethereum Foundation nears 70,000 ETH treasury staking goal",
-    "Huge Solana DeFi exploit drains roughly $280M from Drift",
-    "Morgan Stanley moves closer to low-fee spot Bitcoin ETF (MSBT)",
-    "Citadel-backed EDX Markets applies for US bank/trust charter",
-    "Tether presses investors on $500B valuation fundraise deadline','KuCoin settles with the CFTC for $500,000 over unregistered derivatives trading','U.S. spot Bitcoin ETFs post first monthly inflow in March 2026 ($1.3B)','Google paper warns crypto industry about nearer-term quantum threat"
+    "Stablecoin market tops $315B as USDC gains ground",
+    "Ethereum Foundation nears 70,000 ETH staking goal after $93M deposit",
+    "Coinbase wins conditional OCC trust charter — US banks push back",
+    "CLARITY Act stablecoin reward talks see fresh momentum, Coinbase says deal near",
+    "FTX Recovery Trust begins $2.2B creditor distribution (late March) — market impact possible','Google Quantum AI paper: future quantum attacks could threaten BTC/ETH keys','Spot Bitcoin ETFs show small net inflows as ETF flows diverge','Tether fundraising push given deadline as issuer eyes large valuation"
   ],
   "articles": [
     {
-      "title": "Ethereum Foundation nears 70,000 ETH treasury staking goal",
-      "summary": "The Ethereum Foundation completed a large deposit (≈45,034 ETH) to its staking program, bringing its active stake close to the stated 70,000 ETH target. The move shifts the foundation’s treasury strategy toward earning staking yield rather than selling ETH, supporting network security and supply dynamics.",
-      "source": "Coin360 / Whale Alert coverage",
+      "title": "Stablecoin market tops $315 billion as USDC gains ground",
+      "summary": "Stablecoin supply hit roughly $315 billion in Q1 2026, and Circle’s USDC has been growing market share as some traders and institutions favor regulated, transparent issuers over Tether. This shift is changing on‑chain flows and liquidity across exchanges.",
+      "source": "Cointelegraph / Forbes",
       "url": "(source)",
-      "published_at": "April 3–4, 2026",
-      "category": "Ethereum / On-chain Treasury News"
+      "published_at": "Apr 5, 2026",
+      "category": "stablecoin"
     },
     {
-      "title": "Huge Solana DeFi exploit drains roughly $280M from Drift",
-      "summary": "Drift, a Solana-based derivatives DeFi protocol, was hit by a sophisticated attack that drained about $280–$285 million. The exploit highlights ongoing smart-contract and platform risks on high-throughput chains and has triggered rapid asset freezes and forensic work.",
-      "source": "Bloomberg",
+      "title": "Ethereum Foundation nears 70,000 ETH staking goal after $93M deposit",
+      "summary": "The Ethereum Foundation deposited about 45,034 ETH (≈$93M) to the Beacon Deposit Contract, bringing its total staked ETH close to the 70,000‑ETH Treasury Staking Initiative target. The move signals the Foundation is shifting more treasury ETH from sales to yield generation and network security.",
+      "source": "Cointelegraph / Whale‑Alert",
       "url": "(source)",
-      "published_at": "April 1–2, 2026",
-      "category": "Security / DeFi Exploit"
+      "published_at": "Apr 3–4, 2026",
+      "category": "Ethereum"
     },
     {
-      "title": "Morgan Stanley moves closer to low-fee spot Bitcoin ETF (MSBT)",
-      "summary": "Morgan Stanley filed an updated S-1 amendment for a spot Bitcoin trust (ticker MSBT), naming custodians and showing a very low management fee (reported ~0.14%), signalling an imminent launch that would intensify ETF fee competition.",
-      "source": "Whale Alert / SEC filing reports",
+      "title": "Coinbase wins conditional OCC trust charter; community banks object",
+      "summary": "Regulators gave Coinbase conditional approval to form a federally chartered national trust company, a major step for U.S. crypto custody and institutional services. Independent community banking groups say the move raises consumer‑protection and competition concerns and are pushing back.",
+      "source": "Bloomberg / Independent Community Banker Association (ICBA)",
       "url": "(source)",
-      "published_at": "April 1, 2026",
-      "category": "ETF / Institutional Investing"
+      "published_at": "Apr 2–3, 2026",
+      "category": "exchange / regulation"
     },
     {
-      "title": "Citadel-backed EDX Markets applies for US bank/trust charter",
-      "summary": "EDX Markets, a trading venue backed by Citadel Securities and other institutional partners, has applied for a national trust/bank charter — a step that would widen access to banking services for crypto platforms and could reshape custody and settlement infrastructure.",
-      "source": "Bloomberg",
+      "title": "CLARITY Act stablecoin reward talks pick up — Coinbase says deal is close",
+      "summary": "Lawmakers and industry negotiators are edging toward agreement on the CLARITY Act’s stablecoin reward rules. Coinbase’s legal chief said a deal on the rewards language could come within days, a development that would affect how exchanges and banks can offer yields on stablecoins.",
+      "source": "TheStreet / CoinLaw",
       "url": "(source)",
-      "published_at": "April 1, 2026",
-      "category": "Exchange / Regulation & Infrastructure"
+      "published_at": "Apr 2–3, 2026",
+      "category": "regulation / stablecoin"
     },
     {
-      "title": "Tether presses investors on $500B valuation fundraise deadline",
-      "summary": "Reports say Tether is pushing a private fundraising sprint tied to a lofty $500 billion implied valuation and has set a short deadline for investor commitments — and may scale or delay the raise if demand is weak. The move has reignited debate over stablecoin business models and valuations.",
-      "source": "Cointelegraph / PYMNTS reporting",
+      "title": "FTX Recovery Trust starts $2.2 billion creditor distribution — market liquidity watch",
+      "summary": "The FTX Recovery Trust initiated a roughly $2.2 billion distribution to eligible creditors at the end of March. Analysts warn a portion of those funds could re‑enter crypto markets, temporarily adding selling pressure or raising exchange liquidity.",
+      "source": "PR Newswire / CoinLive",
       "url": "(source)",
-      "published_at": "April 3–4, 2026",
-      "category": "Stablecoin / Corporate Finance"
+      "published_at": "Mar 31, 2026",
+      "category": "market / legacy bankruptcy"
     },
     {
-      "title": "KuCoin settles with the CFTC for $500,000 over unregistered derivatives trading",
-      "summary": "Crypto exchange KuCoin (Peken Global Ltd.) agreed to pay $500,000 to settle CFTC claims it ran an unregistered offshore derivatives platform accessible to U.S. customers. The settlement requires limits on U.S. access and underscores continued U.S. enforcement focus on offshore platforms.",
-      "source": "Bloomberg",
+      "title": "Google Quantum AI paper warns quantum attacks could crack BTC/ETH keys faster than thought",
+      "summary": "Google’s Quantum AI team published research suggesting a future quantum computer could derive private keys from public keys in minutes, shortening the timeline for when some on‑chain wallets may be vulnerable. The paper urges the crypto industry to accelerate post‑quantum upgrades and defensive steps.",
+      "source": "KuCoin / PC Gamer (coverage of Google paper)",
       "url": "(source)",
-      "published_at": "March 30, 2026",
-      "category": "Exchange Enforcement / Regulation"
+      "published_at": "Mar 31–Apr 1, 2026",
+      "category": "security / Bitcoin"
     },
     {
-      "title": "U.S. spot Bitcoin ETFs post first monthly inflow in March 2026 ($1.3B)",
-      "summary": "After several months of outflows, U.S. spot Bitcoin ETFs recorded roughly $1.3 billion of net inflows in March 2026 — a sign institutional demand may be returning and an important driver for short-term BTC market structure.",
-      "source": "Market flow data reporting",
+      "title": "Spot Bitcoin ETFs post small net inflows as flows and token demand diverge",
+      "summary": "U.S. spot Bitcoin ETFs recorded modest net inflows on April 4, while flows across other crypto ETFs (including some Ether products) showed a mixed picture — a sign of cautious but continued institutional interest that can still move prices short term.",
+      "source": "CryptoBriefing / ValueTheMarkets",
       "url": "(source)",
-      "published_at": "March 31–April 1, 2026",
-      "category": "Market / ETF Flows"
+      "published_at": "Apr 4, 2026",
+      "category": "ETF / market"
     },
     {
-      "title": "Google paper warns crypto industry about nearer-term quantum threat",
-      "summary": "New research from Google researchers suggests progress in quantum algorithms could lower the resources needed to threaten widely used cryptography, renewing urgency for crypto projects to plan 'quantum-resistant' upgrades — especially for long-held, inactive keys.",
-      "source": "Bloomberg coverage of Google research",
+      "title": "Tether sets deadline for large fundraising effort as issuer eyes big valuation",
+      "summary": "Tether is pressing forward with a private fundraising effort and set a short deadline for investor commitments as it explores growth across stablecoins, payments, and new business lines. The fundraising outcome would shape Tether’s capital plans and market positioning versus regulated rivals.",
+      "source": "PYMNTS / The Information (reported)",
       "url": "(source)",
-      "published_at": "March 31, 2026",
-      "category": "Security / Technology Risk"
+      "published_at": "Apr 3, 2026",
+      "category": "stablecoin / corporate"
     }
   ]
 }
