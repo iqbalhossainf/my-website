@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-06 17:32 UTC",
+  "updated_at": "2026-04-06 20:03 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 69565,
-      "change_24h": 3.367052543377887
+      "price": 69638,
+      "change_24h": 3.354956462926104
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2135.34,
-      "change_24h": 3.9221628460292264
+      "price": 2141.24,
+      "change_24h": 3.8129325743215983
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 604.75,
-      "change_24h": 2.020976389167959
+      "price": 606.69,
+      "change_24h": 2.469303173474388
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 81.57,
-      "change_24h": 2.568480905085219
+      "price": 81.81,
+      "change_24h": 2.5183815434257424
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.34,
-      "change_24h": 3.254125853534594
+      "change_24h": 3.1058659560059514
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.252542,
-      "change_24h": 3.8797881416849798
+      "price": 0.251968,
+      "change_24h": 3.497273959302187
     }
   ],
   "bullish": [
     {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "price": 321.01,
-      "change_24h": 8.102631349836106
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price": 1.6,
+      "change_24h": 9.68456189566657
     },
     {
       "name": "Ethena",
       "symbol": "ENA",
-      "price": 0.083802,
-      "change_24h": 7.9974554134553415
+      "price": 0.083979,
+      "change_24h": 8.06078570496364
     },
     {
-      "name": "Morpho",
-      "symbol": "MORPHO",
-      "price": 1.57,
-      "change_24h": 7.6105414347155245
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price": 5.84e-06,
+      "change_24h": 7.454188305756987
     },
     {
       "name": "Filecoin",
       "symbol": "FIL",
-      "price": 0.881138,
-      "change_24h": 7.5082258822619
+      "price": 0.876677,
+      "change_24h": 6.721628728848686
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "price": 257.53,
-      "change_24h": 7.1690209782730285
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price": 316.71,
+      "change_24h": 6.189684465094572
     }
   ],
   "bearish": [
     {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.02603977,
-      "change_24h": -2.0540781457064354
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.04134111,
+      "change_24h": -2.534129423273028
+    },
+    {
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 2.68,
+      "change_24h": -2.5235377133352626
     },
     {
       "name": "Figure Heloc",
       "symbol": "FIGR_HELOC",
       "price": 1.02,
-      "change_24h": -1.560859359878121
+      "change_24h": -1.5689645623180932
+    },
+    {
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.02602012,
+      "change_24h": -1.4748247401438643
     },
     {
       "name": "A7A5",
       "symbol": "A7A5",
-      "price": 0.01224517,
-      "change_24h": -1.3730015203300683
-    },
-    {
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "price": 0.04117431,
-      "change_24h": -1.3620578203523115
-    },
-    {
-      "name": "Rain",
-      "symbol": "RAIN",
-      "price": 0.00654302,
-      "change_24h": -1.1200386824482287
+      "price": 0.01224618,
+      "change_24h": -1.3682295796604582
     }
   ]
 }
