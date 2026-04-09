@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-09 16:07 UTC",
+  "updated_at": "2026-04-09 20:08 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 72270,
-      "change_24h": 1.2555772013741011
+      "price": 72049,
+      "change_24h": 0.8749462646202574
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2223.91,
-      "change_24h": 0.3446588096982858
+      "price": 2215.46,
+      "change_24h": 0.007833879730423139
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 606.79,
-      "change_24h": 0.16733322569630887
+      "price": 608.39,
+      "change_24h": 0.6009390682642961
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.02,
-      "change_24h": 0.8217565156402649
+      "price": 84.26,
+      "change_24h": 1.1459584143729857
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.36,
-      "change_24h": -0.12453452644350499
+      "change_24h": 0.25123951255162297
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.255393,
-      "change_24h": 0.5024846169213372
+      "price": 0.255929,
+      "change_24h": 1.1608716803589416
     }
   ],
   "bullish": [
     {
       "name": "Siren",
       "symbol": "SIREN",
-      "price": 0.706299,
-      "change_24h": 20.715530212940507
+      "price": 0.706991,
+      "change_24h": 24.25622288440424
     },
     {
-      "name": "Rain",
-      "symbol": "RAIN",
-      "price": 0.00804212,
-      "change_24h": 8.539090672678215
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price": 373.37,
+      "change_24h": 14.93136619125991
     },
     {
       "name": "Morpho",
       "symbol": "MORPHO",
-      "price": 1.82,
-      "change_24h": 6.090558848404825
+      "price": 1.87,
+      "change_24h": 8.753384841735734
     },
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.068585,
-      "change_24h": 5.491546361311494
+      "price": 0.069835,
+      "change_24h": 6.734782730598102
     },
     {
-      "name": "Toncoin",
-      "symbol": "TON",
-      "price": 1.3,
-      "change_24h": 4.075325611858542
+      "name": "Monero",
+      "symbol": "XMR",
+      "price": 343.17,
+      "change_24h": 5.813738678417622
     }
   ],
   "bearish": [
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01033663,
-      "change_24h": -7.1536759232560545
+      "price": 0.01027715,
+      "change_24h": -7.959622181615453
     },
     {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "price": 1.97,
-      "change_24h": -3.1505750394856618
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "price": 0.112122,
+      "change_24h": -3.4178864926556236
     },
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.02567693,
-      "change_24h": -3.07332982330858
-    },
-    {
-      "name": "POL (ex-MATIC)",
-      "symbol": "POL",
-      "price": 0.086974,
-      "change_24h": -2.8141799407241415
+      "price": 0.0256268,
+      "change_24h": -2.895260907198587
     },
     {
       "name": "Aave",
       "symbol": "AAVE",
-      "price": 91.94,
-      "change_24h": -2.5619467765134627
+      "price": 91.12,
+      "change_24h": -2.7104517450774717
+    },
+    {
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 2.62,
+      "change_24h": -2.3736343926593695
     }
   ]
 }
