@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-04-11 16:01 UTC",
+  "updated_at": "2026-04-11 18:01 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 72882,
-      "change_24h": 0.4727855683501662
+      "price": 73101,
+      "change_24h": 0.14502775316099945
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2249.99,
-      "change_24h": 1.0542134628534583
+      "price": 2260.31,
+      "change_24h": 0.7036014448244097
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 606.03,
-      "change_24h": 0.31704753739652913
+      "price": 608.05,
+      "change_24h": 0.1366564893561061
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.72,
-      "change_24h": 0.5785390762795405
+      "price": 84.81,
+      "change_24h": -0.08260590556912183
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.35,
-      "change_24h": -0.19543838466140614
+      "change_24h": -0.123089840722085
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.248319,
-      "change_24h": -2.498730127949585
+      "price": 0.249318,
+      "change_24h": -2.149976957719618
     }
   ],
   "bullish": [
     {
+      "name": "RaveDAO",
+      "symbol": "RAVE",
+      "price": 2.2,
+      "change_24h": 46.36429536481541
+    },
+    {
       "name": "Toncoin",
       "symbol": "TON",
-      "price": 1.4,
-      "change_24h": 9.460878521060057
+      "price": 1.47,
+      "change_24h": 14.661119172054246
     },
     {
       "name": "Siren",
       "symbol": "SIREN",
-      "price": 0.784836,
-      "change_24h": 8.60677150013857
+      "price": 0.772352,
+      "change_24h": 7.297894933937112
     },
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01175485,
-      "change_24h": 6.893555749588705
+      "price": 0.01175282,
+      "change_24h": 5.74071795267632
     },
     {
       "name": "Worldcoin",
       "symbol": "WLD",
-      "price": 0.293297,
-      "change_24h": 5.866839026328928
-    },
-    {
-      "name": "Arbitrum",
-      "symbol": "ARB",
-      "price": 0.115211,
-      "change_24h": 5.112419994868273
+      "price": 0.288913,
+      "change_24h": 5.547509664682556
     }
   ],
   "bearish": [
@@ -75,31 +75,31 @@
       "name": "Morpho",
       "symbol": "MORPHO",
       "price": 1.77,
-      "change_24h": -4.9303416355707075
+      "change_24h": -4.386735544416957
     },
     {
       "name": "Algorand",
       "symbol": "ALGO",
-      "price": 0.107827,
-      "change_24h": -4.0248149120668915
+      "price": 0.108474,
+      "change_24h": -2.6110908285855707
     },
     {
       "name": "Cosmos Hub",
       "symbol": "ATOM",
       "price": 1.77,
-      "change_24h": -3.1693745775938704
-    },
-    {
-      "name": "Official Trump",
-      "symbol": "TRUMP",
-      "price": 2.83,
-      "change_24h": -3.0606072479034534
+      "change_24h": -2.513966503797431
     },
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.02630473,
-      "change_24h": -2.968498486433916
+      "price": 0.02627507,
+      "change_24h": -2.224596974900888
+    },
+    {
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.03068602,
+      "change_24h": -2.199723336772965
     }
   ]
 }
