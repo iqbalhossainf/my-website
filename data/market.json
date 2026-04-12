@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-12 17:02 UTC",
+  "updated_at": "2026-04-12 19:54 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 70964,
-      "change_24h": -2.8736579551428876
+      "price": 71106,
+      "change_24h": -3.465915656343089
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2189.12,
-      "change_24h": -3.213394786718351
+      "price": 2198.66,
+      "change_24h": -4.997505161748949
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 592.29,
-      "change_24h": -2.5678390160686404
+      "price": 592.99,
+      "change_24h": -3.3119315316129376
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 81.85,
-      "change_24h": -3.6704709894615486
+      "price": 81.98,
+      "change_24h": -4.630438133784992
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.33,
-      "change_24h": -1.924805039580603
+      "change_24h": -2.8684034701770806
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.238732,
-      "change_24h": -4.600093502067435
+      "price": 0.238005,
+      "change_24h": -6.321346603496999
     }
   ],
   "bullish": [
     {
       "name": "RaveDAO",
       "symbol": "RAVE",
-      "price": 3.33,
-      "change_24h": 54.727050223707785
+      "price": 4.64,
+      "change_24h": 117.21443784617887
     },
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.076192,
-      "change_24h": 9.455426734392013
+      "price": 0.079084,
+      "change_24h": 13.211261316540012
     },
     {
       "name": "Siren",
       "symbol": "SIREN",
-      "price": 0.804219,
-      "change_24h": 4.409081944800686
-    },
-    {
-      "name": "Figure Heloc",
-      "symbol": "FIGR_HELOC",
-      "price": 1.04,
-      "change_24h": 2.617281840465761
+      "price": 0.804225,
+      "change_24h": 5.6842198234296
     },
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 2.79,
-      "change_24h": 2.285915400295395
+      "price": 2.83,
+      "change_24h": 3.475333095245576
+    },
+    {
+      "name": "TRON",
+      "symbol": "TRX",
+      "price": 0.322571,
+      "change_24h": 0.8884025936188178
     }
   ],
   "bearish": [
     {
       "name": "Dash",
       "symbol": "DASH",
-      "price": 41.47,
-      "change_24h": -9.773297400175315
-    },
-    {
-      "name": "Render",
-      "symbol": "RENDER",
-      "price": 1.88,
-      "change_24h": -7.8145803923437605
-    },
-    {
-      "name": "Ethena",
-      "symbol": "ENA",
-      "price": 0.090285,
-      "change_24h": -6.842350307306829
+      "price": 41.82,
+      "change_24h": -9.453931075567516
     },
     {
       "name": "Morpho",
       "symbol": "MORPHO",
-      "price": 1.66,
-      "change_24h": -6.310210159288446
+      "price": 1.67,
+      "change_24h": -8.151470663797545
     },
     {
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "price": 0.0383775,
-      "change_24h": -6.135107115378183
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price": 0.00180209,
+      "change_24h": -8.123361988520136
+    },
+    {
+      "name": "Render",
+      "symbol": "RENDER",
+      "price": 1.89,
+      "change_24h": -8.083310061439079
+    },
+    {
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price": 3.48e-06,
+      "change_24h": -7.2149145290997545
     }
   ]
 }
