@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-13 07:26 UTC",
+  "updated_at": "2026-04-13 11:56 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 70721,
-      "change_24h": -1.2870401960906854
+      "price": 70954,
+      "change_24h": -0.7514423522232694
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2184.8,
-      "change_24h": -1.3745860366334028
+      "price": 2189.1,
+      "change_24h": -0.7329211433854268
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 596.36,
-      "change_24h": 0.40771668238333963
+      "price": 597.68,
+      "change_24h": 0.34324939195030657
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 81.93,
-      "change_24h": -0.5014848474189321
+      "price": 81.89,
+      "change_24h": -0.4216811405333117
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.33,
-      "change_24h": -0.005253420495342901
+      "change_24h": -0.4710043990298848
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.237933,
-      "change_24h": -1.6563700769557697
+      "price": 0.238493,
+      "change_24h": -0.9376347105928912
     }
   ],
   "bullish": [
     {
       "name": "RaveDAO",
       "symbol": "RAVE",
-      "price": 7.63,
-      "change_24h": 170.31296258390438
+      "price": 9.46,
+      "change_24h": 266.5653547994156
     },
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.02892767,
-      "change_24h": 9.399349277035155
+      "price": 0.02974897,
+      "change_24h": 12.92130707111912
     },
     {
       "name": "Aave",
       "symbol": "AAVE",
-      "price": 96.92,
-      "change_24h": 7.971261241195311
+      "price": 93.93,
+      "change_24h": 4.390605487169745
     },
     {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 2.87,
-      "change_24h": 3.6596814206104336
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.03127526,
+      "change_24h": 3.7795158742644497
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "price": 1.38,
-      "change_24h": 3.0946345933296517
+      "change_24h": 3.457904365318264
     }
   ],
   "bearish": [
     {
-      "name": "Algorand",
-      "symbol": "ALGO",
-      "price": 0.10106,
-      "change_24h": -4.161424927978036
-    },
-    {
       "name": "Polkadot",
       "symbol": "DOT",
-      "price": 1.18,
-      "change_24h": -3.736012232004804
+      "price": 1.17,
+      "change_24h": -5.09050463688795
+    },
+    {
+      "name": "Dash",
+      "symbol": "DASH",
+      "price": 41.36,
+      "change_24h": -4.915370636061543
+    },
+    {
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.00764888,
+      "change_24h": -4.836822504925699
     },
     {
       "name": "Sky",
       "symbol": "SKY",
-      "price": 0.073119,
-      "change_24h": -3.63477245862803
+      "price": 0.071972,
+      "change_24h": -4.670843699721577
     },
     {
-      "name": "Siren",
-      "symbol": "SIREN",
-      "price": 0.788576,
-      "change_24h": -3.513829933107968
-    },
-    {
-      "name": "Artificial Superintelligence Alliance",
-      "symbol": "FET",
-      "price": 0.229347,
-      "change_24h": -3.1540686933831323
+      "name": "Quant",
+      "symbol": "QNT",
+      "price": 74.15,
+      "change_24h": -3.7316778696209205
     }
   ]
 }
