@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-14 19:54 UTC",
+  "updated_at": "2026-04-14 22:32 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 74237,
-      "change_24h": 1.0763473104754069
+      "price": 73932,
+      "change_24h": -0.47034315717591124
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2313.01,
-      "change_24h": 2.1503533206157996
+      "price": 2315.56,
+      "change_24h": -1.1876978903090052
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 614.35,
-      "change_24h": 0.8714914488038036
+      "price": 614.88,
+      "change_24h": -0.039860441719138655
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.02,
-      "change_24h": -0.14594131440032426
+      "price": 83.49,
+      "change_24h": -2.827333220727717
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.36,
-      "change_24h": 0.4746750686036758
+      "change_24h": -0.9188647372643435
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.240395,
-      "change_24h": -0.20647833453219308
+      "price": 0.239883,
+      "change_24h": -2.893579985701152
     }
   ],
   "bullish": [
     {
       "name": "RaveDAO",
       "symbol": "RAVE",
-      "price": 15.41,
-      "change_24h": 13.307299099126807
+      "price": 15.9,
+      "change_24h": 52.9212931247937
     },
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 2.9,
-      "change_24h": 5.31716407438504
-    },
-    {
-      "name": "Algorand",
-      "symbol": "ALGO",
-      "price": 0.107165,
-      "change_24h": 2.8560862474166555
-    },
-    {
-      "name": "OKB",
-      "symbol": "OKB",
-      "price": 85.74,
-      "change_24h": 2.410578598152826
+      "price": 2.89,
+      "change_24h": 4.601766295923353
     },
     {
       "name": "PAX Gold",
       "symbol": "PAXG",
-      "price": 4835.01,
-      "change_24h": 2.173735974428241
+      "price": 4832.09,
+      "change_24h": 2.063674404977606
+    },
+    {
+      "name": "Tether Gold",
+      "symbol": "XAUT",
+      "price": 4816.15,
+      "change_24h": 1.9682515194649572
+    },
+    {
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.03079948,
+      "change_24h": 1.5686653197476026
     }
   ],
   "bearish": [
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.00955714,
-      "change_24h": -16.55739876921712
-    },
-    {
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "price": 0.03565558,
-      "change_24h": -8.643731704585672
+      "price": 0.01118175,
+      "change_24h": -9.295270212546203
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
-      "price": 240.36,
-      "change_24h": -6.82722341479974
+      "price": 239.38,
+      "change_24h": -8.831439863880115
+    },
+    {
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.03606049,
+      "change_24h": -7.445614340635926
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 347.72,
-      "change_24h": -4.28895156135203
+      "price": 351.93,
+      "change_24h": -7.133293620968936
     },
     {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.02584789,
-      "change_24h": -3.9108293604964444
+      "name": "Render",
+      "symbol": "RENDER",
+      "price": 1.83,
+      "change_24h": -5.270564532675151
     }
   ]
 }
