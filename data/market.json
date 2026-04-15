@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-15 18:48 UTC",
+  "updated_at": "2026-04-15 21:38 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 74343,
-      "change_24h": 0.4922820380029866
+      "price": 74603,
+      "change_24h": 0.7180158339763167
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2356.12,
-      "change_24h": 1.7271552492712923
+      "price": 2353.23,
+      "change_24h": 1.4407387129916724
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 622.84,
-      "change_24h": 1.3460032058477749
+      "price": 622.88,
+      "change_24h": 1.2394214727733401
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.95,
-      "change_24h": 0.8210224766273857
+      "price": 84.44,
+      "change_24h": 0.848575271706976
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.38,
-      "change_24h": 2.0741880642369885
+      "change_24h": 1.79737919397204
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.245372,
-      "change_24h": 1.7440676255006005
+      "price": 0.247356,
+      "change_24h": 2.5076696532181404
     }
   ],
   "bullish": [
     {
-      "name": "Siren",
-      "symbol": "SIREN",
-      "price": 0.828832,
-      "change_24h": 20.139539590820206
-    },
-    {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 12.05,
-      "change_24h": 19.57909276097482
+      "price": 12.07,
+      "change_24h": 20.10936699782934
+    },
+    {
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 0.797667,
+      "change_24h": 17.389113784314066
     },
     {
       "name": "Aave",
       "symbol": "AAVE",
-      "price": 107.84,
-      "change_24h": 9.589622603229774
+      "price": 105.21,
+      "change_24h": 6.91128073531552
     },
     {
       "name": "Morpho",
       "symbol": "MORPHO",
-      "price": 1.86,
-      "change_24h": 6.608600402947751
+      "price": 1.83,
+      "change_24h": 5.7210091419832745
     },
     {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "price": 0.0019328,
-      "change_24h": 5.165108614236115
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "price": 0.112605,
+      "change_24h": 5.023257017507471
     }
   ],
   "bearish": [
     {
       "name": "RaveDAO",
       "symbol": "RAVE",
-      "price": 12.01,
-      "change_24h": -22.51526877404212
+      "price": 11.95,
+      "change_24h": -23.949686514827896
     },
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.069701,
-      "change_24h": -9.967444826326926
+      "price": 0.068042,
+      "change_24h": -11.459825883668323
+    },
+    {
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.03506992,
+      "change_24h": -3.1159511394069597
     },
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01112748,
-      "change_24h": -9.324439998984628
+      "price": 0.0109202,
+      "change_24h": -2.541359696326381
     },
     {
-      "name": "Quant",
-      "symbol": "QNT",
-      "price": 73.9,
-      "change_24h": -0.879147573901153
-    },
-    {
-      "name": "NEXO",
-      "symbol": "NEXO",
-      "price": 0.896492,
-      "change_24h": -0.8041329849766127
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price": 346.99,
+      "change_24h": -1.9531409192372333
     }
   ]
 }
