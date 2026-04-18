@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-18 05:51 UTC",
+  "updated_at": "2026-04-18 08:08 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 77155,
-      "change_24h": 3.2743650083481124
+      "price": 77027,
+      "change_24h": 2.5543809361646193
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2408.48,
-      "change_24h": 3.7518865552708336
+      "price": 2404.87,
+      "change_24h": 2.9125718621538015
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 645.77,
-      "change_24h": 2.734311121911328
+      "price": 643.52,
+      "change_24h": 2.40334987285514
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 88.39,
-      "change_24h": 0.9104931905676585
+      "price": 88.33,
+      "change_24h": 0.07255814529878979
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.47,
-      "change_24h": 3.0444219174859506
+      "change_24h": 2.3927838254528924
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.257702,
-      "change_24h": 1.8446696642168428
+      "price": 0.258202,
+      "change_24h": 0.7269287853015043
     }
   ],
   "bullish": [
     {
       "name": "RaveDAO",
       "symbol": "RAVE",
-      "price": 26.49,
-      "change_24h": 46.97426056805654
+      "price": 26.42,
+      "change_24h": 39.41048744834132
     },
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 4.54,
-      "change_24h": 18.408516687565246
+      "price": 4.42,
+      "change_24h": 15.707687553521257
     },
     {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 13.49,
-      "change_24h": 15.558193201027281
+      "price": 13.34,
+      "change_24h": 12.9119387543817
     },
     {
       "name": "Ethena",
       "symbol": "ENA",
-      "price": 0.124324,
-      "change_24h": 13.730626011574094
+      "price": 0.125594,
+      "change_24h": 12.522846374856563
     },
     {
-      "name": "JUST",
-      "symbol": "JST",
-      "price": 0.06959,
-      "change_24h": 8.394288960572831
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price": 1.95,
+      "change_24h": 6.948547022557077
     }
   ],
   "bearish": [
     {
       "name": "Worldcoin",
       "symbol": "WLD",
-      "price": 0.28415,
-      "change_24h": -9.391832922255738
+      "price": 0.285659,
+      "change_24h": -10.347043422647335
     },
     {
       "name": "Toncoin",
       "symbol": "TON",
-      "price": 1.4,
-      "change_24h": -2.503529385119643
+      "price": 1.39,
+      "change_24h": -3.952639352483279
     },
     {
       "name": "Algorand",
       "symbol": "ALGO",
-      "price": 0.111155,
-      "change_24h": -1.9960896431201514
+      "price": 0.111421,
+      "change_24h": -3.232101945705702
     },
     {
-      "name": "Figure Heloc",
-      "symbol": "FIGR_HELOC",
-      "price": 1.022,
-      "change_24h": -1.2144682502029311
+      "name": "Aptos",
+      "symbol": "APT",
+      "price": 0.982587,
+      "change_24h": -1.986015809681202
     },
     {
-      "name": "Rain",
-      "symbol": "RAIN",
-      "price": 0.00760669,
-      "change_24h": -0.7483398417844483
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.03165703,
+      "change_24h": -1.7529128861442886
     }
   ]
 }
