@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-19 21:52 UTC",
+  "updated_at": "2026-04-19 23:55 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 74647,
-      "change_24h": -1.502079429940637
+      "price": 73944,
+      "change_24h": -2.3565899275078577
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2284.36,
-      "change_24h": -2.929235322223549
+      "price": 2267.39,
+      "change_24h": -3.553917948575168
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 621.92,
-      "change_24h": -1.56467728113261
+      "price": 616.73,
+      "change_24h": -2.154853193834034
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 85.02,
-      "change_24h": -1.3901344927846122
+      "price": 83.62,
+      "change_24h": -2.978056172038916
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.41,
-      "change_24h": -1.4994183363647478
+      "price": 1.39,
+      "change_24h": -2.948896557643655
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.2452,
-      "change_24h": -2.0102012785667456
+      "price": 0.242493,
+      "change_24h": -2.8498244381261655
     }
   ],
   "bullish": [
     {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 15.58,
-      "change_24h": 8.310471775778302
-    },
-    {
-      "name": "Canton",
-      "symbol": "CC",
-      "price": 0.149378,
-      "change_24h": 2.2664005553185365
+      "price": 15.41,
+      "change_24h": 6.291521562037163
     },
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.071903,
-      "change_24h": 2.128920548753703
+      "price": 0.072588,
+      "change_24h": 2.3551666773089117
+    },
+    {
+      "name": "Bitget Token",
+      "symbol": "BGB",
+      "price": 1.88,
+      "change_24h": 1.0933484901324169
     },
     {
       "name": "Ondo US Dollar Yield",
       "symbol": "USDY",
       "price": 1.13,
-      "change_24h": 1.0126877020008833
+      "change_24h": 0.8667029939229329
     },
     {
-      "name": "Bitget Token",
-      "symbol": "BGB",
-      "price": 1.87,
-      "change_24h": 0.9180665629933962
+      "name": "Canton",
+      "symbol": "CC",
+      "price": 0.147376,
+      "change_24h": 0.3615380911930839
     }
   ],
   "bearish": [
     {
       "name": "Aave",
       "symbol": "AAVE",
-      "price": 90.53,
-      "change_24h": -14.846870135390414
-    },
-    {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 3.41,
-      "change_24h": -7.620019317416606
+      "price": 90.28,
+      "change_24h": -11.65005985309585
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
-      "price": 41.18,
-      "change_24h": -6.588689688460042
+      "price": 40.68,
+      "change_24h": -7.40153856978517
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 303.43,
-      "change_24h": -5.872327154012469
+      "price": 302.09,
+      "change_24h": -7.02441179061685
     },
     {
       "name": "Ethena",
       "symbol": "ENA",
-      "price": 0.11552,
-      "change_24h": -4.5306450883413625
+      "price": 0.112282,
+      "change_24h": -6.629682012937782
+    },
+    {
+      "name": "Mantle",
+      "symbol": "MNT",
+      "price": 0.622027,
+      "change_24h": -6.014757649504221
     }
   ]
 }
