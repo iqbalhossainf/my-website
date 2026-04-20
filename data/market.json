@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-20 07:27 UTC",
+  "updated_at": "2026-04-20 11:57 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 75282,
-      "change_24h": 0.3171728728160026
+      "price": 75209,
+      "change_24h": -0.5156677991898371
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2317.05,
-      "change_24h": 0.5109239879640075
+      "price": 2309.88,
+      "change_24h": -0.863879511807058
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 627.32,
-      "change_24h": 1.2668042187220072
+      "price": 625.98,
+      "change_24h": 0.5668824344103022
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 85.32,
-      "change_24h": 0.767760419480312
+      "price": 85.11,
+      "change_24h": -0.5815140881447977
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.43,
-      "change_24h": 0.7681697154890194
+      "price": 1.42,
+      "change_24h": -0.9754462610046765
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.248082,
-      "change_24h": 1.2855354555447034
+      "price": 0.246546,
+      "change_24h": -0.3952184514607604
     }
   ],
   "bullish": [
     {
-      "name": "JUST",
-      "symbol": "JST",
-      "price": 0.073523,
-      "change_24h": 3.536544266816307
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 3.7,
+      "change_24h": 15.48881087589629
     },
     {
-      "name": "Canton",
-      "symbol": "CC",
-      "price": 0.151123,
-      "change_24h": 3.397750101800113
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 0.703412,
+      "change_24h": 8.196372489793832
     },
     {
       "name": "Sky",
       "symbol": "SKY",
-      "price": 0.078171,
-      "change_24h": 3.3274354521179426
+      "price": 0.079736,
+      "change_24h": 5.2613159428831215
     },
     {
-      "name": "Bonk",
-      "symbol": "BONK",
-      "price": 6.11e-06,
-      "change_24h": 2.3958027284981793
+      "name": "Canton",
+      "symbol": "CC",
+      "price": 0.153857,
+      "change_24h": 4.260996722170295
     },
     {
-      "name": "Arbitrum",
-      "symbol": "ARB",
-      "price": 0.127523,
-      "change_24h": 2.341068440521963
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.03096001,
+      "change_24h": 3.022522415428324
     }
   ],
   "bearish": [
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01087445,
-      "change_24h": -7.020847552624064
-    },
-    {
-      "name": "Mantle",
-      "symbol": "MNT",
-      "price": 0.613352,
-      "change_24h": -5.821992150638965
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "price": 41.39,
-      "change_24h": -4.2535616098006965
+      "price": 0.01037863,
+      "change_24h": -7.731062033365292
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 309.22,
-      "change_24h": -3.9452270103623013
+      "price": 309.11,
+      "change_24h": -6.627147752620069
     },
     {
-      "name": "Jupiter",
-      "symbol": "JUP",
-      "price": 0.17078,
-      "change_24h": -3.399678395073121
+      "name": "Mantle",
+      "symbol": "MNT",
+      "price": 0.618459,
+      "change_24h": -5.882424590576674
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price": 41.16,
+      "change_24h": -5.187659711920084
+    },
+    {
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.03553568,
+      "change_24h": -4.715484036425302
     }
   ]
 }
