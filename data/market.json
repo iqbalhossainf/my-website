@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-22 15:52 UTC",
+  "updated_at": "2026-04-22 19:55 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 79310,
-      "change_24h": 4.715120882151601
+      "price": 78850,
+      "change_24h": 5.139629762381421
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2409.37,
-      "change_24h": 4.460622442656038
+      "price": 2397.13,
+      "change_24h": 4.339069243539196
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 649.71,
-      "change_24h": 2.879109835501838
+      "price": 644.39,
+      "change_24h": 2.8358837539239112
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 88.36,
-      "change_24h": 2.9160101020142752
+      "price": 87.32,
+      "change_24h": 3.2191802822601665
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.46,
-      "change_24h": 1.9338588301304245
+      "price": 1.44,
+      "change_24h": 1.8056332400820132
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.255762,
-      "change_24h": 2.8644916244577447
+      "price": 0.252263,
+      "change_24h": 3.0514627129813117
     }
   ],
   "bullish": [
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "price": 0.00860038,
-      "change_24h": 12.96574484255775
-    },
-    {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "price": 3.43,
-      "change_24h": 5.757226661135759
-    },
-    {
-      "name": "Sky",
-      "symbol": "SKY",
-      "price": 0.084201,
-      "change_24h": 5.711051970532516
+      "price": 0.00837574,
+      "change_24h": 12.154441094095327
     },
     {
       "name": "Bonk",
       "symbol": "BONK",
-      "price": 6.48e-06,
-      "change_24h": 5.131704204242624
+      "price": 6.45e-06,
+      "change_24h": 6.781184835410528
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "price": 79312,
-      "change_24h": 4.718885164639943
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price": 0.130521,
+      "change_24h": 5.66004923253282
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "price": 3.38,
+      "change_24h": 5.6440126512871975
+    },
+    {
+      "name": "Sky",
+      "symbol": "SKY",
+      "price": 0.083464,
+      "change_24h": 5.5848827861603025
     }
   ],
   "bearish": [
     {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.02592309,
-      "change_24h": -4.04408321411462
-    },
-    {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01041802,
-      "change_24h": -2.4059966465270493
-    },
-    {
-      "name": "Morpho",
-      "symbol": "MORPHO",
-      "price": 1.94,
-      "change_24h": -2.0635401546223506
-    },
-    {
-      "name": "LEO Token",
-      "symbol": "LEO",
-      "price": 10.18,
-      "change_24h": -1.7143680937695565
+      "price": 0.01033076,
+      "change_24h": -7.865172756307009
     },
     {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 12.09,
-      "change_24h": -1.584405019124513
+      "price": 12.13,
+      "change_24h": -2.9529006463728074
+    },
+    {
+      "name": "Figure Heloc",
+      "symbol": "FIGR_HELOC",
+      "price": 1.021,
+      "change_24h": -1.186346139612403
+    },
+    {
+      "name": "LEO Token",
+      "symbol": "LEO",
+      "price": 10.23,
+      "change_24h": -1.1667187349131511
+    },
+    {
+      "name": "TRON",
+      "symbol": "TRX",
+      "price": 0.329106,
+      "change_24h": -0.9140608789909027
     }
   ]
 }
