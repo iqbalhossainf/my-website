@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-24 17:56 UTC",
+  "updated_at": "2026-04-24 20:07 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 77754,
-      "change_24h": -0.02648134671025751
+      "price": 77609,
+      "change_24h": -0.3569116207656673
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2319.64,
-      "change_24h": 0.4134880240966094
+      "price": 2321.61,
+      "change_24h": -0.12313495585575815
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 637.64,
-      "change_24h": 0.5556322536389278
+      "price": 638.01,
+      "change_24h": 0.027317091833345936
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 86.46,
-      "change_24h": 1.298132603673835
+      "price": 86.52,
+      "change_24h": 1.1901016879040027
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.44,
-      "change_24h": 0.3463632568547167
+      "change_24h": 0.49926397744732043
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.251766,
-      "change_24h": 2.031465536638106
+      "price": 0.251844,
+      "change_24h": 1.8052277514466568
     }
   ],
   "bullish": [
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.03476807,
-      "change_24h": 16.93542091028693
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "price": 364.85,
-      "change_24h": 12.355461257929962
-    },
-    {
-      "name": "Official Trump",
-      "symbol": "TRUMP",
-      "price": 3.11,
-      "change_24h": 9.78796869898101
+      "price": 0.03566188,
+      "change_24h": 18.92486760723061
     },
     {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 13.47,
-      "change_24h": 7.316556695314172
+      "price": 13.52,
+      "change_24h": 7.526710862311617
     },
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01104555,
-      "change_24h": 6.56134861567081
+      "price": 0.0111231,
+      "change_24h": 7.504103515941242
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price": 357.5,
+      "change_24h": 6.11595117359936
+    },
+    {
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price": 3.01,
+      "change_24h": 6.0821907425802815
     }
   ],
   "bearish": [
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.081319,
-      "change_24h": -2.7363318558284075
+      "price": 0.080199,
+      "change_24h": -3.078317058278178
     },
     {
       "name": "World Liberty Financial",
       "symbol": "WLFI",
-      "price": 0.075312,
-      "change_24h": -2.347211707458293
+      "price": 0.075153,
+      "change_24h": -2.543694161628919
     },
     {
-      "name": "Toncoin",
-      "symbol": "TON",
-      "price": 1.32,
-      "change_24h": -2.3053624069719056
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price": 0.108619,
+      "change_24h": -1.6508489464872675
     },
     {
-      "name": "Sky",
-      "symbol": "SKY",
-      "price": 0.0836,
-      "change_24h": -1.78807845658363
+      "name": "Quant",
+      "symbol": "QNT",
+      "price": 71.89,
+      "change_24h": -1.553707174345752
     },
     {
-      "name": "Stellar",
-      "symbol": "XLM",
-      "price": 0.174621,
-      "change_24h": -1.465988132159445
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price": 1.87,
+      "change_24h": -1.465319243248654
     }
   ]
 }
