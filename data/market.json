@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-24 14:58 UTC",
+  "updated_at": "2026-04-24 17:56 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78043,
-      "change_24h": -0.19325886201452808
+      "price": 77754,
+      "change_24h": -0.02648134671025751
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2314.97,
-      "change_24h": -0.8258043771658526
+      "price": 2319.64,
+      "change_24h": 0.4134880240966094
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 638.58,
-      "change_24h": 0.2492664779237955
+      "price": 637.64,
+      "change_24h": 0.5556322536389278
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 85.98,
-      "change_24h": -0.15853318871265748
+      "price": 86.46,
+      "change_24h": 1.298132603673835
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.44,
-      "change_24h": 0.37660324254260585
+      "change_24h": 0.3463632568547167
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.250645,
-      "change_24h": 0.5494538815425524
+      "price": 0.251766,
+      "change_24h": 2.031465536638106
     }
   ],
   "bullish": [
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.03392238,
-      "change_24h": 16.830488391290242
+      "price": 0.03476807,
+      "change_24h": 16.93542091028693
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 348.7,
-      "change_24h": 6.127900847669809
+      "price": 364.85,
+      "change_24h": 12.355461257929962
     },
     {
-      "name": "Rain",
-      "symbol": "RAIN",
-      "price": 0.00794645,
-      "change_24h": 5.244120423981046
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price": 3.11,
+      "change_24h": 9.78796869898101
     },
     {
-      "name": "Cosmos Hub",
-      "symbol": "ATOM",
-      "price": 1.96,
-      "change_24h": 4.354432060003862
+      "name": "DeXe",
+      "symbol": "DEXE",
+      "price": 13.47,
+      "change_24h": 7.316556695314172
     },
     {
-      "name": "Bitget Token",
-      "symbol": "BGB",
-      "price": 2.01,
-      "change_24h": 3.8201843101456245
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.01104555,
+      "change_24h": 6.56134861567081
     }
   ],
   "bearish": [
     {
-      "name": "World Liberty Financial",
-      "symbol": "WLFI",
-      "price": 0.075121,
-      "change_24h": -2.7962431896272326
+      "name": "JUST",
+      "symbol": "JST",
+      "price": 0.081319,
+      "change_24h": -2.7363318558284075
     },
     {
-      "name": "Quant",
-      "symbol": "QNT",
-      "price": 71.78,
-      "change_24h": -2.1893579795359943
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "price": 0.075312,
+      "change_24h": -2.347211707458293
+    },
+    {
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price": 1.32,
+      "change_24h": -2.3053624069719056
+    },
+    {
+      "name": "Sky",
+      "symbol": "SKY",
+      "price": 0.0836,
+      "change_24h": -1.78807845658363
     },
     {
       "name": "Stellar",
       "symbol": "XLM",
-      "price": 0.174385,
-      "change_24h": -2.114432052461578
-    },
-    {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 4.31,
-      "change_24h": -1.722131173156754
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "price": 40.92,
-      "change_24h": -1.573127281293544
+      "price": 0.174621,
+      "change_24h": -1.465988132159445
     }
   ]
 }
