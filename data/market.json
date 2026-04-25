@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-25 14:30 UTC",
+  "updated_at": "2026-04-25 17:11 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 77739,
-      "change_24h": -0.10073722686719633
+      "price": 77376,
+      "change_24h": -0.4413048982830715
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2318.07,
-      "change_24h": 0.3163391582235988
+      "price": 2309.0,
+      "change_24h": -0.41013153167003286
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 632.24,
-      "change_24h": -0.7404743968661439
+      "price": 629.56,
+      "change_24h": -1.3875020402667586
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 86.63,
-      "change_24h": 0.9847511054610231
+      "price": 85.82,
+      "change_24h": -0.6269217845810021
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.43,
-      "change_24h": 0.09120098084289131
+      "price": 1.42,
+      "change_24h": -1.2201253774671061
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.251485,
-      "change_24h": 0.5096422855942252
+      "price": 0.249189,
+      "change_24h": -1.11569116648903
     }
   ],
   "bullish": [
     {
       "name": "Algorand",
       "symbol": "ALGO",
-      "price": 0.116492,
-      "change_24h": 9.36721263201962
+      "price": 0.114766,
+      "change_24h": 5.213397554289963
     },
     {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 13.65,
-      "change_24h": 7.8759403123051435
+      "price": 13.61,
+      "change_24h": 4.290398039955937
     },
     {
       "name": "Cosmos Hub",
       "symbol": "ATOM",
-      "price": 2.04,
-      "change_24h": 4.392715730779687
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "price": 359.48,
-      "change_24h": 3.0285472702131377
+      "price": 2.03,
+      "change_24h": 2.202405183042892
     },
     {
       "name": "Mantle",
       "symbol": "MNT",
-      "price": 0.662433,
-      "change_24h": 2.5960396786666946
+      "price": 0.655788,
+      "change_24h": 1.365898908495808
+    },
+    {
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 4.3,
+      "change_24h": 1.356711098131324
     }
   ],
   "bearish": [
     {
       "name": "Official Trump",
       "symbol": "TRUMP",
-      "price": 2.53,
-      "change_24h": -12.1846851450065
+      "price": 2.55,
+      "change_24h": -16.296195860338806
+    },
+    {
+      "name": "Aster",
+      "symbol": "ASTER",
+      "price": 0.64398,
+      "change_24h": -3.719026569178665
+    },
+    {
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.02979446,
+      "change_24h": -3.2930288118820115
     },
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00752177,
-      "change_24h": -5.93932868141712
+      "price": 0.00736146,
+      "change_24h": -3.1258212308159394
     },
     {
-      "name": "JUST",
-      "symbol": "JST",
-      "price": 0.078235,
-      "change_24h": -4.750805558356071
-    },
-    {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.03280756,
-      "change_24h": -3.6517185090770523
-    },
-    {
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "price": 0.03619117,
-      "change_24h": -3.2757052886903177
+      "name": "Bonk",
+      "symbol": "BONK",
+      "price": 6.19e-06,
+      "change_24h": -3.0772516435185566
     }
   ]
 }
