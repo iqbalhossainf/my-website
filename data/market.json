@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-26 06:30 UTC",
+  "updated_at": "2026-04-26 10:05 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 77980,
-      "change_24h": 0.563873878074052
+      "price": 77977,
+      "change_24h": 0.23944377028765462
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2330.17,
-      "change_24h": 0.5821611248696245
+      "price": 2333.16,
+      "change_24h": 0.5623881681690458
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 631.79,
-      "change_24h": -0.8806538111958159
+      "price": 631.6,
+      "change_24h": -0.9799541163252079
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 86.44,
-      "change_24h": 0.1983901012068001
+      "price": 86.53,
+      "change_24h": -0.11596681226909342
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.43,
-      "change_24h": -0.37830011297974064
+      "change_24h": -0.5570468567328556
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.251327,
-      "change_24h": -0.22103901036522994
+      "price": 0.252106,
+      "change_24h": -0.5543928286646637
     }
   ],
   "bullish": [
     {
-      "name": "Sky",
-      "symbol": "SKY",
-      "price": 0.088016,
-      "change_24h": 5.3643559152842215
-    },
-    {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "price": 0.178316,
-      "change_24h": 4.793033077008607
-    },
-    {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.03352435,
-      "change_24h": 4.076652080104968
-    },
-    {
-      "name": "Jupiter",
-      "symbol": "JUP",
-      "price": 0.178619,
-      "change_24h": 3.0308558411508777
+      "price": 0.03372406,
+      "change_24h": 5.349154234925321
     },
     {
       "name": "Monero",
       "symbol": "XMR",
-      "price": 377.67,
-      "change_24h": 2.3998304001041575
+      "price": 389.82,
+      "change_24h": 4.792833173376655
+    },
+    {
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price": 0.179741,
+      "change_24h": 4.759114429633801
+    },
+    {
+      "name": "Sky",
+      "symbol": "SKY",
+      "price": 0.087722,
+      "change_24h": 4.051936325811599
+    },
+    {
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price": 0.180798,
+      "change_24h": 3.5285597598870497
     }
   ],
   "bearish": [
     {
-      "name": "Rain",
-      "symbol": "RAIN",
-      "price": 0.00689163,
-      "change_24h": -8.926902737020576
-    },
-    {
       "name": "Official Trump",
       "symbol": "TRUMP",
       "price": 2.66,
-      "change_24h": -8.88164174922465
-    },
-    {
-      "name": "Stellar",
-      "symbol": "XLM",
-      "price": 0.169135,
-      "change_24h": -2.4529564056491315
+      "change_24h": -10.45054972456721
     },
     {
       "name": "Midnight",
       "symbol": "NIGHT",
-      "price": 0.03608237,
-      "change_24h": -2.1059239617473504
+      "price": 0.03563254,
+      "change_24h": -3.27417486595782
+    },
+    {
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.01023517,
+      "change_24h": -2.3882843056490572
     },
     {
       "name": "Toncoin",
       "symbol": "TON",
       "price": 1.32,
-      "change_24h": -1.832593351413173
+      "change_24h": -2.1808724046672787
+    },
+    {
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price": 0.091556,
+      "change_24h": -2.0813432982871505
     }
   ]
 }
