@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-26 17:11 UTC",
+  "updated_at": "2026-04-26 19:59 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78005,
-      "change_24h": 0.8223434508946904
+      "price": 78242,
+      "change_24h": 1.1738843292832675
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2345.2,
-      "change_24h": 1.5806645815977918
+      "price": 2368.88,
+      "change_24h": 2.5160389458743286
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 631.09,
-      "change_24h": 0.2426454300814652
+      "price": 635.86,
+      "change_24h": 1.1096490527844203
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 86.44,
-      "change_24h": 0.7671041777712547
+      "price": 86.9,
+      "change_24h": 1.4146735824898236
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.42,
-      "change_24h": 0.07800329457943135
+      "price": 1.43,
+      "change_24h": 0.7417392354811856
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.251634,
-      "change_24h": 0.9947552479453617
+      "price": 0.25259,
+      "change_24h": 1.3731338523750183
     }
   ],
   "bullish": [
     {
       "name": "Pi Network",
       "symbol": "PI",
-      "price": 0.184228,
-      "change_24h": 8.095003674611952
+      "price": 0.182841,
+      "change_24h": 7.191422196884142
     },
     {
-      "name": "Monero",
-      "symbol": "XMR",
-      "price": 398.17,
-      "change_24h": 5.934879898899462
-    },
-    {
-      "name": "Jupiter",
-      "symbol": "JUP",
-      "price": 0.180079,
-      "change_24h": 5.272754890247911
-    },
-    {
-      "name": "Sky",
-      "symbol": "SKY",
-      "price": 0.088212,
-      "change_24h": 5.1675713841620565
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price": 0.00899672,
+      "change_24h": 7.105387498363282
     },
     {
       "name": "Morpho",
       "symbol": "MORPHO",
-      "price": 1.93,
-      "change_24h": 5.114185547472728
+      "price": 1.97,
+      "change_24h": 6.780557574045281
+    },
+    {
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price": 0.181983,
+      "change_24h": 6.575528960278114
+    },
+    {
+      "name": "Sky",
+      "symbol": "SKY",
+      "price": 0.088513,
+      "change_24h": 5.544189131022429
     }
   ],
   "bearish": [
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01011528,
-      "change_24h": -3.42729520763508
+      "price": 0.01029132,
+      "change_24h": -2.603521777047842
     },
     {
       "name": "Figure Heloc",
       "symbol": "FIGR_HELOC",
       "price": 1.02,
-      "change_24h": -1.3786300640864877
-    },
-    {
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "price": 0.0355311,
-      "change_24h": -1.2747923244930026
+      "change_24h": -1.702180929856886
     },
     {
       "name": "Canton",
       "symbol": "CC",
-      "price": 0.150412,
-      "change_24h": -1.1611604209184672
+      "price": 0.149349,
+      "change_24h": -1.5645473654512256
     },
     {
-      "name": "Litecoin",
-      "symbol": "LTC",
-      "price": 55.88,
-      "change_24h": -0.9676913708468422
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price": 2.01,
+      "change_24h": -1.3011245639892077
+    },
+    {
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price": 1.3,
+      "change_24h": -0.910241130332515
     }
   ]
 }
