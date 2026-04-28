@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-04-28 02:25 UTC",
+  "updated_at": "2026-04-28 05:53 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 77148,
-      "change_24h": -2.438527964779468
+      "price": 76917,
+      "change_24h": -1.1414332401167946
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2298.44,
-      "change_24h": -3.8673705700436436
+      "price": 2289.24,
+      "change_24h": -1.4812316596215134
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 625.99,
-      "change_24h": -1.9755195030685249
+      "price": 624.63,
+      "change_24h": -0.7076920086432208
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.58,
-      "change_24h": -3.322652925036282
+      "price": 84.3,
+      "change_24h": -1.8810853153491995
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.4,
-      "change_24h": -2.9855288331963
+      "price": 1.39,
+      "change_24h": -1.8870208367462178
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.248361,
-      "change_24h": -2.625735429219761
+      "price": 0.247575,
+      "change_24h": -0.3657581298548526
     }
   ],
   "bullish": [
@@ -48,58 +48,58 @@
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01246502,
-      "change_24h": 15.716596643712444
-    },
-    {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "price": 0.189035,
-      "change_24h": 5.084956733031826
+      "price": 0.01247484,
+      "change_24h": 17.350748509101727
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "price": 0.01010134,
-      "change_24h": 4.279987711804335
+      "price": 0.01025366,
+      "change_24h": 4.933740609637845
     },
     {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.03516508,
-      "change_24h": 4.205770541182696
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price": 0.186221,
+      "change_24h": 3.966630736233095
+    },
+    {
+      "name": "Sky",
+      "symbol": "SKY",
+      "price": 0.088486,
+      "change_24h": 3.16107341793969
     }
   ],
   "bearish": [
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 3.72,
-      "change_24h": -13.279293844415815
+      "price": 3.62,
+      "change_24h": -14.76289558003111
     },
     {
-      "name": "Rain",
-      "symbol": "RAIN",
-      "price": 0.00722908,
-      "change_24h": -4.655101036958747
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.03404669,
+      "change_24h": -5.682055458460185
     },
     {
-      "name": "Ethena",
-      "symbol": "ENA",
-      "price": 0.107079,
-      "change_24h": -4.111820814977752
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price": 338.94,
+      "change_24h": -3.591634057109319
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price": 41.25,
+      "change_24h": -3.0939620790551943
     },
     {
       "name": "Stellar",
       "symbol": "XLM",
-      "price": 0.165737,
-      "change_24h": -4.052482227804667
-    },
-    {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "price": 2299.63,
-      "change_24h": -3.818850223154098
+      "price": 0.164888,
+      "change_24h": -2.7750483669647408
     }
   ]
 }
