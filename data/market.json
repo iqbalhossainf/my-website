@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-04-28 19:25 UTC",
+  "updated_at": "2026-04-28 21:02 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 76102,
-      "change_24h": -0.7539137099495488
+      "price": 76458,
+      "change_24h": -0.5938855232076611
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2291.54,
-      "change_24h": 0.37892464654699193
+      "price": 2295.63,
+      "change_24h": 0.25964412694983
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 623.1,
-      "change_24h": 0.16071554285791617
+      "price": 624.23,
+      "change_24h": 0.05233976243023383
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 83.75,
-      "change_24h": -0.5444323887942976
+      "price": 83.79,
+      "change_24h": -0.437127987140001
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.38,
-      "change_24h": -0.9112273966703517
+      "change_24h": -0.6278830234081062
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.246817,
-      "change_24h": 0.5599096700696377
+      "price": 0.247574,
+      "change_24h": 0.8518960309863719
     }
   ],
   "bullish": [
@@ -46,60 +46,60 @@
       "change_24h": 27.77912034799419
     },
     {
-      "name": "Provenance Blockchain",
-      "symbol": "HASH",
-      "price": 0.01295164,
-      "change_24h": 26.590698124679584
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "price": 258.34,
-      "change_24h": 4.587588733056071
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price": 0.193153,
+      "change_24h": 6.530898675570122
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "price": 0.01018616,
-      "change_24h": 4.12567525134962
+      "price": 0.01033687,
+      "change_24h": 4.6583274983880445
     },
     {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "price": 0.188059,
-      "change_24h": 3.35550428233481
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price": 0.00181752,
+      "change_24h": 4.639264652853029
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price": 256.24,
+      "change_24h": 4.34477822962707
     }
   ],
   "bearish": [
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 3.4,
-      "change_24h": -13.486863070748111
+      "price": 3.38,
+      "change_24h": -11.27570866351746
     },
     {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 13.35,
-      "change_24h": -6.673164227031815
+      "price": 12.97,
+      "change_24h": -8.897143831420717
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 334.88,
-      "change_24h": -5.8094748545579815
-    },
-    {
-      "name": "Algorand",
-      "symbol": "ALGO",
-      "price": 0.111257,
-      "change_24h": -5.586402246891617
+      "price": 335.95,
+      "change_24h": -4.283283470213353
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
-      "price": 39.96,
-      "change_24h": -3.746297266060914
+      "price": 39.87,
+      "change_24h": -3.8040780317037775
+    },
+    {
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "price": 0.112358,
+      "change_24h": -2.8920575755304094
     }
   ]
 }
