@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-29 21:58 UTC",
+  "updated_at": "2026-04-29 22:59 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 75944,
-      "change_24h": -0.5360502492135586
+      "price": 75918,
+      "change_24h": -0.40908578014120267
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2253.43,
-      "change_24h": -1.6011713268367977
+      "price": 2256.93,
+      "change_24h": -1.2609947842104074
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 617.28,
-      "change_24h": -1.0222986071977227
+      "price": 617.95,
+      "change_24h": -0.8262134567204038
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 82.93,
-      "change_24h": -0.9916924305814947
+      "price": 83.07,
+      "change_24h": -0.7332314358263448
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.37,
-      "change_24h": -0.8560104926373494
+      "change_24h": -0.6338789500378007
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.244437,
-      "change_24h": -1.2480661836312903
+      "price": 0.244429,
+      "change_24h": -0.9180441657641494
     }
   ],
   "bullish": [
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00786895,
-      "change_24h": 5.014068271004253
+      "price": 0.00780281,
+      "change_24h": 4.61601961132522
     },
     {
       "name": "Dogecoin",
       "symbol": "DOGE",
-      "price": 0.103256,
-      "change_24h": 3.7761175292140985
+      "price": 0.103618,
+      "change_24h": 4.202726599225326
     },
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.08665,
-      "change_24h": 3.112389725175943
+      "price": 0.086653,
+      "change_24h": 3.0170780269880013
     },
     {
       "name": "Aptos",
       "symbol": "APT",
-      "price": 0.990572,
-      "change_24h": 2.8347811706817847
+      "price": 0.987748,
+      "change_24h": 2.6159105204161386
     },
     {
-      "name": "Toncoin",
-      "symbol": "TON",
-      "price": 1.32,
-      "change_24h": 2.110134959456244
+      "name": "Canton",
+      "symbol": "CC",
+      "price": 0.151072,
+      "change_24h": 1.5667331792925905
     }
   ],
   "bearish": [
     {
       "name": "World Liberty Financial",
       "symbol": "WLFI",
-      "price": 0.064018,
-      "change_24h": -13.34244521753434
+      "price": 0.062935,
+      "change_24h": -14.708917150574624
     },
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01114992,
-      "change_24h": -11.385839997203464
+      "price": 0.01125639,
+      "change_24h": -10.355034900380659
     },
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.03270605,
-      "change_24h": -9.380204364834368
+      "price": 0.03287677,
+      "change_24h": -9.63663282200864
     },
     {
-      "name": "Sky",
-      "symbol": "SKY",
-      "price": 0.08158,
-      "change_24h": -6.004153661085047
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price": 0.00974557,
+      "change_24h": -6.540719280588492
     },
     {
-      "name": "DeXe",
-      "symbol": "DEXE",
-      "price": 12.3,
-      "change_24h": -5.881183139729874
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price": 0.00174279,
+      "change_24h": -6.508174517818636
     }
   ]
 }
