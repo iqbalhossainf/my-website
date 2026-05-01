@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-30 23:46 UTC",
+  "updated_at": "2026-05-01 02:32 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 76296,
-      "change_24h": 0.6410219145901762
+      "price": 76578,
+      "change_24h": 1.1079637150181745
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2256.92,
-      "change_24h": 0.08196672436449191
+      "price": 2264.88,
+      "change_24h": 0.7845062424093724
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 615.11,
-      "change_24h": -0.401859253075496
+      "price": 616.75,
+      "change_24h": -0.1289325644190062
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 82.98,
-      "change_24h": -0.06123566404487547
+      "price": 83.49,
+      "change_24h": 0.47955058340927514
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.37,
-      "change_24h": -0.2816308413993281
+      "change_24h": -0.26713182903609584
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.246049,
-      "change_24h": 0.7801087325368773
+      "price": 0.246781,
+      "change_24h": 0.44141356025805
     }
   ],
   "bullish": [
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "price": 349.42,
-      "change_24h": 7.141526494453379
-    },
-    {
       "name": "WhiteBIT Coin",
       "symbol": "WBT",
-      "price": 57.18,
-      "change_24h": 5.935636735600387
+      "price": 57.38,
+      "change_24h": 5.840338233703755
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price": 343.48,
+      "change_24h": 4.768101704857401
+    },
+    {
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.01109725,
+      "change_24h": 4.3988760859009135
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "price": 0.01000857,
-      "change_24h": 3.1995705749772125
+      "price": 0.01004449,
+      "change_24h": 3.395795998580369
     },
     {
-      "name": "POL (ex-MATIC)",
-      "symbol": "POL",
-      "price": 0.095246,
-      "change_24h": 2.5118967767609113
-    },
-    {
-      "name": "Dogecoin",
-      "symbol": "DOGE",
-      "price": 0.106367,
-      "change_24h": 2.442326459382128
+      "name": "JUST",
+      "symbol": "JST",
+      "price": 0.089808,
+      "change_24h": 2.7245723160436732
     }
   ],
   "bearish": [
     {
-      "name": "DeXe",
-      "symbol": "DEXE",
-      "price": 11.3,
-      "change_24h": -8.50987891572252
-    },
-    {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "price": 0.17769,
-      "change_24h": -6.776188370469072
-    },
-    {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 3.18,
-      "change_24h": -6.517229076505984
+      "price": 3.2,
+      "change_24h": -6.20430504362511
+    },
+    {
+      "name": "DeXe",
+      "symbol": "DEXE",
+      "price": 11.37,
+      "change_24h": -5.946069020456823
     },
     {
       "name": "World Liberty Financial",
       "symbol": "WLFI",
-      "price": 0.061092,
-      "change_24h": -3.3567441687097714
+      "price": 0.060326,
+      "change_24h": -4.802328944095454
     },
     {
-      "name": "Render",
-      "symbol": "RENDER",
-      "price": 1.67,
-      "change_24h": -2.570930205729631
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price": 0.181714,
+      "change_24h": -3.6682939015759897
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price": 1.3,
+      "change_24h": -2.4117287247846444
     }
   ]
 }
