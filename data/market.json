@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-01 21:46 UTC",
+  "updated_at": "2026-05-01 22:43 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78107,
-      "change_24h": 2.3918317928743638
+      "price": 78218,
+      "change_24h": 2.54705167225179
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2289.13,
-      "change_24h": 1.4218725978571456
+      "price": 2293.4,
+      "change_24h": 1.68864085334418
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 617.28,
-      "change_24h": 0.11512166835894294
+      "price": 616.79,
+      "change_24h": 0.30973941156115176
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 83.66,
-      "change_24h": 0.9077787189656206
+      "price": 83.72,
+      "change_24h": 1.0619177205733636
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.39,
-      "change_24h": 1.4791421498094486
+      "change_24h": 1.598042694262988
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.248801,
-      "change_24h": 0.9213654259487907
+      "price": 0.248361,
+      "change_24h": 0.899367990125778
     }
   ],
   "bullish": [
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 384.5,
-      "change_24h": 9.962225127100686
+      "price": 384.58,
+      "change_24h": 10.7710507541438
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
-      "price": 269.67,
-      "change_24h": 8.235841061557121
+      "price": 271.19,
+      "change_24h": 9.176779319320817
     },
     {
       "name": "Siren",
       "symbol": "SIREN",
-      "price": 0.707925,
-      "change_24h": 6.162556281911228
+      "price": 0.703849,
+      "change_24h": 5.033903512630613
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
-      "price": 40.91,
-      "change_24h": 3.613973290787753
+      "price": 41.03,
+      "change_24h": 3.7240923319450627
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
-      "price": 0.00181795,
-      "change_24h": 3.253055709247358
+      "price": 0.00181912,
+      "change_24h": 3.3586880404585413
     }
   ],
   "bearish": [
     {
       "name": "World Liberty Financial",
       "symbol": "WLFI",
-      "price": 0.05498,
-      "change_24h": -9.758915250137663
+      "price": 0.055245,
+      "change_24h": -8.957275892336225
     },
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01056157,
-      "change_24h": -7.625116578843882
+      "price": 0.01056258,
+      "change_24h": -7.85185080654853
     },
     {
       "name": "MemeCore",
       "symbol": "M",
       "price": 3.01,
-      "change_24h": -6.328567569853366
-    },
-    {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "price": 0.236648,
-      "change_24h": -2.9775418012325163
+      "change_24h": -6.2240305038454435
     },
     {
       "name": "Midnight",
       "symbol": "NIGHT",
-      "price": 0.03179488,
-      "change_24h": -2.8847247028725422
+      "price": 0.03177067,
+      "change_24h": -3.1212304809037494
+    },
+    {
+      "name": "JUST",
+      "symbol": "JST",
+      "price": 0.085929,
+      "change_24h": -3.0599825015228057
     }
   ]
 }
