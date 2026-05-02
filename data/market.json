@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-01 23:44 UTC",
+  "updated_at": "2026-05-02 02:08 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78121,
-      "change_24h": 2.3741560045062564
+      "price": 78334,
+      "change_24h": 2.188562834990539
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2292.7,
-      "change_24h": 1.569970864585362
+      "price": 2298.65,
+      "change_24h": 1.3621751169883274
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 615.2,
-      "change_24h": 0.008956566359480592
+      "price": 616.07,
+      "change_24h": -0.1271464008879918
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 83.69,
-      "change_24h": 0.8245397088048513
+      "price": 83.96,
+      "change_24h": 0.5017761968485205
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.38,
-      "change_24h": 1.3309276653030695
+      "change_24h": 1.0373645420174988
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.248129,
-      "change_24h": 0.8362905261276514
+      "price": 0.248064,
+      "change_24h": 0.345119735438791
     }
   ],
   "bullish": [
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 383.67,
-      "change_24h": 9.878444506024744
+      "price": 383.41,
+      "change_24h": 11.448873714076147
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
-      "price": 271.08,
-      "change_24h": 9.12324164838331
+      "price": 271.27,
+      "change_24h": 8.250057351722774
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "price": 41.08,
-      "change_24h": 3.5578854377913873
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 0.716131,
+      "change_24h": 6.761731138394635
     },
     {
-      "name": "VeChain",
-      "symbol": "VET",
-      "price": 0.00716461,
-      "change_24h": 2.627955930480842
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL",
+      "price": 0.097036,
+      "change_24h": 2.8970611922887466
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "price": 78118,
-      "change_24h": 2.370462066636106
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "price": 452.71,
+      "change_24h": 2.486294649596161
     }
   ],
   "bearish": [
     {
       "name": "World Liberty Financial",
       "symbol": "WLFI",
-      "price": 0.054719,
-      "change_24h": -10.42576821294899
-    },
-    {
-      "name": "Provenance Blockchain",
-      "symbol": "HASH",
-      "price": 0.01058749,
-      "change_24h": -7.66915460978405
+      "price": 0.05395,
+      "change_24h": -11.107714248138635
     },
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 2.97,
-      "change_24h": -6.543372812580916
+      "price": 2.98,
+      "change_24h": -7.7000361199413465
     },
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.085536,
-      "change_24h": -3.535588617435239
+      "price": 0.085469,
+      "change_24h": -4.459779777498012
     },
     {
       "name": "Worldcoin",
       "symbol": "WLD",
-      "price": 0.2348,
-      "change_24h": -3.2578583257444187
+      "price": 0.234946,
+      "change_24h": -3.6190389387240485
+    },
+    {
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.03177009,
+      "change_24h": -3.0797512961896047
     }
   ]
 }
