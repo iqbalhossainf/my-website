@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-02 17:39 UTC",
+  "updated_at": "2026-05-02 18:50 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78467,
-      "change_24h": 0.04407915376214591
+      "price": 78426,
+      "change_24h": 0.016791324170643294
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2307.85,
-      "change_24h": -0.020927884426308788
+      "price": 2309.29,
+      "change_24h": 0.198653668488776
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 618.6,
-      "change_24h": -0.2070689287793534
+      "price": 618.68,
+      "change_24h": -0.17156174741966404
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.11,
-      "change_24h": -0.008701863447042813
+      "price": 84.15,
+      "change_24h": 0.17368433875461325
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.39,
-      "change_24h": 0.06462467367267632
+      "change_24h": -0.046402547101106015
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.250141,
-      "change_24h": 0.14978966898319124
+      "price": 0.25015,
+      "change_24h": 0.12481923168569603
     }
   ],
   "bullish": [
     {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "price": 0.283295,
-      "change_24h": 5.0772376945509095
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.01137009,
+      "change_24h": 8.326116557603974
     },
     {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 3.07,
-      "change_24h": 3.7082601723369524
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price": 0.284641,
+      "change_24h": 4.766123704599128
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price": 284.19,
+      "change_24h": 3.724776501313139
     },
     {
       "name": "POL (ex-MATIC)",
       "symbol": "POL",
-      "price": 0.097261,
-      "change_24h": 3.16489406658866
+      "price": 0.097171,
+      "change_24h": 2.566544192533229
     },
     {
       "name": "Aster",
       "symbol": "ASTER",
-      "price": 0.678627,
-      "change_24h": 2.9924054743369166
-    },
-    {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "price": 0.244523,
-      "change_24h": 2.5130870073595664
+      "price": 0.674062,
+      "change_24h": 2.530099832179633
     }
   ],
   "bearish": [
     {
-      "name": "JUST",
-      "symbol": "JST",
-      "price": 0.084854,
-      "change_24h": -2.782137948268195
-    },
-    {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.0076497,
-      "change_24h": -2.692117015730347
-    },
-    {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "price": 0.177463,
-      "change_24h": -1.4565450267034357
-    },
-    {
-      "name": "XDC Network",
-      "symbol": "XDC",
-      "price": 0.02937633,
-      "change_24h": -1.3773687651422875
+      "price": 0.00763679,
+      "change_24h": -2.9136688063308718
     },
     {
       "name": "Arbitrum",
       "symbol": "ARB",
-      "price": 0.123769,
-      "change_24h": -1.2461871224229493
+      "price": 0.12236,
+      "change_24h": -2.375500179180847
+    },
+    {
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 0.69494,
+      "change_24h": -2.10144075841669
+    },
+    {
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price": 1.88,
+      "change_24h": -1.7641561047089014
+    },
+    {
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price": 0.177424,
+      "change_24h": -1.6604406159194913
     }
   ]
 }
