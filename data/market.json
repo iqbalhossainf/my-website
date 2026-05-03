@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-03 02:14 UTC",
+  "updated_at": "2026-05-03 05:52 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78161,
-      "change_24h": -0.1826717710780259
+      "price": 78221,
+      "change_24h": 0.03225228489765177
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2301.28,
-      "change_24h": 0.16909012931706832
+      "price": 2303.56,
+      "change_24h": 0.16741866553992096
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 615.71,
-      "change_24h": -0.015402126061443125
+      "price": 617.2,
+      "change_24h": 0.3103218986778762
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 83.65,
-      "change_24h": -0.3284509049387978
+      "price": 83.73,
+      "change_24h": 0.06689038546252302
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.38,
-      "change_24h": -0.0458530984096941
+      "change_24h": 0.056028458913552764
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.248098,
-      "change_24h": 0.011886523535190308
+      "price": 0.248203,
+      "change_24h": 0.3655525521751475
     }
   ],
   "bullish": [
     {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "price": 283.14,
-      "change_24h": 4.591409350500589
-    },
-    {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "price": 0.278155,
-      "change_24h": 3.543970828092645
-    },
-    {
-      "name": "Aster",
-      "symbol": "ASTER",
-      "price": 0.678236,
-      "change_24h": 3.3712398086652153
-    },
-    {
       "name": "Algorand",
       "symbol": "ALGO",
-      "price": 0.111068,
-      "change_24h": 3.348256525594182
+      "price": 0.115018,
+      "change_24h": 8.092196198081126
+    },
+    {
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "price": 0.056124,
+      "change_24h": 7.395704179478564
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price": 289.76,
+      "change_24h": 6.768377698230764
     },
     {
       "name": "Render",
       "symbol": "RENDER",
-      "price": 1.77,
-      "change_24h": 3.230481382384942
+      "price": 1.79,
+      "change_24h": 4.626929108975633
+    },
+    {
+      "name": "Aster",
+      "symbol": "ASTER",
+      "price": 0.679161,
+      "change_24h": 3.9473210459807007
     }
   ],
   "bearish": [
     {
-      "name": "Arbitrum",
-      "symbol": "ARB",
-      "price": 0.118904,
-      "change_24h": -4.114860458442831
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price": 0.00964707,
+      "change_24h": -4.959744716438403
     },
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.082487,
-      "change_24h": -3.658434511906951
+      "price": 0.083259,
+      "change_24h": -3.5710783058045537
     },
     {
-      "name": "Aptos",
-      "symbol": "APT",
-      "price": 0.982096,
-      "change_24h": -3.1892508033767046
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price": 0.118648,
+      "change_24h": -3.025606381171828
     },
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.0076391,
-      "change_24h": -2.6508692184149227
+      "price": 0.00762566,
+      "change_24h": -2.661439301962754
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "price": 0.0097046,
-      "change_24h": -2.4853086396847277
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price": 0.176328,
+      "change_24h": -1.7704498690046648
     }
   ]
 }
