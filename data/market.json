@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-03 12:56 UTC",
+  "updated_at": "2026-05-03 14:09 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78741,
-      "change_24h": 0.7006946626562008
+      "price": 78718,
+      "change_24h": 0.4707754850282837
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2324.92,
-      "change_24h": 0.951895074979681
+      "price": 2324.18,
+      "change_24h": 0.7051788028412276
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 619.0,
-      "change_24h": 0.512182677136818
+      "price": 619.32,
+      "change_24h": 0.35249187716071084
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.1,
-      "change_24h": 0.32591475960406696
+      "price": 84.16,
+      "change_24h": 0.2584138214633874
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.4,
-      "change_24h": 0.7199051542937605
+      "price": 1.39,
+      "change_24h": 0.18843853864810825
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.250198,
-      "change_24h": 0.9996548434120631
+      "price": 0.24984,
+      "change_24h": 0.3919514737857914
     }
   ],
   "bullish": [
     {
       "name": "Algorand",
       "symbol": "ALGO",
-      "price": 0.115254,
-      "change_24h": 7.630544065312997
+      "price": 0.114669,
+      "change_24h": 6.91342752224215
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 400.38,
-      "change_24h": 7.599758733641912
+      "price": 395.51,
+      "change_24h": 5.7586945099251645
+    },
+    {
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "price": 0.03394421,
+      "change_24h": 4.771329053118884
     },
     {
       "name": "World Liberty Financial",
       "symbol": "WLFI",
-      "price": 0.058372,
-      "change_24h": 6.806481878103433
+      "price": 0.056866,
+      "change_24h": 4.497873175753728
     },
     {
       "name": "Render",
       "symbol": "RENDER",
       "price": 1.8,
-      "change_24h": 4.702970614850743
-    },
-    {
-      "name": "Kaspa",
-      "symbol": "KAS",
-      "price": 0.03387549,
-      "change_24h": 4.605699111487573
+      "change_24h": 4.382131902479004
     }
   ],
   "bearish": [
     {
       "name": "Arbitrum",
       "symbol": "ARB",
-      "price": 0.118026,
-      "change_24h": -3.1664521423780236
-    },
-    {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.03311013,
-      "change_24h": -2.793247167096692
-    },
-    {
-      "name": "Rain",
-      "symbol": "RAIN",
-      "price": 0.00755802,
-      "change_24h": -2.5109545228210073
+      "price": 0.117893,
+      "change_24h": -3.9183744560036633
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "price": 0.00983377,
-      "change_24h": -1.2848835948264632
+      "price": 0.00976112,
+      "change_24h": -3.3835636265241007
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "price": 41.11,
-      "change_24h": -1.1547300330666814
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.03316406,
+      "change_24h": -1.8729247388173225
+    },
+    {
+      "name": "Sky",
+      "symbol": "SKY",
+      "price": 0.080308,
+      "change_24h": -1.833306156214318
+    },
+    {
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.00756376,
+      "change_24h": -1.697319993442576
     }
   ]
 }
