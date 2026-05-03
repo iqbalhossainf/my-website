@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-03 17:41 UTC",
+  "updated_at": "2026-05-03 18:50 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78769,
-      "change_24h": 0.44581680223776154
+      "price": 78701,
+      "change_24h": 0.2997785468014064
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2333.44,
-      "change_24h": 1.1872400498680575
+      "price": 2331.0,
+      "change_24h": 0.898312390186848
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 619.56,
-      "change_24h": 0.22115595137591607
+      "price": 619.27,
+      "change_24h": 0.05617160991488652
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.25,
-      "change_24h": 0.2598225430675456
+      "price": 84.23,
+      "change_24h": 0.08973578497148724
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.4,
-      "change_24h": 0.21826171685148618
+      "price": 1.39,
+      "change_24h": 0.09679872078239063
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.251071,
-      "change_24h": 0.5213390234269174
+      "price": 0.250682,
+      "change_24h": 0.21255280521220613
     }
   ],
   "bullish": [
     {
-      "name": "World Liberty Financial",
-      "symbol": "WLFI",
-      "price": 0.058736,
-      "change_24h": 6.395212962161974
-    },
-    {
-      "name": "Algorand",
-      "symbol": "ALGO",
-      "price": 0.114323,
-      "change_24h": 5.5229674288629775
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 0.752832,
+      "change_24h": 8.363010039667774
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 398.4,
-      "change_24h": 5.2258599607101655
+      "price": 405.99,
+      "change_24h": 6.682229225534828
+    },
+    {
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "price": 0.058946,
+      "change_24h": 6.354041996798922
+    },
+    {
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "price": 0.11435,
+      "change_24h": 5.634838083026036
     },
     {
       "name": "Render",
       "symbol": "RENDER",
-      "price": 1.8,
-      "change_24h": 4.485265318995258
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "price": 288.74,
-      "change_24h": 3.6620467111057784
+      "price": 1.82,
+      "change_24h": 4.945907841737704
     }
   ],
   "bearish": [
     {
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.01090393,
+      "change_24h": -4.099896169948731
+    },
+    {
       "name": "Arbitrum",
       "symbol": "ARB",
-      "price": 0.118126,
-      "change_24h": -4.251020838785217
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "price": 0.00971657,
-      "change_24h": -3.228483062834133
-    },
-    {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.03291174,
-      "change_24h": -2.512490767958619
-    },
-    {
-      "name": "Jupiter",
-      "symbol": "JUP",
-      "price": 0.176701,
-      "change_24h": -1.9215809741355763
+      "price": 0.118052,
+      "change_24h": -3.5359712083657784
     },
     {
       "name": "Ethena",
       "symbol": "ENA",
-      "price": 0.101013,
-      "change_24h": -1.8251087361996634
+      "price": 0.100573,
+      "change_24h": -2.3909002555656347
+    },
+    {
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price": 0.174112,
+      "change_24h": -1.915660042360311
+    },
+    {
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price": 2.33,
+      "change_24h": -1.7490291090653551
     }
   ]
 }
